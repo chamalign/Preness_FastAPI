@@ -392,15 +392,6 @@ curl -sS -X POST "$BASE_URL/api/v1/analysis/short/jobs" \
 curl -sS "$BASE_URL/api/v1/analysis/jobs/$JOB_ID" -H "X-Api-Key: $ANALYSIS_API_KEY"
 ```
 
-### 5) 取捨選択（今回見えたエラーの扱い）
-
-- `option -d: error encountered when reading a file`
-  - 原因: curl から参照している JSON ファイルが見つからない（パス/存在確認ミス）
-  - 対処: `--data-binary "@/絶対パス/...json"` に統一
-- `run_analysis_report() got an unexpected keyword argument 'output_root'`
-  - 原因: Celery に残っている古い/不整合なタスク引数により worker が落ちる（API/worker のバージョン不一致や, 以前に投入されたキューの残骸の可能性）
-  - 対処: 本番では **API/worker を同じコードで揃えて再起動し, 新規に analysis を投入し直す**（古いジョブを再処理しない）
-
 ---
 
 ## 詳細仕様
