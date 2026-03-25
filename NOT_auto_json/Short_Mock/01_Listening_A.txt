@@ -1,0 +1,436 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What does the woman mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "I can't believe I owe twenty dollars to the library."
+          },
+          {
+            "speaker": "woman",
+            "text": "Well, you should have renewed those books online before the deadline."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The man is required to pay the fine.",
+      "choice_b": "The books were in fine condition.",
+      "choice_c": "She can pay the twenty dollars for the man.",
+      "choice_d": "The man renewed the books online.",
+      "correct_choice": "A",
+      "explanation": "女性は「期限前にオンラインで更新するべきだった」と述べており、更新しなかった男性は罰金を支払う必要があることを暗示しているため。[cite: 1, 2]",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "\"fine\"という単語の多義性（罰金／素晴らしい）を利用したひっかけ。[cite: 128]",
+      "wrong_reason_c": "女性が代わりに支払うという内容ではないため。[cite: 3]",
+      "wrong_reason_d": "音声内容（更新しなかった）の事実と正反対であるため。[cite: 5]"
+    },
+    {
+      "question_text": "What does the man imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "woman",
+            "text": "We're taking up a collection to buy a gift for our RA. Can you pitch in a few bucks?"
+          },
+          {
+            "speaker": "man",
+            "text": "I'd love to, but I've got a lot on my plate right now with tuition fees."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He loves eating off the new plates.",
+      "choice_b": "He does not have time to buy a gift.",
+      "choice_c": "He will pay his tuition fees later.",
+      "choice_d": "He is currently short on money.",
+      "correct_choice": "D",
+      "explanation": "男性は「I've got a lot on my plate right now with tuition fees（授業料で今は手一杯だ）」と述べており、金銭的な余裕がないことを婉曲に伝えているため。[cite: 53]",
+      "tag": "shortConv",
+      "wrong_reason_a": "\"plate\"という単語を文字通り「皿」として解釈させたひっかけ。[cite: 128]",
+      "wrong_reason_b": "時間がないのではなく、授業料の支払いでお金がないことを理由にしているため。[cite: 3]",
+      "wrong_reason_c": "授業料を後で支払うという発言はしていないため。[cite: 3]",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What does the woman mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "Did Professor Smith say we need to type our essays?"
+          },
+          {
+            "speaker": "woman",
+            "text": "He mentioned that handwritten ones won't be accepted."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The professor has not accepted the essays.",
+      "choice_b": "Students must submit typed assignments.",
+      "choice_c": "The man should write the essay by hand.",
+      "choice_d": "She will type the essay for the man.",
+      "correct_choice": "B",
+      "explanation": "女性が「手書きのものは受け付けられないと言っていた」と述べているため、タイピングされた課題を提出しなければならないことが推測できる。[cite: 2]",
+      "tag": "shortConv",
+      "wrong_reason_a": "教授がまだ受け付けていないという状況の描写ではないため。[cite: 3]",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "教授は手書きを許可していないので事実と反対の選択肢。[cite: 5]",
+      "wrong_reason_d": "女性が代わりにタイピングするという申し出はしていないため。[cite: 3]"
+    },
+    {
+      "question_text": "What does the man suggest the woman do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "woman",
+            "text": "I couldn't find any used copies of the biology textbook at the bookstore."
+          },
+          {
+            "speaker": "man",
+            "text": "They usually sell out pretty fast at the start of the term. You might want to check online."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man suggest the woman do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Sell her old biology textbook fast.",
+      "choice_b": "Start studying for the biology term.",
+      "choice_c": "Check the bookstore again tomorrow.",
+      "choice_d": "Look for the book on the Internet.",
+      "correct_choice": "D",
+      "explanation": "男性は「You might want to check online（ネットで確認してみると良い）」と助言しているため。[cite: 104]",
+      "tag": "shortConv",
+      "wrong_reason_a": "教科書を早く売るようにとは言っていないため。[cite: 3]",
+      "wrong_reason_b": "学期（term）に向けた勉強を始めるよう勧めているわけではないため。[cite: 3]",
+      "wrong_reason_c": "明日もう一度書店を確認するようには言っていないため。[cite: 3]",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What does the woman invite the man to do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 5."
+          },
+          {
+            "speaker": "man",
+            "text": "I'm still confused about the reading we had to do for today's lecture."
+          },
+          {
+            "speaker": "woman",
+            "text": "Why don't you drop by my office tomorrow morning? We can talk it over."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman invite the man to do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Drop his reading assignment at her office.",
+      "choice_b": "Visit her to discuss the material.",
+      "choice_c": "Talk over the phone tomorrow morning.",
+      "choice_d": "Attend tomorrow's lecture with her.",
+      "correct_choice": "B",
+      "explanation": "女性が「明日の朝、私の研究室に立ち寄らない？（drop by my office）」と提案しているため。[cite: 6]",
+      "tag": "shortConv",
+      "wrong_reason_a": "課題を置いていく（drop）という意味ではなく、句動詞\"drop by\"の誤訳を誘うひっかけ。[cite: 6]",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "電話（phone）で話すとは言っていないため。[cite: 3]",
+      "wrong_reason_d": "明日の講義に出席しようという誘いではないため。[cite: 3]"
+    },
+    {
+      "question_text": "What do we learn about the man?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 6."
+          },
+          {
+            "speaker": "woman",
+            "text": "Didn't you already use up your meal plan for the week?"
+          },
+          {
+            "speaker": "man",
+            "text": "Yeah, but they let you pay with a credit card if you run out."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What do we learn about the man?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He is going to pay for his meal with a card.",
+      "choice_b": "He has not used his meal plan yet.",
+      "choice_c": "He plans to buy a new credit card.",
+      "choice_d": "He ran out of the cafeteria quickly.",
+      "correct_choice": "A",
+      "explanation": "男性は「if you run out（プランを使い切ったら）クレジットカードで支払える」と述べており、自分の食事代をカードで払うつもりであることがわかるため。[cite: 6]",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "否定疑問文の「Didn't you already use up...（もう使い切ったんじゃないの？）」に対する「Yeah」の返答から、プランは使い切っていることがわかるため。[cite: 119]",
+      "wrong_reason_c": "新しいカードを買う（buy）という話ではないため。[cite: 3]",
+      "wrong_reason_d": "\"run out\"（使い切る）を「走り出る」と誤解させるひっかけ。[cite: 6]"
+    },
+    {
+      "question_text": "What does the woman imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 7."
+          },
+          {
+            "speaker": "man",
+            "text": "Are you free to play tennis this afternoon? I reserved a court at the campus gym."
+          },
+          {
+            "speaker": "woman",
+            "text": "I'll take a rain check. I'm a bit swamped with my lab report right now."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "She will go to the gym if it rains.",
+      "choice_b": "She has to cancel her court reservation.",
+      "choice_c": "She is too busy to play tennis today.",
+      "choice_d": "She wants to check the weather forecast.",
+      "correct_choice": "C",
+      "explanation": "女性は「I'll take a rain check.（またの機会にするわ）」と「I'm a bit swamped...（レポートで手一杯なの）」と言って、忙しくてテニスができないことを婉曲に断っているため。[cite: 51, 53]",
+      "tag": "shortConv",
+      "wrong_reason_a": "\"take a rain check\"（またの機会にする）というイディオムを「雨」に結びつけたひっかけ。[cite: 51]",
+      "wrong_reason_b": "予約をキャンセルするのは女性ではなく男性（予約した本人）の役割であるため。[cite: 3]",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "\"rain check\"から天気を連想させるひっかけ。[cite: 51]"
+    },
+    {
+      "question_text": "What does the man suggest the woman do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 8."
+          },
+          {
+            "speaker": "woman",
+            "text": "Do you know if I can still drop the introductory physics class?"
+          },
+          {
+            "speaker": "man",
+            "text": "I think the deadline passed on Friday, but you might want to ask at the administration office."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man suggest the woman do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Consult with the administration office.",
+      "choice_b": "Drop the class next Friday.",
+      "choice_c": "Wait for the professor's permission.",
+      "choice_d": "Pass the physics exam on Friday.",
+      "correct_choice": "A",
+      "explanation": "男性は「you might want to ask at the administration office（学生課で聞いた方がいいかもしれない）」と提案しているため。[cite: 87]",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "期限は「前の金曜日」に過ぎている可能性があり、次の金曜日に取り消すようには言っていないため。[cite: 3]",
+      "wrong_reason_c": "教授の許可を待つようには言っていないため。[cite: 3]",
+      "wrong_reason_d": "物理の試験に合格する（pass）という話ではなく、期限が過ぎた（passed）の聞き間違いを狙ったひっかけ。[cite: 128]"
+    },
+    {
+      "question_text": "What does the woman suggest the man do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 9."
+          },
+          {
+            "speaker": "man",
+            "text": "The music coming from the room next door is driving me crazy. I can't concentrate."
+          },
+          {
+            "speaker": "woman",
+            "text": "Have you tried knocking on their door and asking them to keep it down?"
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman suggest the man do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Knock down the door to the next room.",
+      "choice_b": "Ask the neighbors to lower the volume.",
+      "choice_c": "Turn down the invitation to the music party.",
+      "choice_d": "Keep his concentration on the music.",
+      "correct_choice": "B",
+      "explanation": "女性は「asking them to keep it down（音を下げるよう頼む）」ことを提案しているため。[cite: 9]",
+      "tag": "shortConv",
+      "wrong_reason_a": "\"keep it down\"（静かにする）をドアを「壊す（knock down）」と誤解させるひっかけ。[cite: 10]",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "音楽パーティーへの招待を断るという内容ではないため。[cite: 3]",
+      "wrong_reason_d": "音楽に集中するという内容ではなく、音楽のせいで集中できない状況であるため。[cite: 3]"
+    },
+    {
+      "question_text": "What does the man mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 10."
+          },
+          {
+            "speaker": "woman",
+            "text": "Could you look over my presentation slides before I submit them?"
+          },
+          {
+            "speaker": "man",
+            "text": "I'd be glad to, but I have a class in ten minutes. Can I check them tonight?"
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He forgot to bring his presentation slides.",
+      "choice_b": "He does not want to help the woman.",
+      "choice_c": "He is unable to review the slides immediately.",
+      "choice_d": "He wants the woman to look at his slides.",
+      "correct_choice": "C",
+      "explanation": "男性は「I have a class in ten minutes. Can I check them tonight?（10分後に授業がある。今夜確認してもいい？）」と言い、今すぐには対応できないことを示しているため。[cite: 54]",
+      "tag": "shortConv",
+      "wrong_reason_a": "スライドを忘れたという事実はないため。[cite: 3]",
+      "wrong_reason_b": "喜んで引き受ける（I'd be glad to）と前置きしているため、手伝いたくないわけではない。[cite: 44]",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "男性のスライドを見てもらうという状況ではないため。[cite: 3]"
+    },
+    {
+      "question_text": "What will the man probably do next?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 11."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, but the printer on the second floor seems to be out of paper."
+          },
+          {
+            "speaker": "woman",
+            "text": "The one on the third floor should be working fine. I just loaded it this morning."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What will the man probably do next?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Buy some paper on the second floor.",
+      "choice_b": "Ask the woman to print his document.",
+      "choice_c": "Load paper into the broken printer.",
+      "choice_d": "Go upstairs to use a different printer.",
+      "correct_choice": "D",
+      "explanation": "男性が2階のプリンターの紙切れを指摘したのに対し、女性が「3階のものは動いているはず」と伝えたため、男性は別の階のプリンターを使いに行く可能性が高い。[cite: 2]",
+      "tag": "shortConv",
+      "wrong_reason_a": "紙を買う（buy）とは言っていないため。[cite: 3]",
+      "wrong_reason_b": "女性に印刷を頼んでいるわけではないため。[cite: 3]",
+      "wrong_reason_c": "自分で紙を補充するとは言っていないため。[cite: 3]",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What does the man mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 12."
+          },
+          {
+            "speaker": "woman",
+            "text": "We still have an hour before the study group meets at the library."
+          },
+          {
+            "speaker": "man",
+            "text": "Let's stop by the cafe and grab some coffee to kill time."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He needs to kill the bugs at the library.",
+      "choice_b": "He wants to spend their free time at the cafe.",
+      "choice_c": "He will stop the study group from meeting.",
+      "choice_d": "He doesn't have time to drink coffee.",
+      "correct_choice": "B",
+      "explanation": "男性は「カフェに立ち寄ってコーヒーを飲みながら時間を潰そう（kill time）」と提案しているため。[cite: 7]",
+      "tag": "shortConv",
+      "wrong_reason_a": "\"kill time\"（時間を潰す）を文字通り虫を殺すと誤訳させるひっかけ。[cite: 7]",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "勉強会を止めるわけではなく、その前までの時間を潰すという話であるため。[cite: 3]",
+      "wrong_reason_d": "時間がないのではなく、1時間余っている状況であるため。[cite: 3]"
+    }
+  ]
+}

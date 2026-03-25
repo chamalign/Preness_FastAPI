@@ -1,0 +1,149 @@
+﻿{
+"passages": [
+{
+"passage": "The emergence of the Hanseatic merchants within the Baltic and North Sea regions during the late Middle Ages represents a significant shift in European economic organization. Rather than a formal political state, this network functioned primarily as a loose confederation of market towns. Historians generally postulate that this alliance was not merely a commercial enterprise but arguably served as a mechanism for standardizing regional trade protocols. However, the precise variables precipitating its formation remain debated.\n\nBy the early fourteenth century, the confederation had established extensive operational bases known as Kontore in key foreign settlements, such as Bruges and London. This physical expansion was reportedly facilitated by the widespread utilization of the cog, a robust maritime vessel specifically designed to maximize payload capacity. As interregional commerce intensified, the merchants implemented rigorous legal frameworks to govern commodity exchanges. Concurrently, these restrictive codes were not universally applied; rather, they were selectively enforced to preserve exclusive trading privileges. The administration of these regulations within the Kontore suggests a highly stratified economic environment where external competitors were systematically disadvantaged.\n\nThe regional dominance of the Hanseatic League is perhaps most clearly exemplified by its near-monopoly over essential raw materials. Archival ledgers and archaeological evidence consistently indicate that the organization systematically controlled the distribution of critical European commodities. Their primary exports reliably included Baltic timber, Scandinavian salted herring, and Russian beeswax. The strategic consolidation of these specific resources implies that the confederation acted not simply as a passive facilitator of exchange but as an active driver of economic interdependency. Furthermore, their demonstrated capacity to impose coordinated embargoes arguably underscored their substantial leverage over emerging political entities.\n\nDespite their unprecedented mercantile achievements, the Hanseatic merchants experienced a gradual decline by the late sixteenth century. Economic analyses indicate that the consolidation of centralized nation-states inherently undermined the confederation's decentralized operational model. Alongside shifting geopolitical realities, the exploration of transatlantic maritime routes likely diminished the strategic relevance of the Baltic network. While the formal institutional structure was ultimately dismantled, the commercial precedents it established persisted, suggesting that the confederation provided a template for subsequent international commerce.",
+"questions": [
+{
+"question_text": "What does the passage mainly discuss?",
+"choice_a": "The political strategies used by centralized nation-states to control the Baltic region.",
+"choice_b": "The organizational development, economic influence, and subsequent decline of a regional mercantile network.",
+"choice_c": "The religious and cultural differences between Hanseatic merchants and external competitors.",
+"choice_d": "The specific construction techniques used to build robust maritime vessels during the Middle Ages.",
+"correct_choice": "B",
+"explanation": "正解はB。本文全体を通して、ハンザ同盟（Hanseatic merchants）の組織的な発展、経済的な支配力（Kontoreや交易の独占）、そして最終的な衰退について客観的に論じているため。",
+"tag": "mainIdea",
+"wrong_reason_a": "中央集権的な国民国家は衰退の一因（第4段落）として触れられているのみであり、文章全体の主題ではないため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "宗教的・文化的な違いについての言及は本文中に一切存在しないため。",
+"wrong_reason_d": "船（cog）の構造は第2段落における物理的拡張の一要因として触れられているに過ぎず、全体を要約する内容ではないため。"
+},
+{
+"question_text": "The word "precipitating" in line 7 is closest in meaning to ...",
+"choice_a": "evaluating",
+"choice_b": "triggering",
+"choice_c": "disguising",
+"choice_d": "preventing",
+"correct_choice": "B",
+"explanation": "正解はB。第1段落末尾（line 7相当）の「precipitating」は「引き起こす、促進する」という意味であり、同盟の形成を促した要因（variables）を議論する文脈において、「triggering」が最も適切であるため。",
+"tag": "vocab",
+"wrong_reason_a": "「評価する」という意味であり、事象の形成要因を説明する文脈には合致しないため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "「偽装する」という意味であり、歴史的要因を隠すという記述は存在しないため。",
+"wrong_reason_d": "「防ぐ」という意味であり、形成を促した要因を議論する文脈と正反対になるため。"
+},
+{
+"question_text": "According to paragraph 2, what facilitated the physical expansion of Hanseatic operational bases?",
+"choice_a": "The extensive use of a specific maritime vessel designed for large cargoes.",
+"choice_b": "The immediate elimination of all rigorous legal frameworks in foreign settlements.",
+"choice_c": "The financial support provided directly by emerging political entities.",
+"choice_d": "The universal application of trading privileges to external competitors.",
+"correct_choice": "A",
+"explanation": "正解はA。第2段落第2文に「This physical expansion was reportedly facilitated by the widespread utilization of the cog, a robust maritime vessel specifically designed to maximize payload capacity（この物理的拡張は、積載量を最大化するよう設計された頑丈な船であるcogの普及により促進された）」と明示されているため。",
+"tag": "fact",
+"wrong_reason_a": null,
+"wrong_reason_b": "法体系（legal frameworks）は排除されたのではなく、むしろ厳格に導入されたと記載されているため誤り。",
+"wrong_reason_c": "政治的実体からの直接的な資金援助についての記述は本文に含まれていないため。",
+"wrong_reason_d": "第2段落に「外部の競争者は組織的に不利益を被った」とあり、特権が普遍的に適用されたとする記述は矛盾するため。"
+},
+{
+"question_text": "The word "they" in line 16 refers to ...",
+"choice_a": "commodity exchanges",
+"choice_b": "operational bases",
+"choice_c": "restrictive codes",
+"choice_d": "external competitors",
+"correct_choice": "C",
+"explanation": "正解はC。第2段落第4文（line 16相当）の「they」は直前の節の主語である「these restrictive codes（これらの制限的な規範）」を指しており、「排他的な特権を守るために選択的に執行された（selectively enforced）」という文脈に論理的に完全に一致するため。",
+"tag": "usage",
+"wrong_reason_a": "商品取引（commodity exchanges）が自らを選択的に執行するとは文脈上成り立たないため。",
+"wrong_reason_b": "活動拠点（operational bases）は前方に存在する名詞だが、「執行される」対象としては不適切であるため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "外部の競争者（external competitors）は制限的なルールの対象であり、特権を守るために執行される主体や内容ではないため。"
+},
+{
+"question_text": "It can be inferred from the passage that external competitors in the Kontore ...",
+"choice_a": "were systematically granted equal trading privileges by the Hanseatic merchants.",
+"choice_b": "faced significant regulatory disadvantages that limited their ability to trade freely.",
+"choice_c": "typically utilized larger maritime vessels than the Hanseatic merchants did.",
+"choice_d": "successfully dismantled the decentralized operational model of the confederation.",
+"correct_choice": "B",
+"explanation": "正解はB。第2段落最終文で「外部の競争者が組織的に不利益を被る（systematically disadvantaged）高度に階層化された経済環境が示唆される」と述べられているため、彼らが規制上の大きな不利益（regulatory disadvantages）に直面していたと論理的に推論できるため。",
+"tag": "inference",
+"wrong_reason_a": "平等な取引特権を与えられていたという記述は、「不利益を被っていた」という本文の事実と完全に矛盾するため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "外部の競争者がより大きな船を使用していたという比較は本文中に存在しないため。",
+"wrong_reason_d": "同盟のモデルを解体したのは中央集権的な国民国家の台頭（第4段落）であり、外部の競争者ではないため。"
+},
+{
+"question_text": "All of the following are mentioned in the passage as primary exports of the Hanseatic merchants EXCEPT ...",
+"choice_a": "Baltic timber",
+"choice_b": "Scandinavian salted herring",
+"choice_c": "Russian beeswax",
+"choice_d": "Mediterranean agricultural tools",
+"correct_choice": "D",
+"explanation": "正解はD。第3段落第3文において、主要な輸出品として「Baltic timber（バルト海の木材）」「Scandinavian salted herring（スカンディナビアの塩漬けニシン）」「Russian beeswax（ロシアの蜜蝋）」の3点が列挙されているが、「Mediterranean agricultural tools（地中海の農具）」については言及がないため。",
+"tag": "not",
+"wrong_reason_a": "第3段落第3文に明確に記述されているため誤答。",
+"wrong_reason_b": "第3段落第3文に明確に記述されているため誤答。",
+"wrong_reason_c": "第3段落第3文に明確に記述されているため誤答。",
+"wrong_reason_d": null
+},
+{
+"question_text": "The word "consolidation" in line 24 is closest in meaning to ...",
+"choice_a": "centralization",
+"choice_b": "consumption",
+"choice_c": "replacement",
+"choice_d": "elimination",
+"correct_choice": "A",
+"explanation": "正解はA。第3段落第4文（line 24相当）の「consolidation」は「統合、強化、集中」を意味し、特定の資源を戦略的に集約して支配力を高めた文脈であるため、「centralization（集中化）」が最も文脈に適合するため。",
+"tag": "vocab",
+"wrong_reason_a": null,
+"wrong_reason_b": "「消費」という意味であり、資源の支配と流通の文脈に合致しないため。",
+"wrong_reason_c": "「置き換え」という意味であり、資源を独占して集約する文脈とは異なるため。",
+"wrong_reason_d": "「排除」という意味であり、資源を確保したとする記述とは正反対の意味になるため。"
+},
+{
+"question_text": "According to the passage, how did the Hanseatic merchants demonstrate their leverage over emerging political entities?",
+"choice_a": "By forming military alliances with external competitors.",
+"choice_b": "By imposing coordinated economic embargoes against them.",
+"choice_c": "By explicitly exploring transatlantic maritime routes.",
+"choice_d": "By providing universal financial support to foreign settlements.",
+"correct_choice": "B",
+"explanation": "正解はB。第3段落の最終文に「their demonstrated capacity to impose coordinated embargoes arguably underscored their substantial leverage over emerging political entities（協調的な禁輸措置を課す能力が、政治的実体に対する彼らの実質的な影響力を裏付けていた）」と明示されているため。",
+"tag": "fact",
+"wrong_reason_a": "外部の競争者との軍事同盟を形成したという記述は本文に含まれていないため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "大西洋航路の探検は第4段落において同盟の重要性を低下させた要因として言及されており、影響力を示す方法ではないため。",
+"wrong_reason_d": "外国の入植地に対して普遍的な財政支援を行ったという事実は記述されていないため。"
+},
+{
+"question_text": "The word "dismantled" in line 33 is closest in meaning to ...",
+"choice_a": "relocated",
+"choice_b": "dissolved",
+"choice_c": "expanded",
+"choice_d": "praised",
+"correct_choice": "B",
+"explanation": "正解はB。第4段落第4文（line 33相当）の「dismantled」は「解体された、撤廃された」という意味であり、公式な組織構造が最終的に消滅した文脈であるため、「dissolved（解散した、消滅した）」が最も文脈に近い。",
+"tag": "vocab",
+"wrong_reason_a": "「移転された」という意味であり、組織が解体されたという歴史的衰退の文脈に合致しないため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "「拡大した」という意味であり、衰退を論じている文脈と正反対になるため。",
+"wrong_reason_d": "「称賛された」という意味であり、客観的な組織の終焉を示す文脈にはそぐわないため。"
+},
+{
+"question_text": "The passage suggests that the commercial precedents set by the Hanseatic merchants ...",
+"choice_a": "were completely forgotten immediately after the late sixteenth century.",
+"choice_b": "hindered the overall development of centralized nation-states in Europe.",
+"choice_c": "served as a foundational framework for later international trade systems.",
+"choice_d": "were primarily focused on restricting the exchange of essential raw materials forever.",
+"correct_choice": "C",
+"explanation": "正解はC。第4段落最終文で「the commercial precedents it established persisted, suggesting that the confederation provided a template for subsequent international commerce（確立された商業の先例は存続し、その後の国際商業の雛形を提供したことを示唆している）」と述べられているため、後の貿易システムへの基盤として機能したと推論できるため。",
+"tag": "inference",
+"wrong_reason_a": "先例は存続した（persisted）と明記されており、完全に忘れ去られたという記述は矛盾するため。",
+"wrong_reason_b": "国民国家の発展を妨げたのではなく、国民国家の統合が同盟のモデルを弱体化させた（undermined）ため、因果関係が逆であるため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "原材料の取引を永久に制限することに焦点を当てていたという極端な記述は、本文の抑制された表現（weak inference）から逸脱しているため。"
+}
+]
+}
+]
+}

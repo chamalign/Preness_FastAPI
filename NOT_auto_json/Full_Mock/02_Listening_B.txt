@@ -1,0 +1,584 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What are the speakers mainly discussing?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi, Mrs. Higgins. Could we talk about changing my major? I'm in business now, but I've been doing graphic design on the side, and I really want to switch."
+          },
+          {
+            "speaker": "woman",
+            "text": "That's a significant shift. You're a sophomore, correct? You've finished most general education classes."
+          },
+          {
+            "speaker": "man",
+            "text": "Yeah. But the thing is, looking at the degree audit, it seems like I'd be starting from scratch with the studio classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Well, intro studio courses are strictly sequenced. They require Foundation Art before you can touch the digital design seminars."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable. My friend switched to marketing last year without losing credits. Is it going to take an extra year to graduate?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not necessarily. Actually, the art department occasionally allows a portfolio review to bypass the foundation class. If you've been designing, you might have enough pieces."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I have a website of layouts I did for campus clubs. Would that count?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It might. The review is handled by Professor Vance. But remember, his office hours are quite limited right now."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Do I need to fill out a formal petition first, or just show up?"
+          },
+          {
+            "speaker": "woman",
+            "text": "You should email him a link to your website, asking if it's strong enough to warrant a formal review. If he agrees, we do the paperwork."
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll polish up my site tonight and send it over."
+          },
+          {
+            "speaker": "woman",
+            "text": "Let me know his response. We can map out your fall schedule once we know if you're exempt."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What are the speakers mainly discussing?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The requirements for a business degree.",
+      "choice_b": "The process of changing an academic major.",
+      "choice_c": "How to create a professional design portfolio.",
+      "choice_d": "The difficulty of passing a studio art class.",
+      "correct_choice": "B",
+      "explanation": "正解の理由：学生はビジネス専攻からグラフィックデザイン専攻への変更について相談しており、それに伴う単位やスケジュールの調整方法が主な話題となっているため。",
+      "tag": "longConv",
+      "wrong_reason_a": "ビジネス学位の要件自体が主題ではありません。学生はビジネスから別の専攻に移ろうとしています。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "デザインポートフォリオを作成する方法を話し合っているわけではなく、彼がすでに持っている既存の作品が審査に使えるかどうかが議論されています。",
+      "wrong_reason_d": "スタジオアートの授業に合格する難しさが主題ではありません。単位の互換性について話しています。"
+    },
+    {
+      "question_text": "Why is the student concerned about his graduation timeline?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi, Mrs. Higgins. Could we talk about changing my major? I'm in business now, but I've been doing graphic design on the side, and I really want to switch."
+          },
+          {
+            "speaker": "woman",
+            "text": "That's a significant shift. You're a sophomore, correct? You've finished most general education classes."
+          },
+          {
+            "speaker": "man",
+            "text": "Yeah. But the thing is, looking at the degree audit, it seems like I'd be starting from scratch with the studio classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Well, intro studio courses are strictly sequenced. They require Foundation Art before you can touch the digital design seminars."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable. My friend switched to marketing last year without losing credits. Is it going to take an extra year to graduate?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not necessarily. Actually, the art department occasionally allows a portfolio review to bypass the foundation class. If you've been designing, you might have enough pieces."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I have a website of layouts I did for campus clubs. Would that count?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It might. The review is handled by Professor Vance. But remember, his office hours are quite limited right now."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Do I need to fill out a formal petition first, or just show up?"
+          },
+          {
+            "speaker": "woman",
+            "text": "You should email him a link to your website, asking if it's strong enough to warrant a formal review. If he agrees, we do the paperwork."
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll polish up my site tonight and send it over."
+          },
+          {
+            "speaker": "woman",
+            "text": "Let me know his response. We can map out your fall schedule once we know if you're exempt."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why is the student concerned about his graduation timeline?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He failed his business classes last semester.",
+      "choice_b": "He needs to retake a general education requirement.",
+      "choice_c": "The introductory studio classes must be taken in a specific order.",
+      "choice_d": "The marketing department does not accept transfer credits.",
+      "correct_choice": "C",
+      "explanation": "正解の理由：アドバイザーが「入門スタジオコースは厳密に順序立てられている（strictly sequenced）」と述べており、基礎クラスから順番にやり直さなければならないと予想したため、卒業が遅れることを心配しています。",
+      "tag": "longConv",
+      "wrong_reason_a": "彼がビジネスの授業で落第したという言及はありません。",
+      "wrong_reason_b": "一般教養（general education）の授業はほとんど終わらせていると確認されています。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "マーケティング学部が移行単位を認めるかどうかではなく、彼自身のアート系専攻への変更による単位ロスが問題となっています。"
+    },
+    {
+      "question_text": "What does the woman say about the portfolio review?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi, Mrs. Higgins. Could we talk about changing my major? I'm in business now, but I've been doing graphic design on the side, and I really want to switch."
+          },
+          {
+            "speaker": "woman",
+            "text": "That's a significant shift. You're a sophomore, correct? You've finished most general education classes."
+          },
+          {
+            "speaker": "man",
+            "text": "Yeah. But the thing is, looking at the degree audit, it seems like I'd be starting from scratch with the studio classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Well, intro studio courses are strictly sequenced. They require Foundation Art before you can touch the digital design seminars."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable. My friend switched to marketing last year without losing credits. Is it going to take an extra year to graduate?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not necessarily. Actually, the art department occasionally allows a portfolio review to bypass the foundation class. If you've been designing, you might have enough pieces."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I have a website of layouts I did for campus clubs. Would that count?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It might. The review is handled by Professor Vance. But remember, his office hours are quite limited right now."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Do I need to fill out a formal petition first, or just show up?"
+          },
+          {
+            "speaker": "woman",
+            "text": "You should email him a link to your website, asking if it's strong enough to warrant a formal review. If he agrees, we do the paperwork."
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll polish up my site tonight and send it over."
+          },
+          {
+            "speaker": "woman",
+            "text": "Let me know his response. We can map out your fall schedule once we know if you're exempt."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman say about the portfolio review?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "It is required for all students transferring to marketing.",
+      "choice_b": "It usually takes several weeks to process the paperwork.",
+      "choice_c": "It must be completed before the end of the sophomore year.",
+      "choice_d": "It could allow the student to skip a foundation course.",
+      "correct_choice": "D",
+      "explanation": "正解の理由：アドバイザーが、ポートフォリオ審査によって「基礎クラスを免除できる（bypass the foundation class）」場合があると説明しているため。",
+      "tag": "longConv",
+      "wrong_reason_a": "マーケティング専攻の学生に義務付けられているわけではありません。彼の友人がマーケティングに移った話が出ただけです。",
+      "wrong_reason_b": "手続きや書類処理に数週間かかるという時間は述べられていません。",
+      "wrong_reason_c": "2年生の終わりまでに完了しなければならないという期限への言及はありません。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What will the student most likely do tonight?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi, Mrs. Higgins. Could we talk about changing my major? I'm in business now, but I've been doing graphic design on the side, and I really want to switch."
+          },
+          {
+            "speaker": "woman",
+            "text": "That's a significant shift. You're a sophomore, correct? You've finished most general education classes."
+          },
+          {
+            "speaker": "man",
+            "text": "Yeah. But the thing is, looking at the degree audit, it seems like I'd be starting from scratch with the studio classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Well, intro studio courses are strictly sequenced. They require Foundation Art before you can touch the digital design seminars."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable. My friend switched to marketing last year without losing credits. Is it going to take an extra year to graduate?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not necessarily. Actually, the art department occasionally allows a portfolio review to bypass the foundation class. If you've been designing, you might have enough pieces."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I have a website of layouts I did for campus clubs. Would that count?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It might. The review is handled by Professor Vance. But remember, his office hours are quite limited right now."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Do I need to fill out a formal petition first, or just show up?"
+          },
+          {
+            "speaker": "woman",
+            "text": "You should email him a link to your website, asking if it's strong enough to warrant a formal review. If he agrees, we do the paperwork."
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll polish up my site tonight and send it over."
+          },
+          {
+            "speaker": "woman",
+            "text": "Let me know his response. We can map out your fall schedule once we know if you're exempt."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What will the student most likely do tonight?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Update his website to show his design work to a professor.",
+      "choice_b": "Fill out a formal petition to change his major.",
+      "choice_c": "Register for the Foundation Art course online.",
+      "choice_d": "Ask his friend about the marketing degree audit.",
+      "correct_choice": "A",
+      "explanation": "正解の理由：学生自身が会話の最後で「今夜サイトを磨き上げて（Vance教授に）送る（polish up my site tonight and send it over）」と約束しているため。",
+      "tag": "longConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "正式な申請書（petition）を記入するのは、教授が作品をチェックし、正式な審査に同意した後のことです。",
+      "wrong_reason_c": "基礎アートクラスにオンラインで登録するのではなく、それを免除してもらうための行動をとります。",
+      "wrong_reason_d": "マーケティング専攻の友人に相談するとは言っていません。"
+    },
+    {
+      "question_text": "What is the woman's main problem?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 5."
+          },
+          {
+            "speaker": "woman",
+            "text": "Excuse me, I'm trying to use the microfilm viewer on the second floor, but the screen won't turn on. Am I doing something wrong?"
+          },
+          {
+            "speaker": "man",
+            "text": "Let me check the log. Ah, actually, that machine is down for maintenance. We’re waiting on a replacement part from the manufacturer."
+          },
+          {
+            "speaker": "woman", "text": "Unbelievable. I have a history paper due soon, and my professor said the primary sources I need are only on those specific rolls."
+          },
+          {
+            "speaker": "man",
+            "text": "Right, the local newspaper archives. The thing is, many of those older rolls haven't been digitized yet. How far back does your research go?"
+          },
+          {
+            "speaker": "woman", "text": "I'm looking at city council meetings from the early nineteen twenties. I really need the editorial columns from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... the historical society downtown has physical copies of most local papers. But remember, you can't check them out."
+          },
+          {
+            "speaker": "woman",
+            "text": "Wait... so I'd have to read everything over there? Do they have restricted hours?"
+          },
+          {
+            "speaker": "man", "text": "They do. Fortunately, our library has an agreement with them, so we might be able to request digital scans of specific pages."
+          },
+          {
+            "speaker": "woman",
+            "text": "But I don't know the exact dates. I need to browse through a few months' worth of issues to find the articles."
+          },
+          {
+            "speaker": "man",
+            "text": "I see. In that case, visiting the historical society is your best bet for browsing. You should call them to confirm their archive hours."
+          },
+          {
+            "speaker": "woman",
+            "text": "Good idea. I'll look up their number right now and see if I can head over there today."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the woman's main problem?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "She cannot find the history department's office.",
+      "choice_b": "She lost her physical copies of a local newspaper.",
+      "choice_c": "A piece of library equipment she needs is broken.",
+      "choice_d": "A digital scanner is destroying her microfilm rolls.",
+      "correct_choice": "C",
+      "explanation": "正解の理由：女性が使用しようとしている2階のマイクロフィルムリーダー（microfilm viewer）がメンテナンス中で故障しており、必要な資料が閲覧できないという状況が話し合われているため。",
+      "tag": "longConv",
+      "wrong_reason_a": "歴史学部のオフィスが見つからないわけではありません。図書館内で機器の不具合について相談しています。",
+      "wrong_reason_b": "地元新聞の物理的なコピーを紛失したのではなく、探している資料がまだデジタル化されていない古いマイクロフィルムであるためです。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "デジタルスキャナーがフィルムを破壊しているという事実はありません。交換部品を待っている状態です。"
+    },
+    {
+      "question_text": "Why does the man suggest the historical society?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 6."
+          },
+          {
+            "speaker": "woman",
+            "text": "Excuse me, I'm trying to use the microfilm viewer on the second floor, but the screen won't turn on. Am I doing something wrong?"
+          },
+          {
+            "speaker": "man",
+            "text": "Let me check the log. Ah, actually, that machine is down for maintenance. We’re waiting on a replacement part from the manufacturer."
+          },
+          {
+            "speaker": "woman", "text": "Unbelievable. I have a history paper due soon, and my professor said the primary sources I need are only on those specific rolls."
+          },
+          {
+            "speaker": "man",
+            "text": "Right, the local newspaper archives. The thing is, many of those older rolls haven't been digitized yet. How far back does your research go?"
+          },
+          {
+            "speaker": "woman", "text": "I'm looking at city council meetings from the early nineteen twenties. I really need the editorial columns from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... the historical society downtown has physical copies of most local papers. But remember, you can't check them out."
+          },
+          {
+            "speaker": "woman",
+            "text": "Wait... so I'd have to read everything over there? Do they have restricted hours?"
+          },
+          {
+            "speaker": "man", "text": "They do. Fortunately, our library has an agreement with them, so we might be able to request digital scans of specific pages."
+          },
+          {
+            "speaker": "woman",
+            "text": "But I don't know the exact dates. I need to browse through a few months' worth of issues to find the articles."
+          },
+          {
+            "speaker": "man",
+            "text": "I see. In that case, visiting the historical society is your best bet for browsing. You should call them to confirm their archive hours."
+          },
+          {
+            "speaker": "woman",
+            "text": "Good idea. I'll look up their number right now and see if I can head over there today."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why does the man suggest the historical society?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "They recently digitized all of their archival records.",
+      "choice_b": "They possess the original print versions of the materials.",
+      "choice_c": "They have a microfilm viewer that is currently working.",
+      "choice_d": "They offer an open reading room without restricted hours.",
+      "correct_choice": "B",
+      "explanation": "正解の理由：男性は図書館のマイクロフィルムが使えない代案として、歴史協会には「地方紙のほとんどの物理的コピー（physical copies）がある」と説明し、そこに行けば直接紙面を読めるため提案しています。",
+      "tag": "longConv",
+      "wrong_reason_a": "記録がすべてデジタル化されたからではなく、逆にデジタル化されていない資料を物理的に見るためです。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "歴史協会のマイクロフィルムリーダーが機能しているからではなく、紙のコピーがあるからです。",
+      "wrong_reason_d": "閲覧時間が無制限で自由に利用できるわけではなく、「制限された時間（restricted hours）」があると述べています。"
+    },
+    {
+      "question_text": "Why does the woman decide against requesting digital scans?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 7."
+          },
+          {
+            "speaker": "woman",
+            "text": "Excuse me, I'm trying to use the microfilm viewer on the second floor, but the screen won't turn on. Am I doing something wrong?"
+          },
+          {
+            "speaker": "man",
+            "text": "Let me check the log. Ah, actually, that machine is down for maintenance. We’re waiting on a replacement part from the manufacturer."
+          },
+          {
+            "speaker": "woman", "text": "Unbelievable. I have a history paper due soon, and my professor said the primary sources I need are only on those specific rolls."
+          },
+          {
+            "speaker": "man",
+            "text": "Right, the local newspaper archives. The thing is, many of those older rolls haven't been digitized yet. How far back does your research go?"
+          },
+          {
+            "speaker": "woman", "text": "I'm looking at city council meetings from the early nineteen twenties. I really need the editorial columns from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... the historical society downtown has physical copies of most local papers. But remember, you can't check them out."
+          },
+          {
+            "speaker": "woman",
+            "text": "Wait... so I'd have to read everything over there? Do they have restricted hours?"
+          },
+          {
+            "speaker": "man", "text": "They do. Fortunately, our library has an agreement with them, so we might be able to request digital scans of specific pages."
+          },
+          {
+            "speaker": "woman",
+            "text": "But I don't know the exact dates. I need to browse through a few months' worth of issues to find the articles."
+          },
+          {
+            "speaker": "man",
+            "text": "I see. In that case, visiting the historical society is your best bet for browsing. You should call them to confirm their archive hours."
+          },
+          {
+            "speaker": "woman",
+            "text": "Good idea. I'll look up their number right now and see if I can head over there today."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why does the woman decide against requesting digital scans?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "She has not identified the specific dates of the articles she needs.",
+      "choice_b": "The library charges a high fee for the interlibrary loan service.",
+      "choice_c": "The historical society's scanner produces poor quality images.",
+      "choice_d": "She prefers to read the editorial columns on microfilm.",
+      "correct_choice": "A",
+      "explanation": "正解の理由：デジタルスキャンを依頼するという提案に対して、女性は「正確な日付がわからない（I don't know the exact dates）」ため、直接行って数ヶ月分をざっと閲覧しなければならないと述べています。",
+      "tag": "longConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "図書館間相互貸借（interlibrary loan）サービスが高額な手数料を取るという言及はありません。",
+      "wrong_reason_c": "歴史協会のスキャナーの画質が悪いとは言われていません。",
+      "wrong_reason_d": "マイクロフィルムで読むことを特に好んでいるわけではなく、内容を探すために広範に閲覧する必要があるからです。"
+    },
+    {
+      "question_text": "What will the woman most likely do next?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 8."
+          },
+          {
+            "speaker": "woman",
+            "text": "Excuse me, I'm trying to use the microfilm viewer on the second floor, but the screen won't turn on. Am I doing something wrong?"
+          },
+          {
+            "speaker": "man",
+            "text": "Let me check the log. Ah, actually, that machine is down for maintenance. We’re waiting on a replacement part from the manufacturer."
+          },
+          {
+            "speaker": "woman", "text": "Unbelievable. I have a history paper due soon, and my professor said the primary sources I need are only on those specific rolls."
+          },
+          {
+            "speaker": "man",
+            "text": "Right, the local newspaper archives. The thing is, many of those older rolls haven't been digitized yet. How far back does your research go?"
+          },
+          {
+            "speaker": "woman", "text": "I'm looking at city council meetings from the early nineteen twenties. I really need the editorial columns from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... the historical society downtown has physical copies of most local papers. But remember, you can't check them out."
+          },
+          {
+            "speaker": "woman",
+            "text": "Wait... so I'd have to read everything over there? Do they have restricted hours?"
+          },
+          {
+            "speaker": "man", "text": "They do. Fortunately, our library has an agreement with them, so we might be able to request digital scans of specific pages."
+          },
+          {
+            "speaker": "woman",
+            "text": "But I don't know the exact dates. I need to browse through a few months' worth of issues to find the articles."
+          },
+          {
+            "speaker": "man",
+            "text": "I see. In that case, visiting the historical society is your best bet for browsing. You should call them to confirm their archive hours."
+          },
+          {
+            "speaker": "woman",
+            "text": "Good idea. I'll look up their number right now and see if I can head over there today."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What will the woman most likely do next?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Wait for the library machine to be repaired.",
+      "choice_b": "Request a digital scan from the interlibrary loan office.",
+      "choice_c": "Ask her professor to extend the paper's deadline.",
+      "choice_d": "Call a local organization to check their operating hours.",
+      "correct_choice": "D",
+      "explanation": "正解の理由：男性が「彼ら（歴史協会）に電話してアーカイブの時間を確​​認すべきだ」と勧め、女性が「今すぐ電話番号を調べてみる」と同意しているため、地元組織に連絡することが次の行動です。",
+      "tag": "longConv",
+      "wrong_reason_a": "図書館の機械の修理を待つのではなく、代わりの手段として歴史協会に行くことを検討しています。",
+      "wrong_reason_b": "日付がわからないため、デジタルスキャンの要求は今のところ見送っています。",
+      "wrong_reason_c": "教授に論文の締め切り延長を頼むという話は会話中に出ていません。",
+      "wrong_reason_d": null
+    }
+  ]
+}

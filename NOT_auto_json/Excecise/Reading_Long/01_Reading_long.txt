@@ -1,0 +1,149 @@
+﻿{
+"passages": [
+{
+"passage": "The architectural evolution of the Ancestral Puebloans in the American Southwest represents a significant development in pre-Columbian history. Emerging primarily in the region surrounding Chaco Canyon, this society transitioned from nomadic hunting to settled agriculture. Researchers generally postulate that their increasingly complex structural designs were not merely functional responses to environmental constraints but were arguably intertwined with emerging social stratification. However, the exact mechanisms driving these changes remain a subject of ongoing investigation.\n\nBy approximately 900 CE, a notable shift occurred as populations moved from subterranean pithouses to above-ground masonry dwellings known as pueblos. This transition was reportedly facilitated by agricultural intensification, which necessitated secure storage facilities for surplus crops. As communities expanded, the architectural focus shifted toward contiguous room blocks that fostered communal living. Concurrently, the original pithouse design was not entirely abandoned; rather, it evolved into kivas. These circular, subterranean chambers were systematically utilized for ceremonial purposes and community gatherings. The dissemination of this architectural duality suggests a highly structured society where domestic and ritualistic spaces were carefully delineated.\n\nThe pinnacle of this architectural progression is exemplified by the Great Houses of Chaco Canyon, which flourished during the eleventh century. These monumental structures, some containing hundreds of rooms, were characterized by multi-story construction, core-and-veneer masonry, and precise astronomical alignments. Excavations at these sites have revealed extensive regional trade networks. Artifacts recovered from Great House middens consistently include turquoise ornaments, marine shells from the Pacific coast, and macaw feathers imported from Mesoamerica. The presence of these specific exotic goods indicates that Chaco Canyon functioned not only as an administrative hub but also as a pivotal center for economic exchange.\n\nDespite their remarkable achievements, the Great Houses were largely depopulated by the late thirteenth century. Environmental data indicates that prolonged regional droughts severely disrupted the agricultural foundation of the society. In addition to climatic shifts, localized resource depletion and internal social fragmentation likely contributed to the gradual dispersal of the population. While the monumental structures were ultimately superseded by smaller settlements, the descendants preserved core cultural elements, implying that the abandonment was a strategic adaptation.",
+"questions": [
+{
+"question_text": "What does the passage mainly discuss?",
+"choice_a": "The geographical features of the American Southwest and Chaco Canyon.",
+"choice_b": "The religious beliefs and emotional lives of the Ancestral Puebloans.",
+"choice_c": "The development and eventual decline of Ancestral Puebloan architectural structures.",
+"choice_d": "The agricultural practices and crop storage methods of pre-Columbian societies.",
+"correct_choice": "C",
+"explanation": "正解はC。本文全体を通じて、Ancestral Puebloansの建築構造の進化（ピットハウスからプエブロ、そしてグレートハウスへ）と、その最終的な放棄・移行について客観的に論じているため。",
+"tag": "mainIdea",
+"wrong_reason_a": "地理的特徴は話題の一部に過ぎず、文章全体の主題としては不適切であるため。",
+"wrong_reason_b": "筆者の推測や感情的側面に焦点を当てたものではなく、客観的な建築と社会構造の変化を述べているため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "農業や貯蔵方法は建築様式が変化した一因として触れられているのみで、全体の要旨ではないため。"
+},
+{
+"question_text": "The word "postulate" in line 4 is closest in meaning to ...",
+"choice_a": "deny",
+"choice_b": "hypothesize",
+"choice_c": "demand",
+"choice_d": "discover",
+"correct_choice": "B",
+"explanation": "正解はB。1段落目3文目の「postulate」は「仮定する、推測する」を意味し、研究者たちの論理的な推論や仮説を表しているため、「hypothesize」が文脈上最も適切である。",
+"tag": "vocab",
+"wrong_reason_a": "「否定する」という意味であり、研究者が仮説を立てている文脈と正反対になるため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "「要求する」という意味であり、学術的な推論を示す文脈に合致しないため。",
+"wrong_reason_d": "「発見する」という意味であり、物理的な発見ではなく理論的な推測を指す文脈にはそぐわないため。"
+},
+{
+"question_text": "According to paragraph 2, what facilitated the transition to above-ground masonry dwellings?",
+"choice_a": "The need for reliable storage spaces due to increased agricultural production.",
+"choice_b": "The desire to establish extensive trade networks with Mesoamerica.",
+"choice_c": "The complete abandonment of subterranean structures for ceremonial use.",
+"choice_d": "The discovery of new construction materials in the surrounding environment.",
+"correct_choice": "A",
+"explanation": "正解はA。2段落目2文目に「This transition was reportedly facilitated by agricultural intensification, which necessitated secure storage facilities for surplus crops（この移行は、余剰作物のための安全な貯蔵施設を必要とする農業の集約化によって促進された）」と明記されているため。",
+"tag": "fact",
+"wrong_reason_a": null,
+"wrong_reason_b": "メソアメリカとの貿易ネットワークについては3段落目で言及されており、建築様式移行の直接的な原因としては述べられていないため。",
+"wrong_reason_c": "2段落目に「the original pithouse design was not entirely abandoned」とあり、完全に放棄されたわけではないと明記されているため。",
+"wrong_reason_d": "新しい建築資材の発見が移行を促進したという記述は本文中のどこにも存在しないため。"
+},
+{
+"question_text": "The word "fostered" in line 9 is closest in meaning to ...",
+"choice_a": "restricted",
+"choice_b": "replaced",
+"choice_c": "observed",
+"choice_d": "encouraged",
+"correct_choice": "D",
+"explanation": "正解はD。2段落目3文目の「fostered」は「促進する、育成する」という意味であり、隣接する部屋の構造が共同生活を促したという文脈であるため、「encouraged」が最も近い。",
+"tag": "vocab",
+"wrong_reason_a": "「制限する」という意味であり、共同生活を促したという文脈と逆の意味になるため。",
+"wrong_reason_b": "「取って代わる」という意味であり、生活様式を促進したという文脈に合致しないため。",
+"wrong_reason_c": "「観察する」という意味であり、物理的な構造が人々の生活様式に与えた影響を表現する語としては不適切であるため。",
+"wrong_reason_d": null
+},
+{
+"question_text": "The word "These" in line 11 refers to ...",
+"choice_a": "surplus crops",
+"choice_b": "kivas",
+"choice_c": "room blocks",
+"choice_d": "domestic spaces",
+"correct_choice": "B",
+"explanation": "正解はB。2段落目5文目の指示代名詞「These」は、直前の文（4文目）の末尾に登場する複数名詞「kivas」を指しており、「円形で地下にある空間」という説明と論理的に完全に一致するため。",
+"tag": "usage",
+"wrong_reason_a": "余剰作物（surplus crops）が「円形で地下にある儀式用の空間」として機能するとは文脈上考えられないため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "「room blocks」は地上に連続して建てられた居住空間であり、直後の「subterranean（地下の）」という説明と矛盾するため。",
+"wrong_reason_d": "「domestic spaces（居住空間）」は儀式用空間（kivas）と対比される概念であり、該当箇所が指し示す対象として誤りであるため。"
+},
+{
+"question_text": "It can be inferred from the passage that the architectural duality of the Ancestral Puebloans ...",
+"choice_a": "reflected an organized division between their everyday activities and religious practices.",
+"choice_b": "always prevented social stratification from developing within the community.",
+"choice_c": "was directly copied from earlier Mesoamerican civilizations.",
+"choice_d": "caused the immediate abandonment of nomadic hunting lifestyles.",
+"correct_choice": "A",
+"explanation": "正解はA。2段落目の最終文で、建築の二重性（居住空間と儀式空間の並存）が「domestic and ritualistic spaces were carefully delineated（居住空間と儀式空間が慎重に区別された）」高度に構造化された社会を示唆していると述べられていることから論理的に推論できるため。",
+"tag": "inference",
+"wrong_reason_a": null,
+"wrong_reason_b": "本文1段落目には「emerging social stratification（新たな社会階層）」と関連していた可能性が示唆されており、階層化を防いだとする記述は矛盾するため。",
+"wrong_reason_c": "メソアメリカ文明は3段落目で貿易相手として言及されているが、建築様式を直接模倣したという記述はなく、過剰な推測であるため。",
+"wrong_reason_d": "狩猟生活からの移行は1段落目で触れられているが、建築の二重性が原因で即座に放棄されたという因果関係は本文から導けないため。"
+},
+{
+"question_text": "According to the passage, the Great Houses of Chaco Canyon were characterized by ...",
+"choice_a": "subterranean construction techniques that completely replaced early pueblos.",
+"choice_b": "small, decentralized room blocks designed for single families.",
+"choice_c": "structural designs that included multiple stories and specific astronomical orientations.",
+"choice_d": "defensive walls built primarily to repel invaders from the coast.",
+"correct_choice": "C",
+"explanation": "正解はC。3段落目2文目に、グレートハウスの特徴として「multi-story construction（多層構造）」や「precise astronomical alignments（正確な天文学的配置）」が明記されているため。",
+"tag": "fact",
+"wrong_reason_a": "グレートハウスは多層構造（地上）であり、初期のプエブロを完全に置き換える地下建築技術という記述は誤りであるため。",
+"wrong_reason_b": "グレートハウスは「hundreds of rooms（何百もの部屋）」を持つ巨大な建造物であり、小規模で分散した単一家族向けという記述は事実に反するため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "外敵から守るための防御壁についての記述は本文中に一切存在しないため。"
+},
+{
+"question_text": "All of the following are mentioned in the passage as items recovered from Great House excavations EXCEPT ...",
+"choice_a": "marine shells transported from the Pacific coast",
+"choice_b": "macaw feathers originally imported from Mesoamerica",
+"choice_c": "turquoise ornaments found in the regional trade networks",
+"choice_d": "agricultural tools used primarily for maize cultivation",
+"correct_choice": "D",
+"explanation": "正解はD。3段落目4文目に発掘された品として「turquoise ornaments（トルコ石の装飾品）」「marine shells（海の貝殻）」「macaw feathers（コンゴウインコの羽）」の3つが単一の文内で明確に列挙されているが、「agricultural tools（農具）」についての言及は存在しないため。",
+"tag": "not",
+"wrong_reason_a": "3段落目4文目に「marine shells from the Pacific coast」として明記されているため誤答。",
+"wrong_reason_b": "3段落目4文目に「macaw feathers imported from Mesoamerica」として明記されているため誤答。",
+"wrong_reason_c": "3段落目4文目に「turquoise ornaments」として明記されているため誤答。",
+"wrong_reason_d": null
+},
+{
+"question_text": "The word "superseded" in line 23 is closest in meaning to ...",
+"choice_a": "destroyed",
+"choice_b": "replaced",
+"choice_c": "supported",
+"choice_d": "isolated",
+"correct_choice": "B",
+"explanation": "正解はB。4段落目4文目の「superseded」は「取って代わられる」という意味であり、巨大な建造物が最終的により小さな集落に置き換わったという文脈であるため、「replaced」が最適である。",
+"tag": "vocab",
+"wrong_reason_a": "「破壊された」という意味であり、後の集落に移行したという歴史的連続性の文脈にそぐわないため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "「支持された」という意味であり、巨大建造物が使われなくなったという文脈と逆になるため。",
+"wrong_reason_d": "「孤立した」という意味であり、別の居住形態に移行したことを示す文脈において不適切であるため。"
+},
+{
+"question_text": "What does the author imply about the abandonment of the Great Houses?",
+"choice_a": "It resulted in the complete loss of Ancestral Puebloan cultural traditions.",
+"choice_b": "It was entirely caused by violent internal conflicts over scarce resources.",
+"choice_c": "It was likely a deliberate response to challenging conditions rather than a total societal destruction.",
+"choice_d": "It allowed Mesoamerican traders to take permanent control of Chaco Canyon.",
+"correct_choice": "C",
+"explanation": "正解はC。4段落目の最終文で、子孫が中核となる文化要素を保持しており、放棄は「strategic adaptation（戦略的適応）」であったと示唆されていることから、完全な崩壊ではなく環境等への意図的・戦略的な対応であったと控えめに推論できるため。",
+"tag": "inference",
+"wrong_reason_a": "最終文で「descendants preserved core cultural elements（子孫は中核的な文化要素を保持した）」と述べられており、完全に失われたとする記述は本文と矛盾するため。",
+"wrong_reason_b": "社会的断片化（social fragmentation）は一因として挙げられているが、暴力的な内部対立が「全ての原因（entirely caused）」であるとするのは過度の断定であるため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "メソアメリカの商人に関する言及は3段落目の貿易品目のみであり、彼らが支配権を握ったという内容は本文の情報を逸脱しているため。"
+}
+]
+}
+]
+}

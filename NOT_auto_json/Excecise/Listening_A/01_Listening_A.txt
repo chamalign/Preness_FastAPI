@@ -1,0 +1,368 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What does the woman mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "Do you think you could give me a hand cleaning up the kitchen before the guests arrive?"
+          },
+          {
+            "speaker": "woman",
+            "text": "I wish I could, but I'm completely tied up with this history paper right now."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "She is currently occupied with her coursework.",
+      "choice_b": "She is tying up the garbage bags for him.",
+      "choice_c": "She is planning to clean the kitchen later.",
+      "choice_d": "She is expecting guests from her history class.",
+      "correct_choice": "A",
+      "explanation": "正解は(A)です。女性は「I wish I could, but...（手伝いたいのですが…）」と婉曲的に断り [cite: 44]、「tied up（忙しい・手が離せない）」というイディオムを用いています [cite: 53]。これを「occupied with her coursework（課題で手一杯である）」と一歩引いた概念的な言葉に変換して抽象化したものが正解です [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "「tied up」というイディオムの「縛る」という文字通りの意味を誤答に利用した引っかけです [cite: 1]。",
+      "wrong_reason_c": "スクリプトに登場した「clean the kitchen」という表現を部分的に拾っていますが、行動の主体やタイミングが合致しません [cite: 3]。",
+      "wrong_reason_d": "「guests」や「history」といった耳に残る単語をそのまま配置した「同音語・似た音」の罠です [cite: 1]。"
+    },
+    {
+      "question_text": "What does the man imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "woman",
+            "text": "Professor Smith, isn't the final draft of our essay due this afternoon?"
+          },
+          {
+            "speaker": "man",
+            "text": "I decided to hold off on collecting them until Monday so everyone has more time to proofread."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He has already collected all the final drafts.",
+      "choice_b": "He has postponed the submission deadline.",
+      "choice_c": "He has asked the students to hold their papers.",
+      "choice_d": "He has to proofread the essays by Monday.",
+      "correct_choice": "B",
+      "explanation": "正解は(B)です。女性からの「Isn't ... due?（提出期限ではなかったですか？）」という否定疑問文に対し [cite: 118]、男性は「hold off on（～を延期する）」と答えています [cite: 8]。この具体的な発言内容を「postponed the submission deadline（提出期限を延期した）」と言い換えたものが正解となります [cite: 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「already collected」は、事実とは逆の意味を示す単語を意図的に入れた誤答です [cite: 5]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "「hold off on」という句動詞の「hold」という単語だけを拾い、文字通りの意味に解釈させた「似た音」の罠です [cite: 1]。",
+      "wrong_reason_d": "「proofread」や「Monday」といった登場語彙は合っていますが、行動の主体が学生から教授にズレている部分一致型のディストラクタです [cite: 3]。"
+    },
+    {
+      "question_text": "What will the woman probably do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "I can't seem to track down the sociology textbook on the reserve shelf."
+          },
+          {
+            "speaker": "woman",
+            "text": "Someone just checked it out, but I can put you on the waitlist if you'd like."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What will the woman probably do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Check the reserve shelf for the textbook.",
+      "choice_b": "Track down the person who took the book.",
+      "choice_c": "Register the student for the next available copy.",
+      "choice_d": "Check out a different sociology book for him.",
+      "correct_choice": "C",
+      "explanation": "正解は(C)です。目的の本が見つからない男性に対し、女性は「checked out（貸し出し中である）」と伝え [cite: 6]、「put you on the waitlist（キャンセル待ちリストに入れる）」と提案しています。これを「Register the student...（学生を登録する）」と概念化しています [cite: 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「reserve shelf」という会話文の一部を拾うと正しそうに見える、部分一致型の選択肢です [cite: 3]。",
+      "wrong_reason_b": "男性の発言にあった「track down（探し出す）」という句動詞をそのまま使い、誤った状況に当てはめています [cite: 8]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "「check out」という図書館ならではの語彙を使用していますが、対象（違う本）がズレている不正解です [cite: 3, 6]。"
+    },
+    {
+      "question_text": "What is the man's problem?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "woman",
+            "text": "Why don't we grab a bite at that new diner across campus? I hear their burgers are amazing."
+          },
+          {
+            "speaker": "man",
+            "text": "I'm not on board with that idea. It's a bit out of our way, and my next class starts in twenty minutes."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the man's problem?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He is waiting to board a bus across campus.",
+      "choice_b": "He is restricted by his current schedule.",
+      "choice_c": "He is looking for a different way to the diner.",
+      "choice_d": "He is not feeling well enough to eat a burger.",
+      "correct_choice": "B",
+      "explanation": "正解は(B)です。女性の提案に対し、男性は「I'm not on board with that idea.（そのアイデアには賛成できない）」と間接的に不同意を示し [cite: 80]、「out of our way（遠回りになる）」ことと「次の授業まで20分しかない」ことを理由に挙げています [cite: 91]。これを「スケジュールに制限されている」と抽象化しています [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「on board with（賛成する）」というイディオムの「board（乗る）」を物理的な意味で解釈させる罠です [cite: 1, 80]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "「out of our way」の「way（道）」という単語を拾い、別の意味の文脈を作り出しています [cite: 1]。",
+      "wrong_reason_d": "「burger」という単語はスクリプト内にありますが、体調不良については言及されておらず、事実無根のノイズです [cite: 1]。"
+    },
+    {
+      "question_text": "What does the woman suggest the man do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 5."
+          },
+          {
+            "speaker": "man",
+            "text": "I totally missed yesterday's biology lecture because I overslept. Did Dr. Adams cover anything important?"
+          },
+          {
+            "speaker": "woman",
+            "text": "You might want to go over my notes. She spent the whole time breaking down the upcoming lab project."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman suggest the man do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Break down the laboratory equipment.",
+      "choice_b": "Review the materials she recorded.",
+      "choice_c": "Cover the biology lecture for her next time.",
+      "choice_d": "Speak directly to Dr. Adams about the project.",
+      "correct_choice": "B",
+      "explanation": "正解は(B)です。授業を休んだ男性に対し、女性は「go over my notes（私のノートを見直す）」ことを勧めています [cite: 6]。この「go over」を「Review（見直す）」に言い換え、「notes」を「materials she recorded（彼女が記録した資料）」と抽象化しています [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「breaking down（詳細に説明する）」というイディオムを「（物理的に）解体する・壊す」という意味にすり替えた引っかけです [cite: 10]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "男性の質問にあった「cover（（範囲を）網羅する・扱う）」という多義語を拾い [cite: 128]、「代わりに出席する」などの誤った文脈で使っています [cite: 1]。",
+      "wrong_reason_d": "登場した人物名（Dr. Adams）やプロジェクトという単語を含んでおり、推測としてはあり得そうに見える部分一致型の誤答です [cite: 3]。"
+    }
+  ]
+}
+{
+  "items": [
+    {
+      "question_text": "What does the woman imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 6."
+          },
+          {
+            "speaker": "man",
+            "text": "Do you think it would be okay if I had a few friends over to study tonight?"
+          },
+          {
+            "speaker": "woman",
+            "text": "I have a huge biology midterm tomorrow. Maybe another time would be better."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "She wants to invite her friends too.",
+      "choice_b": "She will study biology with the man's friends.",
+      "choice_c": "She prefers the man not to bring guests.",
+      "choice_d": "She is going to a different dorm tonight.",
+      "correct_choice": "C",
+      "explanation": "女性は明日の試験を理由に「Maybe another time would be better.（また別の機会のほうがいい）」と婉曲的に依頼を拒否しています [cite: 51, 94]。この「今は困る・断る」という状況を抽象化した(C)が正解です [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "音声の「friends」を拾った部分一致のひっかけです。女性自身が友人を呼びたいわけではありません [cite: 3]。",
+      "wrong_reason_b": "「study」「biology」「friends」といった登場語彙を組み合わせ、行動の主体や目的をズラした部分一致の罠です [cite: 3]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "別の機会（another time）という言葉から、「別の寮（different dorm）」へ行くという架空の行動を連想させるひっかけです。"
+    },
+    {
+      "question_text": "What does the man suggest the woman do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 7."
+          },
+          {
+            "speaker": "woman",
+            "text": "I can't find the reserve reading for Professor Smith's econ class anywhere."
+          },
+          {
+            "speaker": "man",
+            "text": "You might want to check with the circulation desk. Sometimes they keep them behind the counter."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man suggest the woman do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Check her bank account balance.",
+      "choice_b": "Buy the book directly from Professor Smith.",
+      "choice_c": "Count the number of books on the desk.",
+      "choice_d": "Ask a staff member for assistance.",
+      "correct_choice": "D",
+      "explanation": "本が見つからない女性に対し、男性は「check with the circulation desk（貸出カウンターに確認する）」ことを提案しています [cite: 131]。この具体的な行動を「Ask a staff member（スタッフに尋ねる）」と抽象化した(D)が正解です [cite: 1]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「reserve」「check」や経済（econ）に関する文脈から、「小切手（check）」や「銀行口座」を連想させる多義語の罠です [cite: 128, 130]。",
+      "wrong_reason_b": "「Professor Smith」という音声の一部を拾った部分一致です。教授から直接買うようには提案していません [cite: 3]。",
+      "wrong_reason_c": "「counter（カウンター）」という単語から「数える（count）」を連想させる同音・似た音のひっかけです [cite: 1]。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What does the woman mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 8."
+          },
+          {
+            "speaker": "man",
+            "text": "I'm trying to drop my intro to psych class, but the online system is completely locked up."
+          },
+          {
+            "speaker": "woman",
+            "text": "You're probably better off heading over to the registrar's office. They can sort it out manually."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The man should lock up the office.",
+      "choice_b": "The man should get help in person.",
+      "choice_c": "The online system will be fixed shortly.",
+      "choice_d": "The man needs to drop his computer off.",
+      "correct_choice": "B",
+      "explanation": "女性はオンラインシステムが動かない男性に対して、「heading over to the registrar's office（教務課へ向かう）」ことを提案しています [cite: 131]。直接窓口へ行くという動作を「in person（直接・対面で）」と抽象化した(B)が正解です [cite: 1]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "システムがフリーズしている意味の「locked up」を、物理的に「鍵をかける」という文字通りの意味に解釈させる罠です [cite: 130]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "システムがすぐに直るという内容は会話で一切言及されていません。事実と異なる推測の罠です。",
+      "wrong_reason_d": "「履修を取り消す」意味の「drop [cite: 8, 131]」を、物理的に「落とす・持っていく」という意味にすり替えた多義語の罠です。"
+    },
+    {
+      "question_text": "What will the man probably do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 9."
+          },
+          {
+            "speaker": "woman",
+            "text": "Are you gonna eat in or take out your lunch today? The cafeteria is packed."
+          },
+          {
+            "speaker": "man",
+            "text": "I'm swamped with this lab report. I'll just grab a sandwich to go."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What will the man probably do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Eat his meal somewhere else.",
+      "choice_b": "Pack his own lunch for the lab.",
+      "choice_c": "Sit in the cafeteria with the woman.",
+      "choice_d": "Buy a bag to carry his books.",
+      "correct_choice": "A",
+      "explanation": "男性は「swamped（とても忙しい）[cite: 53]」と言い、「grab a sandwich to go（持ち帰り用のサンドイッチを買う）」と述べています [cite: 9, 132]。カフェテリア以外で食事をするという状況を抽象化した(A)が正解です [cite: 1]。",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "女性の発話「packed（満員）」という単語から、「（弁当を）詰める」という文字通りの意味を連想させる罠です。",
+      "wrong_reason_c": "「持ち帰り（to go）」と言っているため、カフェテリアで食べる（eat in）という正反対の行動を示した誤答です [cite: 5]。",
+      "wrong_reason_d": "「grab」や「to go」からカバンを買うという無関係な行動に誘導するひっかけです。"
+    },
+    {
+      "question_text": "What does the woman imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 10."
+          },
+          {
+            "speaker": "man",
+            "text": "Do you know if the campus bookstore buys back used math textbooks?"
+          },
+          {
+            "speaker": "woman",
+            "text": "They usually do, but they're pretty picky about the condition. Yours looks a bit worn out."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The bookstore is completely sold out.",
+      "choice_b": "The store might not accept the man's book.",
+      "choice_c": "She wants to buy the textbook from him.",
+      "choice_d": "The man should pick up a new math book.",
+      "correct_choice": "B",
+      "explanation": "女性は書店が「picky about the condition（状態に厳しい）」と言い、男性の本が「worn out（ボロボロ）」だと指摘しています [cite: 130]。買い取ってもらえない可能性が高いという推測を一歩引いて表現した(B)が正解です [cite: 1]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「buys back（買い取る）」という文脈に対し、「sold out（売り切れ）」という異なる状況を提示した誤答です。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "書店ではなく、女性自身が本を買い取るという主体ズレのひっかけです [cite: 3]。",
+      "wrong_reason_d": "「picky（うるさい・厳しい）」という単語から「pick up（買う・手に入れる）」を連想させる似た音の罠です [cite: 1, 9]。"
+    }
+  ]
+}

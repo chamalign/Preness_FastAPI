@@ -1,0 +1,386 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What is the main topic of the lecture?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, evolution is driven by natural selection. Today, we'll continue our discussion on evolutionary biology by looking at a specific context: island biogeography. Essentially, we are looking at how isolated environments shape the evolution of species. That is to say, animals living on remote islands evolve in very different ways compared to those on large continents. Does that make sense? First, let's consider a fascinating phenomenon called island dwarfism. When large animals, like elephants, migrate to an isolated island, they face a severe lack of resources. Because of this limited food supply, smaller individuals actually have a survival advantage. Over thousands of years, these species shrink. In other words, a massive elephant eventually evolves into a dwarf version, sometimes no bigger than a large dog. But that's not all. The exact opposite can also happen, which we call island gigantism. The most important point here is the absence of natural predators. Small animals, like rodents or birds, no longer need to hide or stay small to escape predators. So, they grow much larger. For example, the dodo bird was actually just a giant pigeon that evolved on an island without predators. Any questions so far on how these two opposing trends work? Now, despite these unique adaptations, here is the problem. These highly specialized island species are incredibly vulnerable. Keep in mind that if humans introduce a new predator or competitor to the island, these unique animals can easily face extinction."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the main topic of the lecture?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The lack of resources for massive animals on continents",
+      "choice_b": "The introduction of new competitors to island ecosystems",
+      "choice_c": "How isolated geographic environments influence animal evolution",
+      "choice_d": "Why the dodo bird eventually evolved into a giant pigeon",
+      "correct_choice": "C",
+      "explanation": "講義全体を通して、孤立した環境（島）がそこに住む動物の進化にどのような影響を与えるか（島嶼生態学）について解説しているため、Cが正解です。正解選択肢は本文の単語を直接使わず、「island biogeography」を「how isolated geographic environments influence animal evolution」と言い換えています。",
+      "tag": "talk",
+      "wrong_reason_a": "巨大な動物の資源不足は島における「島嶼矮小化（island dwarfism）」の原因であり、大陸（continents）の話ではありません。本文の単語を使ったひっかけです。",
+      "wrong_reason_b": "新しい競争相手の導入は講義の最後で触れられる島嶼生物の脆弱性の一部であり、講義全体の主題ではありません。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "ドードー鳥が巨大なハトに進化してしまった理由は、あくまで「島嶼巨大化（island gigantism）」を説明するための具体例の一つに過ぎません。"
+    },
+    {
+      "question_text": "According to the professor, why do large animals sometimes shrink on isolated islands?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, evolution is driven by natural selection. Today, we'll continue our discussion on evolutionary biology by looking at a specific context: island biogeography. Essentially, we are looking at how isolated environments shape the evolution of species. That is to say, animals living on remote islands evolve in very different ways compared to those on large continents. Does that make sense? First, let's consider a fascinating phenomenon called island dwarfism. When large animals, like elephants, migrate to an isolated island, they face a severe lack of resources. Because of this limited food supply, smaller individuals actually have a survival advantage. Over thousands of years, these species shrink. In other words, a massive elephant eventually evolves into a dwarf version, sometimes no bigger than a large dog. But that's not all. The exact opposite can also happen, which we call island gigantism. The most important point here is the absence of natural predators. Small animals, like rodents or birds, no longer need to hide or stay small to escape predators. So, they grow much larger. For example, the dodo bird was actually just a giant pigeon that evolved on an island without predators. Any questions so far on how these two opposing trends work? Now, despite these unique adaptations, here is the problem. These highly specialized island species are incredibly vulnerable. Keep in mind that if humans introduce a new predator or competitor to the island, these unique animals can easily face extinction."
+          },
+          {
+            "speaker": "narrator",
+            "text": "According to the professor, why do large animals sometimes shrink on isolated islands?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Because they must adapt to a severe scarcity of food.",
+      "choice_b": "Because they are hunted by newly introduced predators.",
+      "choice_c": "Because smaller individuals are forced to migrate.",
+      "choice_d": "Because they evolve from massive dogs into dwarf versions.",
+      "correct_choice": "A",
+      "explanation": "教授は「島では資源の深刻な不足に直面し、食糧供給が限られているため（severe lack of resources... limited food supply）、体が小さい方が生存に有利になり縮小する」と説明しています。Aがこれを「深刻な食糧不足に適応するため」と言い換えた正解です。",
+      "tag": "talk",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "新しく持ち込まれた捕食者に「狩られる（hunted）」から体が縮むわけではありません。捕食者の不在や導入は別の文脈で語られています。",
+      "wrong_reason_c": "体の小さい個体が「移住を強制される（forced to migrate）」のではなく、移住した先で小さな個体が生き残りやすくなるという話です。",
+      "wrong_reason_d": "ゾウが大きな犬ほどのサイズになるという比喩表現が使われていますが、「巨大な犬から進化した（evolve from massive dogs）」わけではありません。本文の単語を誤用したひっかけです。"
+    },
+    {
+      "question_text": "How does the professor describe the dodo bird?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, evolution is driven by natural selection. Today, we'll continue our discussion on evolutionary biology by looking at a specific context: island biogeography. Essentially, we are looking at how isolated environments shape the evolution of species. That is to say, animals living on remote islands evolve in very different ways compared to those on large continents. Does that make sense? First, let's consider a fascinating phenomenon called island dwarfism. When large animals, like elephants, migrate to an isolated island, they face a severe lack of resources. Because of this limited food supply, smaller individuals actually have a survival advantage. Over thousands of years, these species shrink. In other words, a massive elephant eventually evolves into a dwarf version, sometimes no bigger than a large dog. But that's not all. The exact opposite can also happen, which we call island gigantism. The most important point here is the absence of natural predators. Small animals, like rodents or birds, no longer need to hide or stay small to escape predators. So, they grow much larger. For example, the dodo bird was actually just a giant pigeon that evolved on an island without predators. Any questions so far on how these two opposing trends work? Now, despite these unique adaptations, here is the problem. These highly specialized island species are incredibly vulnerable. Keep in mind that if humans introduce a new predator or competitor to the island, these unique animals can easily face extinction."
+          },
+          {
+            "speaker": "narrator",
+            "text": "How does the professor describe the dodo bird?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "As a small rodent that survived by hiding.",
+      "choice_b": "As a competitor that caused extinction on an island.",
+      "choice_c": "As an animal that shrank over thousands of years.",
+      "choice_d": "As a creature that grew unusually large due to a lack of threats.",
+      "correct_choice": "D",
+      "explanation": "ドードー鳥は「捕食者がいない島で進化した巨大なハト（giant pigeon that evolved on an island without predators）」の例として挙げられています。これを「脅威の欠如により異常に大きく成長した生き物」と言い換えたDが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "隠れることで生き延びた小さな「げっ歯類（rodent）」ではありません。げっ歯類は島嶼巨大化の別の例として挙げられた単語です。",
+      "wrong_reason_b": "島で絶滅を「引き起こした（caused）」競争相手ではなく、人間が競争相手を持ち込むことで絶滅の危機に瀕する側です。",
+      "wrong_reason_c": "何千年もの間に「縮んだ（shrank）」のは島嶼矮小化（ゾウなど）の例であり、ドードー鳥は巨大化の例です。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What does the professor imply about specialized island species?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, evolution is driven by natural selection. Today, we'll continue our discussion on evolutionary biology by looking at a specific context: island biogeography. Essentially, we are looking at how isolated environments shape the evolution of species. That is to say, animals living on remote islands evolve in very different ways compared to those on large continents. Does that make sense? First, let's consider a fascinating phenomenon called island dwarfism. When large animals, like elephants, migrate to an isolated island, they face a severe lack of resources. Because of this limited food supply, smaller individuals actually have a survival advantage. Over thousands of years, these species shrink. In other words, a massive elephant eventually evolves into a dwarf version, sometimes no bigger than a large dog. But that's not all. The exact opposite can also happen, which we call island gigantism. The most important point here is the absence of natural predators. Small animals, like rodents or birds, no longer need to hide or stay small to escape predators. So, they grow much larger. For example, the dodo bird was actually just a giant pigeon that evolved on an island without predators. Any questions so far on how these two opposing trends work? Now, despite these unique adaptations, here is the problem. These highly specialized island species are incredibly vulnerable. Keep in mind that if humans introduce a new predator or competitor to the island, these unique animals can easily face extinction."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the professor imply about specialized island species?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "They are naturally immune to dangerous human competitors.",
+      "choice_b": "They can easily be wiped out by unfamiliar threats.",
+      "choice_c": "They are highly specialized in finding limited resources.",
+      "choice_d": "They typically adapt and shrink when humans introduce predators.",
+      "correct_choice": "B",
+      "explanation": "人間が新しい捕食者や競争相手を持ち込むと、これらの種は「絶滅の危機に直面しやすい（easily face extinction）」と述べています。Bが「見慣れない脅威によって簡単に全滅させられる可能性がある」と言い換えた正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "人間の競争相手に対して「自然に免疫がある（naturally immune）」のではなく、非常に脆弱（incredibly vulnerable）であると述べています。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "高度に特化している（highly specialized）とは述べられていますが、「限られた資源を見つけること」に特化しているという意味ではありません。本文の単語を不自然に繋げています。",
+      "wrong_reason_d": "人間が捕食者を導入したときに「適応して縮む（adapt and shrink）」わけではなく、絶滅の危機に瀕してしまいます。"
+    },
+    {
+      "question_text": "What is the main purpose of the lecture?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 5."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, the shift to agriculture completely changed how ancient human societies operated. Today, we'll continue our exploration of early civilizations by looking at the invention of writing. Essentially, we are examining how and why humans first began to record information permanently. That is to say, what drove people to create symbols instead of just relying on spoken language? Does that make sense? First, let's consider the primary motivation. You might think writing was invented to write down poetry or record historical events. However, that's not the case. The earliest writing systems, like cuneiform in Mesopotamia, were created for accounting. Because of agricultural surpluses, temples and leaders needed a way to keep track of grain, livestock, and taxes. In other words, the first writers were essentially accountants trying to manage complex economies. But that's not all. The most important point is how these systems evolved. Initially, people used simple pictograms. A picture of a cow meant a cow. Over time, these pictures became more abstract, representing sounds rather than just objects. This was a massive breakthrough called the rebus principle. For example, combining the symbol for \"sun\" and the symbol for \"flower\" could spell a new word based on those sounds. Any questions so far on how these symbols changed? Now, I want to emphasize that literacy was extremely restricted. Keep in mind that only a tiny fraction of the population, specifically trained scribes, could actually read and write."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the main purpose of the lecture?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "To describe how spoken languages replaced ancient poetry",
+      "choice_b": "To explain the original motivations and development of writing",
+      "choice_c": "To argue that accountants created the first complex economies",
+      "choice_d": "To compare the rebus principle with modern agricultural techniques",
+      "correct_choice": "B",
+      "explanation": "講義全体を通して、人類がなぜ文字を発明したのか（初期の動機＝会計目的）と、それが絵文字から音を表す文字へとどのように発展したのかについて解説しているため、Bが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "話し言葉（spoken languages）が古代の詩を「置き換えた」という内容は含まれていません。本文に登場する単語を無作為に組み合わせた選択肢です。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "会計士（accountants）が複雑な経済を「作り出した（created）」のではなく、文字は複雑な経済を管理するために作られ、初期の書き手が会計士のような存在だったと説明されています。",
+      "wrong_reason_d": "レバスの原理（rebus principle）を現代の農業技術と比較することはしていません。農業の話は文字の起源（余剰生産物の管理）として触れられたのみです。"
+    },
+    {
+      "question_text": "According to the professor, what was the initial reason for inventing writing?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 6."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, the shift to agriculture completely changed how ancient human societies operated. Today, we'll continue our exploration of early civilizations by looking at the invention of writing. Essentially, we are examining how and why humans first began to record information permanently. That is to say, what drove people to create symbols instead of just relying on spoken language? Does that make sense? First, let's consider the primary motivation. You might think writing was invented to write down poetry or record historical events. However, that's not the case. The earliest writing systems, like cuneiform in Mesopotamia, were created for accounting. Because of agricultural surpluses, temples and leaders needed a way to keep track of grain, livestock, and taxes. In other words, the first writers were essentially accountants trying to manage complex economies. But that's not all. The most important point is how these systems evolved. Initially, people used simple pictograms. A picture of a cow meant a cow. Over time, these pictures became more abstract, representing sounds rather than just objects. This was a massive breakthrough called the rebus principle. For example, combining the symbol for \"sun\" and the symbol for \"flower\" could spell a new word based on those sounds. Any questions so far on how these symbols changed? Now, I want to emphasize that literacy was extremely restricted. Keep in mind that only a tiny fraction of the population, specifically trained scribes, could actually read and write."
+          },
+          {
+            "speaker": "narrator",
+            "text": "According to the professor, what was the initial reason for inventing writing?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "To write down historical events and poetry for leaders.",
+      "choice_b": "To rely on spoken language instead of creating symbols.",
+      "choice_c": "To accurately manage agricultural goods and tax records.",
+      "choice_d": "To train a tiny fraction of the population to become scribes.",
+      "correct_choice": "C",
+      "explanation": "教授は、初期の文字（楔形文字など）は歴史や詩のためではなく、「穀物、家畜、税金の記録をつけるため（keep track of grain, livestock, and taxes）」などの会計目的で作られたと述べています。Cが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "歴史的な出来事や詩を書き留めるためではない（However, that's not the case）と明確に否定されています。",
+      "wrong_reason_b": "記号を作る代わりに「話し言葉に頼る（rely on spoken language）」というのは、文字の発明と逆の行動です。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "ごく一部の人口を書記として「訓練する（train）」ことが文字を発明した目的ではありません。それは識字能力が制限されていたという結果の話です。"
+    },
+    {
+      "question_text": "What was the \"rebus principle\" mentioned in the lecture?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 7."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, the shift to agriculture completely changed how ancient human societies operated. Today, we'll continue our exploration of early civilizations by looking at the invention of writing. Essentially, we are examining how and why humans first began to record information permanently. That is to say, what drove people to create symbols instead of just relying on spoken language? Does that make sense? First, let's consider the primary motivation. You might think writing was invented to write down poetry or record historical events. However, that's not the case. The earliest writing systems, like cuneiform in Mesopotamia, were created for accounting. Because of agricultural surpluses, temples and leaders needed a way to keep track of grain, livestock, and taxes. In other words, the first writers were essentially accountants trying to manage complex economies. But that's not all. The most important point is how these systems evolved. Initially, people used simple pictograms. A picture of a cow meant a cow. Over time, these pictures became more abstract, representing sounds rather than just objects. This was a massive breakthrough called the rebus principle. For example, combining the symbol for \"sun\" and the symbol for \"flower\" could spell a new word based on those sounds. Any questions so far on how these symbols changed? Now, I want to emphasize that literacy was extremely restricted. Keep in mind that only a tiny fraction of the population, specifically trained scribes, could actually read and write."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What was the \"rebus principle\" mentioned in the lecture?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Using existing visual symbols to represent phonetic sounds.",
+      "choice_b": "Drawing an abstract picture of a cow to mean a cow.",
+      "choice_c": "A massive breakthrough in creating agricultural surpluses.",
+      "choice_d": "Restricting literacy to a few highly trained scribes.",
+      "correct_choice": "A",
+      "explanation": "レバスの原理（rebus principle）について、「絵が単なる物体ではなく音を表すようになること（representing sounds rather than just objects）」と説明されています。Aが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "牛の絵が牛を意味するというのは、レバスの原理の「前の」段階である単純な絵文字（pictograms）の説明です。",
+      "wrong_reason_c": "農業の余剰（agricultural surpluses）を生み出す上でのブレイクスルーではありません。本文の単語を使ったひっかけです。",
+      "wrong_reason_d": "識字能力を制限すること（restricting literacy）は、文字体系の変化の原理とは関係ありません。"
+    },
+    {
+      "question_text": "What can be inferred about literacy in early civilizations?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 8."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, the shift to agriculture completely changed how ancient human societies operated. Today, we'll continue our exploration of early civilizations by looking at the invention of writing. Essentially, we are examining how and why humans first began to record information permanently. That is to say, what drove people to create symbols instead of just relying on spoken language? Does that make sense? First, let's consider the primary motivation. You might think writing was invented to write down poetry or record historical events. However, that's not the case. The earliest writing systems, like cuneiform in Mesopotamia, were created for accounting. Because of agricultural surpluses, temples and leaders needed a way to keep track of grain, livestock, and taxes. In other words, the first writers were essentially accountants trying to manage complex economies. But that's not all. The most important point is how these systems evolved. Initially, people used simple pictograms. A picture of a cow meant a cow. Over time, these pictures became more abstract, representing sounds rather than just objects. This was a massive breakthrough called the rebus principle. For example, combining the symbol for \"sun\" and the symbol for \"flower\" could spell a new word based on those sounds. Any questions so far on how these symbols changed? Now, I want to emphasize that literacy was extremely restricted. Keep in mind that only a tiny fraction of the population, specifically trained scribes, could actually read and write."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What can be inferred about literacy in early civilizations?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "It was an essential skill for all people managing the economy.",
+      "choice_b": "It evolved quickly from abstract sounds to complex pictograms.",
+      "choice_c": "It was primarily used by leaders to communicate with accountants.",
+      "choice_d": "It was an exclusive ability possessed by a very small group.",
+      "correct_choice": "D",
+      "explanation": "講義の最後で「識字能力は極めて制限されており（literacy was extremely restricted）、ごく一部の訓練された書記だけが読み書きできた」と述べられています。Dが「非常に小さなグループが持つ独占的な能力だった」と言い換えた正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "経済を管理する「すべての人（all people）」にとって不可欠なスキルだったわけではありません。読み書きできるのはごく一部（tiny fraction）です。",
+      "wrong_reason_b": "音から絵文字へと進化したのではなく、絵文字から音を表す記号へと進化しました。順序が逆です。",
+      "wrong_reason_c": "リーダーが会計士と「コミュニケーションをとるため」に使われたとは言及されておらず、会計目的そのものに使われました。"
+    },
+    {
+      "question_text": "What is the main topic of the lecture?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 9."
+          },
+          {
+            "speaker": "man",
+            "text": "Last time we covered the basics of social influence and conformity. In today's lecture, we'll continue our exploration of group dynamics by focusing on a concept known as groupthink. Essentially, this is a psychological phenomenon where the desire for harmony in a group results in an irrational or dysfunctional decision. That is to say, people suppress their own doubts just to avoid conflict with the group. Does that make sense? First, let's consider the conditions that cause this. Groupthink typically happens when a group is highly cohesive, meaning the members are very close and share similar backgrounds. Because of this strong bond, they value unity over critical thinking. Furthermore, it often occurs under high-stress situations where a quick decision is demanded. But that's not all. The most important point is to recognize the symptoms of groupthink. For example, groups will often experience an illusion of invulnerability. In other words, they become overly optimistic and take extreme risks, believing they simply cannot fail. They also tend to ignore external warnings and stereotype outsiders who disagree with them. Any questions so far on these dangerous symptoms? Now, despite these strong pressures, here is the solution. Leaders can actively prevent groupthink by encouraging open criticism. Keep in mind that assigning someone to be a \"devil's advocate\"—a person whose specific job is to challenge the consensus—is one of the most effective ways to ensure all alternatives are carefully evaluated before acting."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the main topic of the lecture?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The ways to stereotype outsiders in stressful situations",
+      "choice_b": "How to build strong bonds and harmony among group members",
+      "choice_c": "The reasons why critical thinking leads to dysfunctional leaders",
+      "choice_d": "A psychological tendency that causes groups to make poor decisions",
+      "correct_choice": "D",
+      "explanation": "講義全体を通して、集団内の調和を求めるあまり非合理的な決定を下してしまう「グループシンク（集団浅慮）」という心理現象とその防ぎ方について解説しているため、Dが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "外部の人をステレオタイプ化することはグループシンクの一つの症状にすぎず、ストレス状況下でのステレオタイプ化の方法を教える講義ではありません。",
+      "wrong_reason_b": "強い絆や調和を「どうやって築くか」ではなく、それらが強すぎることによる弊害をテーマにしています。",
+      "wrong_reason_c": "批判的思考（critical thinking）がリーダーを機能不全にするのではなく、批判的思考が欠如することが問題だと説明されています。"
+    },
+    {
+      "question_text": "Under what conditions is groupthink most likely to occur?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 10."
+          },
+          {
+            "speaker": "man",
+            "text": "Last time we covered the basics of social influence and conformity. In today's lecture, we'll continue our exploration of group dynamics by focusing on a concept known as groupthink. Essentially, this is a psychological phenomenon where the desire for harmony in a group results in an irrational or dysfunctional decision. That is to say, people suppress their own doubts just to avoid conflict with the group. Does that make sense? First, let's consider the conditions that cause this. Groupthink typically happens when a group is highly cohesive, meaning the members are very close and share similar backgrounds. Because of this strong bond, they value unity over critical thinking. Furthermore, it often occurs under high-stress situations where a quick decision is demanded. But that's not all. The most important point is to recognize the symptoms of groupthink. For example, groups will often experience an illusion of invulnerability. In other words, they become overly optimistic and take extreme risks, believing they simply cannot fail. They also tend to ignore external warnings and stereotype outsiders who disagree with them. Any questions so far on these dangerous symptoms? Now, despite these strong pressures, here is the solution. Leaders can actively prevent groupthink by encouraging open criticism. Keep in mind that assigning someone to be a \"devil's advocate\"—a person whose specific job is to challenge the consensus—is one of the most effective ways to ensure all alternatives are carefully evaluated before acting."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Under what conditions is groupthink most likely to occur?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "When a group faces low stress and takes extreme risks.",
+      "choice_b": "When leaders actively encourage open criticism from outsiders.",
+      "choice_c": "When members share similar backgrounds and face urgent demands.",
+      "choice_d": "When the group focuses heavily on critical thinking over unity.",
+      "correct_choice": "C",
+      "explanation": "グループシンクが起こる条件として、「メンバーの結束が強く背景が似ている場合（highly cohesive... share similar backgrounds）」や「迅速な決断が求められる高ストレスの状況下（high-stress situations where a quick decision is demanded）」が挙げられています。Cがこれを言い換えた正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "「低ストレス（low stress）」ではなく、「高ストレスの状況下（high-stress situations）」で発生しやすいと述べられています。",
+      "wrong_reason_b": "リーダーがオープンな批判を奨励するのはグループシンクの「解決策（solution）」であり、発生条件ではありません。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "結束よりも「批判的思考（critical thinking）」を重視する場合ではなく、批判的思考よりも結束を重視する場合に発生します。"
+    },
+    {
+      "question_text": "How does the professor explain the \"illusion of invulnerability\"?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 11."
+          },
+          {
+            "speaker": "man",
+            "text": "Last time we covered the basics of social influence and conformity. In today's lecture, we'll continue our exploration of group dynamics by focusing on a concept known as groupthink. Essentially, this is a psychological phenomenon where the desire for harmony in a group results in an irrational or dysfunctional decision. That is to say, people suppress their own doubts just to avoid conflict with the group. Does that make sense? First, let's consider the conditions that cause this. Groupthink typically happens when a group is highly cohesive, meaning the members are very close and share similar backgrounds. Because of this strong bond, they value unity over critical thinking. Furthermore, it often occurs under high-stress situations where a quick decision is demanded. But that's not all. The most important point is to recognize the symptoms of groupthink. For example, groups will often experience an illusion of invulnerability. In other words, they become overly optimistic and take extreme risks, believing they simply cannot fail. They also tend to ignore external warnings and stereotype outsiders who disagree with them. Any questions so far on these dangerous symptoms? Now, despite these strong pressures, here is the solution. Leaders can actively prevent groupthink by encouraging open criticism. Keep in mind that assigning someone to be a \"devil's advocate\"—a person whose specific job is to challenge the consensus—is one of the most effective ways to ensure all alternatives are carefully evaluated before acting."
+          },
+          {
+            "speaker": "narrator",
+            "text": "How does the professor explain the \"illusion of invulnerability\"?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Group members feel overly optimistic and ignore potential failures.",
+      "choice_b": "Group members suppress their own doubts to avoid conflict.",
+      "choice_c": "Group members assign someone to challenge their consensus.",
+      "choice_d": "Group members actively prevent harmony to evaluate alternatives.",
+      "correct_choice": "A",
+      "explanation": "「無敵の錯覚（illusion of invulnerability）」について、「過度に楽観的になり、絶対に失敗しないと信じて極端なリスクを取る（become overly optimistic and take extreme risks, believing they simply cannot fail）」ことだと説明されています。Aが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "疑問を抑え込む（suppress their own doubts）というのはグループシンク全体の基本的な定義であり、無敵の錯覚という特定の症状の説明ではありません。",
+      "wrong_reason_c": "誰かに合意に異議を唱えさせるのは「悪魔の代弁者（devil's advocate）」の役割であり、解決策の話です。",
+      "wrong_reason_d": "選択肢を評価するために積極的に調和を防ぐというのは、グループシンクの解決策（オープンな批判の奨励）に関する誤った言い換えです。"
+    },
+    {
+      "question_text": "According to the lecture, what is the role of a \"devil's advocate\"?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 12."
+          },
+          {
+            "speaker": "man",
+            "text": "Last time we covered the basics of social influence and conformity. In today's lecture, we'll continue our exploration of group dynamics by focusing on a concept known as groupthink. Essentially, this is a psychological phenomenon where the desire for harmony in a group results in an irrational or dysfunctional decision. That is to say, people suppress their own doubts just to avoid conflict with the group. Does that make sense? First, let's consider the conditions that cause this. Groupthink typically happens when a group is highly cohesive, meaning the members are very close and share similar backgrounds. Because of this strong bond, they value unity over critical thinking. Furthermore, it often occurs under high-stress situations where a quick decision is demanded. But that's not all. The most important point is to recognize the symptoms of groupthink. For example, groups will often experience an illusion of invulnerability. In other words, they become overly optimistic and take extreme risks, believing they simply cannot fail. They also tend to ignore external warnings and stereotype outsiders who disagree with them. Any questions so far on these dangerous symptoms? Now, despite these strong pressures, here is the solution. Leaders can actively prevent groupthink by encouraging open criticism. Keep in mind that assigning someone to be a \"devil's advocate\"—a person whose specific job is to challenge the consensus—is one of the most effective ways to ensure all alternatives are carefully evaluated before acting."
+          },
+          {
+            "speaker": "narrator",
+            "text": "According to the lecture, what is the role of a \"devil's advocate\"?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "To enforce unity and harmony during high-stress situations.",
+      "choice_b": "To systematically question and challenge the group's general agreement.",
+      "choice_c": "To stereotype outsiders who disagree with the leader's specific job.",
+      "choice_d": "To quickly suppress doubts before the group takes an extreme risk.",
+      "correct_choice": "B",
+      "explanation": "「悪魔の代弁者（devil's advocate）」の役割は、「集団の合意（コンセンサス）に異議を唱えること（challenge the consensus）」であり、それによってすべての選択肢を慎重に評価できるようにすることだと述べられています。Bが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "ストレス状況下で結束と調和を「強制する（enforce）」のはグループシンクを引き起こす原因であり、悪魔の代弁者の役割とは逆です。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "反対する外部の人を「ステレオタイプ化する（stereotype）」のはグループシンクの症状であり、防ぐための役割ではありません。",
+      "wrong_reason_d": "極端なリスクを取る前に疑念を「素早く抑え込む（quickly suppress doubts）」のではなく、逆に疑念を表に出させて選択肢を評価させるのが役割です。"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What does the woman imply the man must do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "Is there any chance you could waive the late fee for this biology textbook? It's only a few days overdue."
+          },
+          {
+            "speaker": "woman",
+            "text": "I wish I could, but the system won't let me. You have to clear up the fine first."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman imply the man must do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The man must pay the required charge.",
+      "choice_b": "The man must clear off the library desk.",
+      "choice_c": "The man must waive the fee for her.",
+      "choice_d": "The man must receive a refund today.",
+      "correct_choice": "A",
+      "explanation": "正解は(A)です。男性の「Is there any chance you could...（〜していただくことは可能ですか）」という婉曲的な依頼に対し [cite: 13]、女性は「I wish I could, but...（そうしたいのですが…）」と丁寧に拒否しています [cite: 44]。正解の根拠となる「clear up（清算する・解決する）」というイディオムを [cite: 7]、「pay the required charge（要求されている料金を支払う）」と一歩引いた言葉に抽象化しています [cite: 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "「clear up」の「clear（片付ける）」という単語の文字通りの意味を拾わせた、似た音・同音語の罠です [cite: 1]。",
+      "wrong_reason_c": "「waive the fee」という会話文の一部を拾っていますが、行動の主体と目的がズレている部分一致型のディストラクタです [cite: 3]。",
+      "wrong_reason_d": "正解である「支払う」とは反対の意味を持つ「receive a refund（返金を受け取る）」という表現を意図的に入れた誤答です [cite: 5]。"
+    },
+    {
+      "question_text": "What does the man mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "woman",
+            "text": "Professor, would it be possible to get an extension on my literature paper? I've been a bit swamped right now."
+          },
+          {
+            "speaker": "man",
+            "text": "I'm afraid that won't be possible. I need everyone to hand in their assignments on time."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He is granting the woman more time.",
+      "choice_b": "He is handing out the final grades.",
+      "choice_c": "He is requiring the project as scheduled.",
+      "choice_d": "He is submitting a literature paper.",
+      "correct_choice": "C",
+      "explanation": "正解は(C)です。学生からの提出期限延長の依頼（Would it be possible to... [cite: 14]）に対し、教授は「I'm afraid that won't be possible.（残念ながらそれはできません）」と断っています [cite: 44]。正解は「hand in（提出する）」という句動詞を [cite: 6]、「requiring the project as scheduled（予定通りに課題を要求している）」という概念的な表現に言い換えています [cite: 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "正解である「予定通り提出させる（延長を認めない）」とは反対の意味（より多くの時間を与える）を意図的に組み込んだ誤答です [cite: 5]。",
+      "wrong_reason_b": "「hand in」と似た「hand out（配る）」という表現や、学校に関連する語彙を使って推測を誘う引っかけです [cite: 1, 7]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "「literature paper」という語彙は合っていますが、提出する主体が学生ではなく教授（He）にズレている部分一致の罠です [cite: 3]。全選択肢の文頭・時制は「He is ...ing」で統一されています [cite: 3, 4]。"
+    },
+    {
+      "question_text": "What does the second man imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man_a",
+            "text": "Haven't you already finished setting up the new printer for our room?"
+          },
+          {
+            "speaker": "man_b",
+            "text": "No, I haven't yet. I couldn't figure out the manual, so I decided to put off the installation."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the second man imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He will delay connecting the device.",
+      "choice_b": "He will take off the printer cover.",
+      "choice_c": "He will read the manual right now.",
+      "choice_d": "He will finish the setup for his roommate.",
+      "correct_choice": "A",
+      "explanation": "正解は(A)です。第1話者の否定疑問文（Haven't you already... [cite: 124]）に対し、第2話者は「No, I haven't yet.（いいえ、まだです）」と事実を述べています [cite: 126]。「put off（延期する）」というイディオムを [cite: 6]、「delay connecting（接続を遅らせる）」と抽象化して正解を作っています [cite: 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "「put off」と音が似ている「take off（外す・脱ぐ）」を連想させ、文字通りの物理的な動作と誤認させる罠です [cite: 1]。",
+      "wrong_reason_c": "「延期する」という正解とは反対に「right now（今すぐ）」行動するという、反対の意味を含んだ誤答です [cite: 5]。",
+      "wrong_reason_d": "「finish」や「setup」など会話文の一部を拾うと正しそうに見えますが、タイミングや事実関係がズレている部分一致型です [cite: 3]。"
+    },
+    {
+      "question_text": "What does the man suggest the woman do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "woman",
+            "text": "I'm having trouble with my group for the marketing presentation. One member is constantly falling behind on his research."
+          },
+          {
+            "speaker": "man",
+            "text": "You might want to talk over the expectations with him directly before I intervene."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man suggest the woman do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Address the issue with her peer.",
+      "choice_b": "Fall behind on the current research.",
+      "choice_c": "Present the marketing data to him.",
+      "choice_d": "Ignore the teammate's behavior completely.",
+      "correct_choice": "A",
+      "explanation": "正解は(A)です。グループワークの問題を報告する学生に対し、TAや教授の立場である男性が「You might want to...（〜したほうがいいかもしれない）」と助言を与えています [cite: 87]。「talk over（話し合う）」というイディオムを [cite: 8]、「Address the issue（問題に対処する）」と抽象化しています [cite: 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "スクリプトに登場した「fall behind（遅れをとる）」という印象的なイディオムをそのまま配置した「同音語・似た音」の罠です [cite: 1, 6]。",
+      "wrong_reason_c": "「marketing」や「present」といった登場語彙は合致していますが、行動の目的や内容がズレている部分一致型の選択肢です [cite: 3]。",
+      "wrong_reason_d": "直接話し合う（talk over）という正解の助言に対して、「Ignore（完全に無視する）」という反対の意味を意図的に入れています [cite: 5]。"
+    },
+    {
+      "question_text": "What does the woman imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 5."
+          },
+          {
+            "speaker": "man",
+            "text": "Do you happen to know if there's still space in Professor Miller's psychology class?"
+          },
+          {
+            "speaker": "woman",
+            "text": "I'm afraid it's completely booked up. But you could sign up for the waitlist just in case."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He may join a secondary list.",
+      "choice_b": "He should drop the psychology course.",
+      "choice_c": "He will secure a space immediately.",
+      "choice_d": "He must book an appointment today.",
+      "correct_choice": "A",
+      "explanation": "正解は(A)です。授業の空き状況を尋ねる男性（Do you happen to... [cite: 14]）に対し、女性は「booked up（予約でいっぱい）」と伝えたうえで、「sign up for the waitlist（キャンセル待ちに登録する）」ことを提案しています [cite: 8, 54]。これを「join a secondary list（二次的なリストに参加する）」と半歩具体化・抽象化したものが正解です [cite: 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "履修登録に関連する「drop（履修を取り消す）」という単語を用いて推測を誘う、文脈のすり替えです [cite: 133]。",
+      "wrong_reason_c": "すでに満席（booked up）であるにもかかわらず、「secure a space immediately（すぐに枠を確保できる）」という反対の意味を持たせた誤答です [cite: 5]。",
+      "wrong_reason_d": "「booked up（満席）」の「book」を「予約する」という別の意味（アポイントメント等）として解釈させる多義語・似た音の罠です [cite: 1, 128]。すべての選択肢の文頭は「He + 助動詞」で100%統一されています [cite: 3]。"
+    }
+  ]
+}
+{
+  "items": [
+    {
+      "question_text": "What does the man tell the woman to do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 6."
+          },
+          {
+            "speaker": "woman",
+            "text": "I'd like to check out these sociology journals, but the machine won't scan my ID."
+          },
+          {
+            "speaker": "man",
+            "text": "It looks like you've got an unpaid fine. You'll need to sort that out before borrowing anything."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man tell the woman to do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Sort the journals on the shelf.",
+      "choice_b": "Fix the broken scanner machine.",
+      "choice_c": "Find her missing student ID.",
+      "choice_d": "Pay the money she owes the library.",
+      "correct_choice": "D",
+      "explanation": "男性は「sort that out（それを解決する）」と述べており、未払いの罰金（unpaid fine）を精算することを暗に求めています [cite: 131]。具体的な動作を一歩引いた言葉（お金を支払う）に抽象化した(D)が正解です [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "音声の「sort（解決する・分類する）」と「journals（雑誌）」を拾った部分一致および多義語のひっかけです [cite: 3, 128]。雑誌を整理するようには言っていません。",
+      "wrong_reason_b": "「machine（機械）」という単語を拾った部分一致のひっかけです。機械を直すようには言っていません [cite: 3]。",
+      "wrong_reason_c": "「ID」という単語を拾った部分一致です。IDを紛失した（missing）わけではありません [cite: 3]。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What will the woman probably do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 7."
+          },
+          {
+            "speaker": "man",
+            "text": "Do you think you could keep the noise down a bit? I'm trying to prep for my history midterm."
+          },
+          {
+            "speaker": "woman",
+            "text": "Oh, sorry! I didn't realize the walls were so thin. I'll put my headphones on."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What will the woman probably do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Listen to her music quietly.",
+      "choice_b": "Keep the history book down on the desk.",
+      "choice_c": "Help the man prepare for his test.",
+      "choice_d": "Buy some new headphones.",
+      "correct_choice": "A",
+      "explanation": "女性は「put my headphones on（ヘッドホンをつける）」と言っており、自分だけで音が聞こえるようにする（静かにする）ことを示唆しています [cite: 132]。具体的な動作を少し抽象化した(A)が正解です [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "「keep the noise down（静かにする）」という表現の「keep down」を文字通りの「下に置く」という意味で使ったイディオムの文字通り解釈の罠です [cite: 9]。",
+      "wrong_reason_c": "男性の「prep for my history midterm（中間テストの準備をする）」という発話の一部を拾ったひっかけです。女性が勉強を手伝うわけではありません [cite: 3]。",
+      "wrong_reason_d": "「headphones（ヘッドホン）」という単語を使った部分一致のひっかけです。新しいものを買うわけではありません [cite: 3]。"
+    },
+    {
+      "question_text": "What does the man suggest the woman do?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 8."
+          },
+          {
+            "speaker": "woman",
+            "text": "I was hoping to add Professor Smith's advanced calculus course, but it's completely full."
+          },
+          {
+            "speaker": "man",
+            "text": "You might want to get on the waitlist. People drop classes all the time during the first week."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man suggest the woman do?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Drop out of her current calculus class.",
+      "choice_b": "Wait a week to buy the textbook.",
+      "choice_c": "Sign up for a spot in case someone leaves.",
+      "choice_d": "Add a completely different course instead.",
+      "correct_choice": "C",
+      "explanation": "男性は満員の授業を取りたい女性に対して「get on the waitlist（キャンセル待ちのリストに登録する）」ことを提案しています [cite: 131]。この具体的な提案を「誰かが辞めたときのために枠に登録する」と抽象化した(C)が正解です [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「drop classes（授業の履修を取り消す）」の「drop」を拾い、女性自身が今の授業を取り消すという内容にすり替えた主体と行動のズレの罠です [cite: 3, 8]。",
+      "wrong_reason_b": "「waitlist」の「wait」と「first week」の「week」を拾った部分一致のひっかけです。1週間待って教科書を買うわけではありません [cite: 3]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "「add（追加する）」「completely（完全に）」「course（授業）」といった登場語彙を組み合わせたもっともらしい選択肢ですが、男性が提案した内容とは異なります [cite: 3]。"
+    },
+    {
+      "question_text": "What does the woman imply?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 9."
+          },
+          {
+            "speaker": "man",
+            "text": "A bunch of us are heading over to the cafeteria for lunch. Wanna tag along?"
+          },
+          {
+            "speaker": "woman",
+            "text": "I'd love to, but I've got a lot on my plate right now. I'll just grab an apple."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman imply?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "She already ate a full plate of food.",
+      "choice_b": "She is too busy to join them for a meal.",
+      "choice_c": "She wants to buy an apple at the cafeteria.",
+      "choice_d": "She will tag along with them later.",
+      "correct_choice": "B",
+      "explanation": "女性は「I'd love to, but...（ぜひ行きたいのですが…）」と誘いを断り、「have a lot on my plate（やることが山積みだ）」というイディオムを使って忙しいことを伝えています [cite: 44, 53]。これを抽象化した(B)が正解です [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "イディオム「have a lot on my plate」の「plate（皿）」から文字通りの「食事の皿」を連想させるひっかけです [cite: 53]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "「apple（りんご）」と「cafeteria（カフェテリア）」という単語を使った部分一致です。カフェテリアに買いに行くわけではありません [cite: 3]。",
+      "wrong_reason_d": "後で合流する（later）とは言っていません。「I'll just grab an apple（りんごだけで済ませる）」と言っており、行動のタイミングがズレています [cite: 3]。"
+    },
+    {
+      "question_text": "What does the man mean?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 10."
+          },
+          {
+            "speaker": "woman",
+            "text": "Is there any chance I could hand in my lab report tomorrow? I'm running a little behind."
+          },
+          {
+            "speaker": "man",
+            "text": "The syllabus is pretty strict about late work. You'd better wrap it up tonight."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the man mean?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He will hand the report back tomorrow.",
+      "choice_b": "The woman must submit the assignment on time.",
+      "choice_c": "The woman should wrap the report in a folder.",
+      "choice_d": "He is running behind on grading the papers.",
+      "correct_choice": "B",
+      "explanation": "女性の提出期限延長の婉曲的な依頼（is there any chance I could...）に対し、男性（教授）は「strict（厳しい）」「wrap it up tonight（今夜終わらせるべきだ）」と述べて拒否しています [cite: 8, 13, 131]。これを「時間通りに提出しなければならない」と言い換えた(B)が正解です [cite: 1, 2]。",
+      "tag": "shortConv",
+      "wrong_reason_a": "「hand in（提出する）」を「hand back（返却する）」にすり替え、主体も男性に変更した部分一致の罠です [cite: 3, 6, 10]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "イディオム「wrap up（終わらせる）」を文字通り「包む」という意味に解釈させた罠です [cite: 8]。",
+      "wrong_reason_d": "「running behind（遅れている）」という状況を、女性ではなく男性（教授の採点）の状況であるかのようにすり替えた主体のズレのひっかけです [cite: 3]。"
+    }
+  ]
+}

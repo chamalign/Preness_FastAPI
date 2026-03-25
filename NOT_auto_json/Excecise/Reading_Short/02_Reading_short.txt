@@ -1,0 +1,149 @@
+﻿{
+  "passages": [
+    {
+      "passage": "Emerging in the arid environments adjacent to the Great Basin, the Ancestral Puebloans developed sophisticated agricultural and architectural strategies to sustain their communities. Operating primarily in the Colorado Plateau between the ninth and thirteenth centuries, this collective sought to maximize limited water resources while adapting to fluctuating climatic conditions. While initially characterized by dispersed settlements, the civilization's demographic patterns gradually transitioned toward highly nucleated centers, arguably reflecting a complex response to environmental constraints.\n\nTo facilitate their agricultural subsistence in a precarious environment, the Ancestral Puebloans implemented extensive terracing and check dams to capture seasonal runoff. They primarily cultivated maize, beans, and squash, a nutritional triad that provided essential proteins and carbohydrates. This agricultural stratification not only stabilized local food supplies but also facilitated the accumulation of surplus resources. Furthermore, the populations utilized advanced masonry techniques to construct multistory dwellings and subterranean ceremonial structures known as kivas. These structures, characterized by a circular floor plan, a central fire pit, and a small hole in the floor, arguably served as focal points for social integration. Consequently, the widespread construction of these communal spaces potentially mitigated internal social friction, enabling the Ancestral Puebloans to maintain structural cohesion within increasingly dense settlements for several centuries.\n\nDespite their remarkable adaptations, the demographic concentration of the Ancestral Puebloans eventually began to disperse by the late thirteenth century. Prolonged periods of severe drought, combined with potential resource depletion and shifting climatic norms, likely undermined the region's carrying capacity. In some cases, localized conflicts may have further exacerbated this societal fragmentation. Ultimately, while the population did not entirely vanish, their regional dominance was largely superseded by alternative settlement strategies, leaving an archaeological legacy that primarily informs contemporary understandings of environmental adaptation.",
+      "questions": [
+        {
+          "question_text": "What does the passage mainly discuss?",
+          "choice_a": "The technological advancements in masonry used by the Ancestral Puebloans.",
+          "choice_b": "The cultural significance of agricultural practices in the Great Basin.",
+          "choice_c": "The environmental adaptations and eventual dispersal of an ancient civilization.",
+          "choice_d": "The causes of prolonged severe droughts in the Colorado Plateau.",
+          "correct_choice": "C",
+          "explanation": "第1・2段落でAncestral Puebloansの厳しい環境に対する適応（農業・建築）が語られ、第3段落でその後の集落の分散（衰退・移行）が述べられているため、本文全体を中程度の抽象度で要約したCが正解となります。",
+          "tag": "mainIdea",
+          "wrong_reason_a": "石造建築技術の進歩は第2段落の一部で触れられているのみであり、全体主題としては狭すぎます。",
+          "wrong_reason_b": "農業の実践については述べられていますが、文化的意義を中心とした議論ではなく、また地理的焦点もGreat Basinそのものではありません。",
+          "wrong_reason_c": null,
+          "wrong_reason_d": "干ばつは衰退の一因として第3段落で言及されていますが、干ばつの「原因」については議論されていません。"
+        },
+        {
+          "question_text": "The word \"fluctuating\" in line 4 is closest in meaning to",
+          "choice_a": "changing",
+          "choice_b": "extreme",
+          "choice_c": "predictable",
+          "choice_d": "harsh",
+          "correct_choice": "A",
+          "explanation": "4文目の「fluctuating climatic conditions（変動する気候条件）」において、fluctuatingは「変動する、変化する」という意味を持つため、changing（変化する）が最も適切な言い換えとなります。",
+          "tag": "vocab",
+          "wrong_reason_a": null,
+          "wrong_reason_b": "extreme（極端な）は文脈上もっともらしいですが、fluctuatingの直接的な意味（変動）ではありません。",
+          "wrong_reason_c": "predictable（予測可能な）は、気候の変動や適応の困難さを示す文脈とは逆の意味になります。",
+          "wrong_reason_d": "harsh（厳しい）は気候の性質を説明する可能性はありますが、単語の直接的な同義語ではありません。"
+        },
+        {
+          "question_text": "According to the passage, the Ancestral Puebloans utilized terracing and check dams in order to",
+          "choice_a": "defend their increasingly dense settlements against potential localized conflicts.",
+          "choice_b": "successfully capture the seasonal runoff required for their agricultural subsistence.",
+          "choice_c": "support the construction of stable multistory dwellings in a precarious environment.",
+          "choice_d": "securely store surplus resources such as maize, beans, and squash.",
+          "correct_choice": "B",
+          "explanation": "第2段落の「implemented extensive terracing and check dams to capture seasonal runoff（季節的な地表水を捉えるために広範な段々畑やチェックダムを導入した）」という記述と一致するため正解です。",
+          "tag": "fact",
+          "wrong_reason_a": "局地的な紛争（localized conflicts）への防衛を目的としていたという記述は本文にありません。",
+          "wrong_reason_b": null,
+          "wrong_reason_c": "多層住居（multistory dwellings）の建設を支援するためではなく、農業のための水確保が目的です。",
+          "wrong_reason_d": "余剰資源の貯蔵目的で段々畑やダムを造ったとは述べられていません。"
+        },
+        {
+          "question_text": "Why does the author mention \"maize, beans, and squash\" in line 10?",
+          "choice_a": "To compare the diets of dispersed settlements and nucleated centers.",
+          "choice_b": "To emphasize the inherent difficulty of farming within the Great Basin.",
+          "choice_c": "To provide specific examples of the crops that supplied essential nutrients.",
+          "choice_d": "To argue that agricultural stratification inevitably caused internal social friction.",
+          "correct_choice": "C",
+          "explanation": "10文目の「maize, beans, and squash」は、必須のタンパク質と炭水化物を提供する「栄養の三本柱（nutritional triad）」の具体例として言及されているため、Cが正解となります。",
+          "tag": "rhetorical",
+          "wrong_reason_a": "分散した集落と密集した中心地の食事を比較するためには用いられていません。",
+          "wrong_reason_b": "農業の困難さを強調するための例示ではありません。",
+          "wrong_reason_c": null,
+          "wrong_reason_d": "農業の階層化が社会摩擦を引き起こしたと主張するためではなく、むしろ安定をもたらしたと述べられています。"
+        },
+        {
+          "question_text": "The word \"subterranean\" in line 14 is closest in meaning to",
+          "choice_a": "underground",
+          "choice_b": "sacred",
+          "choice_c": "extensive",
+          "choice_d": "fortified",
+          "correct_choice": "A",
+          "explanation": "14文目の「subterranean ceremonial structures（地下の儀式用構造物）」において、subterraneanは「地下の」という意味を持つため、undergroundと同義になります。",
+          "tag": "vocab",
+          "wrong_reason_a": null,
+          "wrong_reason_b": "sacred（神聖な）はceremonial（儀式の）という修飾語と概念は近いですが、subterranean自体の意味ではありません。",
+          "wrong_reason_c": "extensive（広大な）は位置（地下）を表す言葉の言い換えとしては不適切です。",
+          "wrong_reason_d": "fortified（要塞化された）という意味は文脈に含まれていません。"
+        },
+        {
+          "question_text": "The phrase \"These structures\" in line 14 is used to refer to",
+          "choice_a": "surplus agricultural resources",
+          "choice_b": "advanced masonry techniques",
+          "choice_c": "subterranean kivas",
+          "choice_d": "social focal points",
+          "correct_choice": "C",
+          "explanation": "14文目の「These structures（これらの構造物）」は、直前の文で言及されている「subterranean ceremonial structures known as kivas（キヴァとして知られる地下の儀式用構造物）」を指しています。",
+          "tag": "usage",
+          "wrong_reason_a": "農業の余剰資源は構造物（structures）ではないため、代名詞の指す対象として誤りです。",
+          "wrong_reason_b": "石造技術（techniques）は構造物そのものではありません。",
+          "wrong_reason_c": null,
+          "wrong_reason_d": "社会的焦点（focal points）はこれらの構造物が果たした役割であり、代名詞の直接の先行詞ではありません。"
+        },
+        {
+          "question_text": "Which of the following is NOT mentioned in the passage as a characteristic of kivas?",
+          "choice_a": "They were constructed with a circular floor plan.",
+          "choice_b": "They featured multiple entrances for community access.",
+          "choice_c": "They were equipped with a central fire pit.",
+          "choice_d": "They contained a small hole situated in the floor.",
+          "correct_choice": "B",
+          "explanation": "第2段落においてキヴァの特徴として「circular floor plan」「a central fire pit」「a small hole in the floor」が挙げられていますが、複数の入り口（multiple entrances）については一切言及されていません。",
+          "tag": "not",
+          "wrong_reason_a": "本文に「a circular floor plan」を持つとして明記されています。",
+          "wrong_reason_b": null,
+          "wrong_reason_c": "本文に「a central fire pit」を持つとして明記されています。",
+          "wrong_reason_d": "本文に「a small hole in the floor」を持つとして明記されています。"
+        },
+        {
+          "question_text": "According to the passage, which of the following contributed to the dispersion of the Ancestral Puebloans?",
+          "choice_a": "The introduction of new agricultural crops from outside the region.",
+          "choice_b": "Environmental challenges such as prolonged droughts and potential resource depletion.",
+          "choice_c": "The structural failure of their advanced masonry techniques over several centuries.",
+          "choice_d": "A widespread societal rejection of communal spaces and social integration.",
+          "correct_choice": "B",
+          "explanation": "第3段落に、衰退と分散の原因として「Prolonged periods of severe drought, combined with potential resource depletion（長期にわたる厳しい干ばつと、潜在的な資源の枯渇）」が挙げられているため、Bが正解です。",
+          "tag": "fact",
+          "wrong_reason_a": "外部地域からの新しい農作物の導入が分散の原因になったとは書かれていません。",
+          "wrong_reason_b": null,
+          "wrong_reason_c": "数世紀にわたる石造技術の構造的な失敗が原因であるとは述べられていません。",
+          "wrong_reason_d": "共有空間や社会的統合に対する社会全体の拒絶があったという記述はありません。"
+        },
+        {
+          "question_text": "The word \"exacerbated\" in line 24 is closest in meaning to",
+          "choice_a": "worsened",
+          "choice_b": "caused",
+          "choice_c": "delayed",
+          "choice_d": "resolved",
+          "correct_choice": "A",
+          "explanation": "24文目の「exacerbated this societal fragmentation（この社会的分裂を悪化させた）」において、exacerbatedは「悪化させる、激化させる」という意味であるため、worsenedが正解です。",
+          "tag": "vocab",
+          "wrong_reason_a": null,
+          "wrong_reason_b": "caused（引き起こした）は、すでに起きている分裂をさらに進行させたという元のニュアンス（悪化）とは異なります。",
+          "wrong_reason_c": "delayed（遅らせた）は文脈と逆の意味になります。",
+          "wrong_reason_d": "resolved（解決した）は文脈と完全に逆の意味です。"
+        },
+        {
+          "question_text": "It can be inferred from the passage that the Ancestral Puebloans' shift to alternative settlement strategies",
+          "choice_a": "enabled them to quickly re-establish their regional dominance in the Great Basin.",
+          "choice_b": "was a necessary adaptation to environments that could no longer support dense populations.",
+          "choice_c": "ultimately resulted in the complete abandonment of their traditional agricultural practices.",
+          "choice_d": "primarily involved conquering neighboring civilizations to secure access to limited water resources.",
+          "correct_choice": "B",
+          "explanation": "第3段落で、地域の環境収容力（carrying capacity）が低下し、社会的分裂を経て「代替の定住戦略（alternative settlement strategies）」へ移行したと述べられていることから、これは密集した人口を維持できなくなった環境に対する必然的な適応であったと論理的に推論できます。",
+          "tag": "inference",
+          "wrong_reason_a": "地域的な支配（regional dominance）は失われた（superseded）と明記されているため、矛盾します。",
+          "wrong_reason_b": null,
+          "wrong_reason_c": "伝統的な農業を「完全に放棄した（complete abandonment）」とするのは、本文の控えめな表現（population did not entirely vanish）から飛躍しすぎた過度の推論です。",
+          "wrong_reason_d": "水資源確保のために近隣文明を征服したという事実は本文に含まれておらず、外部知識の追加・論理の飛躍となります。"
+        }
+      ]
+    }
+  ]
+}

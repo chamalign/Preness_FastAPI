@@ -1,0 +1,132 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What is the main topic of the lecture?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "In today's lecture, we will continue from last week's discussion on ecological stability. Last time, we covered native species and their roles. Today, let's look at a major threat to these ecosystems: invasive species. Essentially, these are non-native organisms that are introduced to a new environment and cause significant harm. That is to say, they don't naturally belong there, and they damage the local habitat. Does that make sense? First, let's consider why they are so successful. One major reason is the absence of natural predators. In their new habitat, there is nothing to hunt or eat them. Because of this, their population grows rapidly. To illustrate this, let's look at the cane toad in Australia. This is a classic example. Originally introduced in the 1930s to control beetles that were destroying sugar cane crops, the toads completely ignored the beetles. Instead of solving the problem, they became a disaster. Why? Because they are highly toxic. Any local predator, like a snake or crocodile, that tries to eat a cane toad usually dies. But that's not all. They also reproduce at an alarming rate. A single female can lay thousands of eggs. So, they outcompete native species for food and shelter. The native animals simply cannot survive the intense competition. As we've seen, introducing an organism to solve one problem can create a much larger crisis. Keep in mind that ecosystems are incredibly delicate balances. Any questions so far on how these non-native populations spread?"
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the main topic of the lecture?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The importance of native species in ecological stability",
+      "choice_b": "The destructive impact of introduced foreign organisms on local environments",
+      "choice_c": "The reasons why sugar cane crops were destroyed by beetles in the 1930s",
+      "choice_d": "How natural predators help control the rapid growth of animal populations",
+      "correct_choice": "B",
+      "explanation": "講義全体を通して、本来の生息地ではない場所に持ち込まれ、現地の生態系に被害を与える「外来種（invasive species）」がもたらす悪影響について解説しています [cite: 20]。定義提示から具体例、そして要点の再確認という流れで展開されています [cite: 15]。正解選択肢には、本文の単語をそのまま使うのではなく、意味を汲み取った別の表現（introduced foreign organisms）が使われています [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "本文の導入部で前回までの内容として触れられていますが、今回の講義の主題ではありません [cite: 17]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "サトウキビ畑の害虫（beetles）に関する言及は、あくまで外来種の具体例（オオヒキガエル）を説明する際の一部にすぎません [cite: 17]。",
+      "wrong_reason_d": "本文中の「natural predators（天敵）」や「population grows（個体数増加）」という登場単語を間違った文脈で使い、論理を壊したひっかけ選択肢です [cite: 4]。天敵による抑制ではなく、天敵の不在が問題とされています。"
+    },
+    {
+      "question_text": "According to the professor, what is one reason non-native organisms multiply rapidly?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "man",
+            "text": "In today's lecture, we will continue from last week's discussion on ecological stability. Last time, we covered native species and their roles. Today, let's look at a major threat to these ecosystems: invasive species. Essentially, these are non-native organisms that are introduced to a new environment and cause significant harm. That is to say, they don't naturally belong there, and they damage the local habitat. Does that make sense? First, let's consider why they are so successful. One major reason is the absence of natural predators. In their new habitat, there is nothing to hunt or eat them. Because of this, their population grows rapidly. To illustrate this, let's look at the cane toad in Australia. This is a classic example. Originally introduced in the 1930s to control beetles that were destroying sugar cane crops, the toads completely ignored the beetles. Instead of solving the problem, they became a disaster. Why? Because they are highly toxic. Any local predator, like a snake or crocodile, that tries to eat a cane toad usually dies. But that's not all. They also reproduce at an alarming rate. A single female can lay thousands of eggs. So, they outcompete native species for food and shelter. The native animals simply cannot survive the intense competition. As we've seen, introducing an organism to solve one problem can create a much larger crisis. Keep in mind that ecosystems are incredibly delicate balances. Any questions so far on how these non-native populations spread?"
+          },
+          {
+            "speaker": "narrator",
+            "text": "According to the professor, what is one reason non-native organisms multiply rapidly?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "They are brought in to protect native animals.",
+      "choice_b": "They provide a new food source for local predators like crocodiles.",
+      "choice_c": "They destroy the delicate balance of beetles in the environment.",
+      "choice_d": "They do not face threats from animals that would typically hunt them.",
+      "correct_choice": "D",
+      "explanation": "外来種が成功する（急速に増える）理由を尋ねる設問です [cite: 9]。講義内で「absence of natural predators（天敵の不在）」が挙げられており、「there is nothing to hunt or eat them」と補足されています [cite: 3]。これを「狩る動物の脅威に直面しない」と言い換えたDが正解です [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "本文中の「introduced（持ち込まれた）」という概念を使っていますが、在来動物を保護するためではありません。単語を間違った文脈で使っています [cite: 4]。",
+      "wrong_reason_b": "ワニなどの天敵の「新たな餌」になるどころか、毒によって天敵を殺してしまうと述べられています。これも本文の単語を流用したひっかけです [cite: 4]。",
+      "wrong_reason_c": "環境におけるカブトムシの微妙なバランスを破壊するとは述べられていません。「delicate balances」と「beetles」という本文の単語を組み合わせて論理を壊しています [cite: 4]。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "Why were cane toads originally brought to Australia?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "In today's lecture, we will continue from last week's discussion on ecological stability. Last time, we covered native species and their roles. Today, let's look at a major threat to these ecosystems: invasive species. Essentially, these are non-native organisms that are introduced to a new environment and cause significant harm. That is to say, they don't naturally belong there, and they damage the local habitat. Does that make sense? First, let's consider why they are so successful. One major reason is the absence of natural predators. In their new habitat, there is nothing to hunt or eat them. Because of this, their population grows rapidly. To illustrate this, let's look at the cane toad in Australia. This is a classic example. Originally introduced in the 1930s to control beetles that were destroying sugar cane crops, the toads completely ignored the beetles. Instead of solving the problem, they became a disaster. Why? Because they are highly toxic. Any local predator, like a snake or crocodile, that tries to eat a cane toad usually dies. But that's not all. They also reproduce at an alarming rate. A single female can lay thousands of eggs. So, they outcompete native species for food and shelter. The native animals simply cannot survive the intense competition. As we've seen, introducing an organism to solve one problem can create a much larger crisis. Keep in mind that ecosystems are incredibly delicate balances. Any questions so far on how these non-native populations spread?"
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why were cane toads originally brought to Australia?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "To compete with local snakes and crocodiles for food and shelter",
+      "choice_b": "To serve as a toxic defense mechanism for sugar cane crops",
+      "choice_c": "To eliminate an insect that was damaging agricultural fields",
+      "choice_d": "To restore the incredibly delicate balance of native populations",
+      "correct_choice": "C",
+      "explanation": "原因・理由を尋ねる設問です [cite: 9]。オオヒキガエルがオーストラリアに持ち込まれた理由について、「to control beetles that were destroying sugar cane crops（サトウキビ畑を荒らすカブトムシを駆除するため）」と述べられています。これを「農地を荒らす昆虫を排除するため」と言い換えたCが正解です [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "ヘビやワニと「餌や住み処を争うため」に持ち込まれたわけではありません。これらは本文に登場した単語をすべて使いつつ論理を壊した選択肢（Distractor）です [cite: 4]。",
+      "wrong_reason_b": "サトウキビの「有毒な（toxic）防衛機能」として機能させるためではありません。「toxic」という単語を誤った文脈で使っています [cite: 4]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "「delicate balance（微妙なバランス）」を回復させるためではありません。本文の表現を使ったひっかけです [cite: 4]。"
+    },
+    {
+      "question_text": "What can be inferred about local predators that consume cane toads?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "man",
+            "text": "In today's lecture, we will continue from last week's discussion on ecological stability. Last time, we covered native species and their roles. Today, let's look at a major threat to these ecosystems: invasive species. Essentially, these are non-native organisms that are introduced to a new environment and cause significant harm. That is to say, they don't naturally belong there, and they damage the local habitat. Does that make sense? First, let's consider why they are so successful. One major reason is the absence of natural predators. In their new habitat, there is nothing to hunt or eat them. Because of this, their population grows rapidly. To illustrate this, let's look at the cane toad in Australia. This is a classic example. Originally introduced in the 1930s to control beetles that were destroying sugar cane crops, the toads completely ignored the beetles. Instead of solving the problem, they became a disaster. Why? Because they are highly toxic. Any local predator, like a snake or crocodile, that tries to eat a cane toad usually dies. But that's not all. They also reproduce at an alarming rate. A single female can lay thousands of eggs. So, they outcompete native species for food and shelter. The native animals simply cannot survive the intense competition. As we've seen, introducing an organism to solve one problem can create a much larger crisis. Keep in mind that ecosystems are incredibly delicate balances. Any questions so far on how these non-native populations spread?"
+          },
+          {
+            "speaker": "narrator",
+            "text": "What can be inferred about local predators that consume cane toads?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "They are killed by the poisonous substances the toads possess.",
+      "choice_b": "They reproduce at an alarming rate to survive the competition.",
+      "choice_c": "They learn to ignore the toads completely over time.",
+      "choice_d": "They lay thousands of eggs to outcompete the new invasive species.",
+      "correct_choice": "A",
+      "explanation": "オオヒキガエルを食べようとする地元の捕食者（ヘビやワニなど）について、カエルが「highly toxic（猛毒）」であるため「usually dies（大抵死ぬ）」と述べられています。これを「有毒物質によって殺される」と言い換えたAが推測できます [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "「驚異的なスピードで繁殖する（reproduce at an alarming rate）」のは捕食者ではなく、オオヒキガエルの方です。本文の単語を間違った文脈で使っています [cite: 4]。",
+      "wrong_reason_c": "カエルを完全に「無視する（ignore）」のは捕食者ではなく、カエルが本来の標的であるカブトムシを無視したという文脈で使われています [cite: 4]。",
+      "wrong_reason_d": "「何千個もの卵を産む（lay thousands of eggs）」のもオオヒキガエルについての説明であり、捕食者の話ではありません。主語をすり替えたひっかけです [cite: 4]。"
+    }
+  ]
+}

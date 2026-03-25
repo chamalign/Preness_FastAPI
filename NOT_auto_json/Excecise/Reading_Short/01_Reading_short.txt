@@ -1,0 +1,149 @@
+﻿{
+"passages": [
+{
+"passage": "Emerging in the late Middle Ages, the Hanseatic League functioned primarily as a commercial and defensive confederation of merchant guilds and market towns. Operating extensively along the coast of Northern Europe, Hanseatic merchants sought to secure lucrative trade routes and protect their mutual interests against piracy and arbitrary taxation. While initially a loose association, the organization's influence gradually expanded over the centuries, significantly shaping the economic and political landscape of the Baltic Sea region and beyond.\n\nTo facilitate their extensive trading network, the league established trading posts, known as Kontore, in key foreign cities such as Bruges and London. These enclaves operated under their own legal systems, providing merchants with a secure environment to conduct business. The league primarily exported raw materials like timber, furs, and wax from the east, while importing manufactured goods, cloth, and salt from the west. This stratification of goods not only stimulated regional economies but also facilitated cultural dissemination across Northern Europe. Furthermore, the Hanseatic merchants utilized advanced maritime technology, notably the cog. The cog was a type of ship characterized by a flat bottom, a single square sail, and a stern-mounted rudder, which allowed for greater cargo capacity compared to earlier vessels. Consequently, the widespread adoption of the cog arguably revolutionized maritime logistics, enabling the league to maintain its commercial dominance for several centuries.\n\nDespite its prolonged prosperity, the league's monopoly eventually began to wane by the late sixteenth century. The rise of centralized nation-states, combined with shifting trade routes following the discovery of the Americas, gradually undermined the confederation's structural advantages. In some cases, internal disputes among member cities further exacerbated this decline. Ultimately, while the Hanseatic League did not formally dissolve until much later, its role as the preeminent economic power in Northern Europe was largely superseded by emerging national economies, leaving a legacy that primarily influenced modern transnational trade agreements.",
+"questions": [
+{
+"question_text": "What does the passage mainly discuss?",
+"choice_a": "The technological advancements in shipbuilding during the Middle Ages.",
+"choice_b": "The historical development and eventual decline of a prominent trade confederation.",
+"choice_c": "The cultural impact of raw material exports from the Baltic Sea region.",
+"choice_d": "The legal systems established by Northern European market towns.",
+"correct_choice": "B",
+"explanation": "第1段落でハンザ同盟の起源と目的、第2段落でその貿易網や技術的強み、第3段落で衰退の過程が述べられているため、同盟の歴史的発展と最終的な衰退をまとめた選択肢が正解となります。",
+"tag": "mainIdea",
+"wrong_reason_a": "造船技術は第2段落の一部で触れられているのみであり、全体的主題ではありません。",
+"wrong_reason_b": null,
+"wrong_reason_c": "原材料の輸出は貿易の一部であり、本文全体を網羅した要約ではありません。",
+"wrong_reason_d": "法制度は貿易拠点に関する局所的な詳細であり、主題ではありません。"
+},
+{
+"question_text": "The word "lucrative" in line 4 is closest in meaning to",
+"choice_a": "profitable",
+"choice_b": "dangerous",
+"choice_c": "expansive",
+"choice_d": "traditional",
+"correct_choice": "A",
+"explanation": "文脈上、商人たちが確保しようとした「利益の上がる」交易ルートを指すため、profitable（利益をもたらす）が同義語となります。",
+"tag": "vocab",
+"wrong_reason_a": null,
+"wrong_reason_b": "危険なルートを確保するという意味では文脈に合いません。",
+"wrong_reason_c": "広範なルートという性質はあり得ますが、文脈上利益を追求する目的の方が適しています。",
+"wrong_reason_d": "伝統的なルートよりも、経済的な利益を重視する記述であるため不適切です。"
+},
+{
+"question_text": "According to the passage, Hanseatic merchants initially formed an association in order to",
+"choice_a": "establish new manufacturing centers in foreign countries.",
+"choice_b": "spread their political ideology to emerging nation-states.",
+"choice_c": "protect their trade networks from maritime threats and unfair levies.",
+"choice_d": "conquer coastal territories along the Baltic Sea.",
+"correct_choice": "C",
+"explanation": "第1段落に「海賊行為や恣意的な課税から互いの利益を保護する（protect their mutual interests against piracy and arbitrary taxation）」と記載されているため、これが正解となります。",
+"tag": "fact",
+"wrong_reason_a": "海外に新たな製造拠点を設立するとは本文に書かれていません。",
+"wrong_reason_b": "政治的イデオロギーを広める目的については言及されていません。",
+"wrong_reason_c": null,
+"wrong_reason_d": "バルト海沿岸の領土を武力で征服するとは述べられていません。"
+},
+{
+"question_text": "The phrase "These enclaves" in line 12 is used to refer to",
+"choice_a": "legal systems",
+"choice_b": "trading posts",
+"choice_c": "merchant guilds",
+"choice_d": "foreign cities",
+"correct_choice": "B",
+"explanation": "line 12の「These enclaves（これらの飛び地）」の直前の文で、外国の都市に設立された「trading posts（貿易拠点）」について説明しており、これが参照先となります。",
+"tag": "usage",
+"wrong_reason_a": "法制度は拠点が運営される際のルールであり、飛び地そのものではありません。",
+"wrong_reason_b": null,
+"wrong_reason_c": "商人ギルドは同盟を構成する組織であり、設立された飛び地そのものを指しません。",
+"wrong_reason_d": "外国の都市全体を指すのではなく、その中に設立された拠点を指しています。"
+},
+{
+"question_text": "According to the passage, what did the league import from the west?",
+"choice_a": "Raw materials such as timber and wax.",
+"choice_b": "Advanced maritime technology like the cog.",
+"choice_c": "Manufactured goods, cloth, and salt.",
+"choice_d": "Furs and other agricultural products.",
+"correct_choice": "C",
+"explanation": "第2段落の「importing manufactured goods, cloth, and salt from the west」という記述と完全に一致するため正解です。",
+"tag": "fact",
+"wrong_reason_a": "木材や蝋などの原材料は東から輸出されたもの（exported ... from the east）です。",
+"wrong_reason_b": "高度な海事技術は輸入されたものとして言及されていません。",
+"wrong_reason_c": null,
+"wrong_reason_d": "毛皮は東から輸出されたもの（exported ... from the east）です。"
+},
+{
+"question_text": "The word "dissemination" in line 18 is closest in meaning to",
+"choice_a": "spread",
+"choice_b": "restriction",
+"choice_c": "analysis",
+"choice_d": "replacement",
+"correct_choice": "A",
+"explanation": "商品の流通が北欧全体での文化の「普及・伝播」を促進したという文脈であるため、spread（広がり）が正解となります。",
+"tag": "vocab",
+"wrong_reason_a": null,
+"wrong_reason_b": "制限（restriction）では文脈と逆の意味になってしまいます。",
+"wrong_reason_c": "分析（analysis）は文化の伝播という文脈に合致しません。",
+"wrong_reason_d": "置き換え（replacement）は文化が広がることを意味しません。"
+},
+{
+"question_text": "Why does the author mention "the cog" in line 20?",
+"choice_a": "To explain the primary cause of internal disputes among member cities.",
+"choice_b": "To argue that maritime trade was more dangerous than land-based routes.",
+"choice_c": "To contrast Northern European ships with those used in the Americas.",
+"choice_d": "To provide an example of the technological factors that supported the league's commercial success.",
+"correct_choice": "D",
+"explanation": "cog（コグ船）は、ハンザ同盟の商業的支配を数世紀にわたり可能にした高度な海事技術（advanced maritime technology）の一例として提示されています。",
+"tag": "rhetorical",
+"wrong_reason_a": "加盟都市間の内部紛争の原因として言及されているわけではありません。",
+"wrong_reason_b": "海上貿易が陸路より危険であったと主張するためではありません。",
+"wrong_reason_c": "アメリカ大陸で使用された船との比較は行われていません。",
+"wrong_reason_d": null
+},
+{
+"question_text": "All of the following are mentioned as characteristics of the cog EXCEPT",
+"choice_a": "a flat bottom",
+"choice_b": "a stern-mounted rudder",
+"choice_c": "multiple masts",
+"choice_d": "a single square sail",
+"correct_choice": "C",
+"explanation": "本文中ではcogの特徴として「flat bottom」「a single square sail」「a stern-mounted rudder」が挙げられていますが、「multiple masts（複数のマスト）」への言及はありません。",
+"tag": "not",
+"wrong_reason_a": "本文に「flat bottom」を持つとして明記されています。",
+"wrong_reason_b": "本文に「a stern-mounted rudder」を持つとして明記されています。",
+"wrong_reason_c": null,
+"wrong_reason_d": "本文に「a single square sail」を持つとして明記されています。"
+},
+{
+"question_text": "The word "wane" in line 28 is closest in meaning to",
+"choice_a": "stabilize",
+"choice_b": "decline",
+"choice_c": "transform",
+"choice_d": "expand",
+"correct_choice": "B",
+"explanation": "第3段落で、ハンザ同盟の独占が16世紀後半までに衰退し始めた（began to wane）と述べられており、decline（衰退する）が最も近い意味となります。",
+"tag": "vocab",
+"wrong_reason_a": "安定する（stabilize）では、その後の衰退の文脈に合いません。",
+"wrong_reason_b": null,
+"wrong_reason_c": "変化する（transform）は衰退という特定の方向性やニュアンスを持ちません。",
+"wrong_reason_d": "拡大する（expand）は文脈と完全に逆の意味です。"
+},
+{
+"question_text": "It can be inferred from the passage that the discovery of the Americas",
+"choice_a": "directly caused the immediate dissolution of the Hanseatic League.",
+"choice_b": "provided the Hanseatic merchants with new sources of raw materials.",
+"choice_c": "strengthened the alliance between the league and centralized nation-states.",
+"choice_d": "contributed to a change in global economic patterns that disadvantaged the league.",
+"correct_choice": "D",
+"explanation": "第3段落で、アメリカ大陸の発見に伴う「貿易ルートの移行（shifting trade routes）」が同盟の構造的優位性を損なったとあるため、世界的な経済パターンの変化が不利益をもたらしたと推論できます。",
+"tag": "inference",
+"wrong_reason_a": "即座の解散を引き起こしたとは書かれておらず、後年まで存続したと明記されています。",
+"wrong_reason_b": "アメリカ大陸から新たな原材料を得たとは本文で言及されていません。",
+"wrong_reason_c": "中央集権的な国家との同盟が強化されたとは書かれておらず、むしろ国家の台頭が脅威となりました。",
+"wrong_reason_d": null
+}
+]
+}
+]
+}

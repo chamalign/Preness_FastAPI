@@ -1,0 +1,324 @@
+{
+  "items": [
+    {
+      "question_text": "What are the speakers mainly discussing?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, are you the reference librarian? I'm kind of lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, I am. What are you working on?"
+          },
+          {
+            "speaker": "man",
+            "text": "Well, I need primary sources for my history seminar. We're covering 19th-century industrialization, and my professor said we shouldn't just rely on textbooks."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Textbooks are secondary sources. You need firsthand accounts. Actually, the archives on the third floor have old factory records and diaries from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Really? I thought the third floor was just for periodicals."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable how many students think that! Most periodicals moved online a few semesters ago. Now, it houses special collections. But remember, you can't check those out."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... so I have to read them all up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Exactly. They’re fragile. You'll need to leave your backpack in a locker downstairs, too. Just bring a laptop or a notebook. No pens, though—only pencils."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Um... do I need to make an appointment to go up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not usually. But the thing is, the archivist, Mr. Hayes, is only in until early afternoon today. If you want his help finding specific diaries, you should head up soon."
+          },
+          {
+            "speaker": "man",
+            "text": "Oh! I have a chemistry lab in twenty minutes. I guess I'll have to come back another day."
+          },
+          {
+            "speaker": "woman",
+            "text": "Fortunately, he’s here all day tomorrow. Why don't you browse our digital catalog tonight to get a sense of what we have?"
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll do that and come back tomorrow morning. Thanks!"
+          },
+          {
+            "speaker": "narrator",
+            "text": "What are the speakers mainly discussing?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The process of reserving a study room.",
+      "choice_b": "How to locate original historical documents.",
+      "choice_c": "The relocation of the library's periodical section.",
+      "choice_d": "Requirements for a chemistry laboratory report.",
+      "correct_choice": "B",
+      "explanation": "正解の理由：学生は歴史の授業のために一次資料（primary sources）を探しており、司書がその見つけ方を指導しているため、「オリジナルの歴史的文書の探し方」が正解となります [cite: 17]。",
+      "tag": "longConv",
+      "wrong_reason_a": "学習室の予約手続きについては、会話の中で一切言及されていません。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "雑誌（periodicals）の移動については会話の一部で触れられただけの細部であり、主題ではありません。",
+      "wrong_reason_d": "化学の実験（chemistry lab）は彼が次に行かなくてはならない場所として挙げられただけであり、実験レポートの要件については議論されていません [cite: 1]。"
+    },
+    {
+      "question_text": "What does the woman say about the materials on the third floor?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, are you the reference librarian? I'm kind of lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, I am. What are you working on?"
+          },
+          {
+            "speaker": "man",
+            "text": "Well, I need primary sources for my history seminar. We're covering 19th-century industrialization, and my professor said we shouldn't just rely on textbooks."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Textbooks are secondary sources. You need firsthand accounts. Actually, the archives on the third floor have old factory records and diaries from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Really? I thought the third floor was just for periodicals."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable how many students think that! Most periodicals moved online a few semesters ago. Now, it houses special collections. But remember, you can't check those out."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... so I have to read them all up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Exactly. They’re fragile. You'll need to leave your backpack in a locker downstairs, too. Just bring a laptop or a notebook. No pens, though—only pencils."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Um... do I need to make an appointment to go up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not usually. But the thing is, the archivist, Mr. Hayes, is only in until early afternoon today. If you want his help finding specific diaries, you should head up soon."
+          },
+          {
+            "speaker": "man",
+            "text": "Oh! I have a chemistry lab in twenty minutes. I guess I'll have to come back another day."
+          },
+          {
+            "speaker": "woman",
+            "text": "Fortunately, he’s here all day tomorrow. Why don't you browse our digital catalog tonight to get a sense of what we have?"
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll do that and come back tomorrow morning. Thanks!"
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman say about the materials on the third floor?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "They must be examined within the library.",
+      "choice_b": "They are mostly available in an online format.",
+      "choice_c": "They require a special pen to be written on.",
+      "choice_d": "They were recently moved from the downstairs lockers.",
+      "correct_choice": "A",
+      "explanation": "正解の理由：司書は3階の特別コレクションについて「貸し出しはできない（can't check those out）」「上で全て読まなければならない（read them all up there）」と述べており、「図書館内で調査しなければならない」が正解となります [cite: 17]。",
+      "tag": "longConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "オンラインに移行したのは雑誌（periodicals）であり、3階の一次資料コレクションではありません [cite: 1]。",
+      "wrong_reason_c": "資料の保護のため、ペンは持ち込み禁止で鉛筆のみ許可されている（No pens, though—only pencils）と述べており、特別なペンが必要なわけではありません。",
+      "wrong_reason_d": "1階のロッカー（locker downstairs）はリュックサックを預ける場所として言及されており、そこから資料が移動されたという事実はありません [cite: 1]。"
+    },
+    {
+      "question_text": "Why does the student decide NOT to visit the archives today?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, are you the reference librarian? I'm kind of lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, I am. What are you working on?"
+          },
+          {
+            "speaker": "man",
+            "text": "Well, I need primary sources for my history seminar. We're covering 19th-century industrialization, and my professor said we shouldn't just rely on textbooks."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Textbooks are secondary sources. You need firsthand accounts. Actually, the archives on the third floor have old factory records and diaries from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Really? I thought the third floor was just for periodicals."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable how many students think that! Most periodicals moved online a few semesters ago. Now, it houses special collections. But remember, you can't check those out."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... so I have to read them all up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Exactly. They’re fragile. You'll need to leave your backpack in a locker downstairs, too. Just bring a laptop or a notebook. No pens, though—only pencils."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Um... do I need to make an appointment to go up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not usually. But the thing is, the archivist, Mr. Hayes, is only in until early afternoon today. If you want his help finding specific diaries, you should head up soon."
+          },
+          {
+            "speaker": "man",
+            "text": "Oh! I have a chemistry lab in twenty minutes. I guess I'll have to come back another day."
+          },
+          {
+            "speaker": "woman",
+            "text": "Fortunately, he’s here all day tomorrow. Why don't you browse our digital catalog tonight to get a sense of what we have?"
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll do that and come back tomorrow morning. Thanks!"
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why does the student decide NOT to visit the archives today?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He forgot his laptop and pencils.",
+      "choice_b": "The archivist is absent for the entire week.",
+      "choice_c": "He has to attend another class shortly.",
+      "choice_d": "The digital catalog is currently unavailable.",
+      "correct_choice": "C",
+      "explanation": "正解の理由：アーキビストが今日の早い午後までしかいないと聞いた後、学生は「20分後に化学の実験（chemistry lab）がある」と述べており、すぐに別の授業に出席しなければならないことが今日アーカイブを訪問できない理由です [cite: 2]。",
+      "tag": "longConv",
+      "wrong_reason_a": "ノートパソコンや鉛筆を持参する必要があるとは言われましたが、学生がそれらを忘れたとは述べていません。",
+      "wrong_reason_b": "アーキビストのMr. Hayesは明日は一日中いる（he’s here all day tomorrow）と司書が明言しているため、一週間不在というのは誤りです。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "デジタルカタログについては、今夜自宅で閲覧するように提案されているだけで、現在利用不可能であるとは言及されていません。"
+    },
+    {
+      "question_text": "What does the woman suggest the man do tonight?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, are you the reference librarian? I'm kind of lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, I am. What are you working on?"
+          },
+          {
+            "speaker": "man",
+            "text": "Well, I need primary sources for my history seminar. We're covering 19th-century industrialization, and my professor said we shouldn't just rely on textbooks."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Textbooks are secondary sources. You need firsthand accounts. Actually, the archives on the third floor have old factory records and diaries from that era."
+          },
+          {
+            "speaker": "man",
+            "text": "Really? I thought the third floor was just for periodicals."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable how many students think that! Most periodicals moved online a few semesters ago. Now, it houses special collections. But remember, you can't check those out."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... so I have to read them all up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Exactly. They’re fragile. You'll need to leave your backpack in a locker downstairs, too. Just bring a laptop or a notebook. No pens, though—only pencils."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Um... do I need to make an appointment to go up there?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Not usually. But the thing is, the archivist, Mr. Hayes, is only in until early afternoon today. If you want his help finding specific diaries, you should head up soon."
+          },
+          {
+            "speaker": "man",
+            "text": "Oh! I have a chemistry lab in twenty minutes. I guess I'll have to come back another day."
+          },
+          {
+            "speaker": "woman",
+            "text": "Fortunately, he’s here all day tomorrow. Why don't you browse our digital catalog tonight to get a sense of what we have?"
+          },
+          {
+            "speaker": "man",
+            "text": "Good idea. I'll do that and come back tomorrow morning. Thanks!"
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the woman suggest the man do tonight?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Search for secondary sources in the textbook.",
+      "choice_b": "Schedule an appointment with Mr. Hayes.",
+      "choice_c": "Complete his chemistry lab assignment.",
+      "choice_d": "Explore the library's electronic database.",
+      "correct_choice": "D",
+      "explanation": "正解の理由：司書は会話の終盤で、学生に対し、今夜「デジタルカタログを閲覧して（browse our digital catalog）」どのような資料があるか確認するよう提案しており、これが「図書館の電子データベースを探索する」に該当します [cite: 1, 18]。",
+      "tag": "longConv",
+      "wrong_reason_a": "教授から教科書などの二次資料だけに頼らないように指示されているため、今夜教科書を読むようには提案されていません。",
+      "wrong_reason_b": "司書は、アーカイブに行くために「通常は予約は必要ない（Not usually）」と述べており、予約を取るようには提案していません。",
+      "wrong_reason_c": "化学の実験は20分後に控えている予定であり、今夜その課題を終わらせるよう司書が指示したわけではありません。",
+      "wrong_reason_d": null
+    }
+  ]
+}

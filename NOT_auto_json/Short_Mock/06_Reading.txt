@@ -1,0 +1,300 @@
+﻿{
+  "passages": [
+    {
+      "passage": "Emerging in the mid-twelfth century in France, Gothic architecture functioned primarily as a structural and aesthetic departure from the preceding Romanesque style. Operating extensively throughout Western Europe, medieval builders sought to maximize verticality and light while adapting to the physical constraints of heavy masonry. While initially characterized by modest structural adjustments, the architectural movement's influence gradually expanded over the centuries, significantly altering the physical and spiritual landscape of medieval urban centers.\n\nTo facilitate their ambitious vertical expansion, Gothic architects introduced three critical structural innovations: the pointed arch, the ribbed vault, and the flying buttress. They primarily utilized the flying buttress, a massive external support system, to redirect the immense outward thrust of the vaulted ceilings down to the ground. It not only prevented structural collapse but also facilitated the incorporation of expansive stained-glass windows. Furthermore, these builders heavily relied on specialized guilds of stonemasons to execute these complex designs. The intricate skeletal framework primarily provided a sense of ethereal lightness, fundamentally transforming the atmospheric quality of religious spaces. Consequently, the systematic integration of these advanced engineering techniques enabled Gothic cathedrals to maintain their physical stability and cultural prominence for several centuries.\n\nDespite its prolonged architectural dominance, the widespread construction of Gothic cathedrals eventually began to decline by the late fifteenth century. Escalating economic pressures, combined with shifting aesthetic preferences toward classical antiquity during the Renaissance, gradually undermined the movement's structural and financial viability. In some cases, overambitious engineering led to catastrophic collapses, further exacerbating this stylistic transition. Ultimately, while Gothic architecture was largely superseded by newer classical models, it left a monumental legacy that primarily informs contemporary understandings of medieval engineering.",
+      "questions": [
+        {
+          "question_text": "What does the passage mainly discuss?",
+          "choice_a": "The financial difficulties faced by specialized stonemason guilds in Western Europe.",
+          "choice_b": "The structural characteristics, historical development, and subsequent decline of a medieval architectural style.",
+          "choice_c": "The cultural shift from religious cathedrals to secular buildings during the Renaissance.",
+          "choice_d": "The technological advancements that enabled the production of expansive stained-glass windows.",
+          "correct_choice": "B",
+          "explanation": "第1・2段落でゴシック建築の台頭と構造的特徴（フライング・バットレスなど）が語られ、第3段落でその後の衰退（ルネサンス期への移行）が述べられているため、本文全体を要約した選択肢Bが正解となります。",
+          "tag": "mainIdea",
+          "wrong_reason_a": "石工ギルドの財政難は本文の主題ではありません。",
+          "wrong_reason_b": null,
+          "wrong_reason_c": "宗教建築から世俗建築への文化的移行そのものを議論した文章ではありません。",
+          "wrong_reason_d": "ステンドグラスの製造技術は部分的な詳細に過ぎず、全体主題ではありません。"
+        },
+        {
+          "question_text": "According to the passage, medieval builders operating in Western Europe primarily sought to",
+          "choice_a": "entirely replace the use of heavy masonry with lightweight timber.",
+          "choice_b": "limit the physical expansion of rapidly growing urban centers.",
+          "choice_c": "maximize the verticality and light within their structural designs.",
+          "choice_d": "establish new trade routes to fund their ambitious cathedrals.",
+          "correct_choice": "C",
+          "explanation": "第1段落の2文目に「sought to maximize verticality and light while adapting to the physical constraints of heavy masonry（重い石積みの物理的制約に適応しつつ、垂直性と光を最大化しようと努めた）」と明記されているため、Cが正解となります。",
+          "tag": "fact",
+          "wrong_reason_a": "重い石積みを軽量な木材に完全に置き換えたという記述は本文にありません。",
+          "wrong_reason_b": "急速に成長する都市の中心部の物理的拡大を制限したという記述はありません。",
+          "wrong_reason_c": null,
+          "wrong_reason_d": "野心的な大聖堂の資金を調達するために新たな貿易ルートを確立したとは述べられていません。"
+        },
+        {
+          "question_text": "The word \"altering\" in line 3 is closest in meaning to",
+          "choice_a": "transforming",
+          "choice_b": "dominating",
+          "choice_c": "measuring",
+          "choice_d": "preserving",
+          "correct_choice": "A",
+          "explanation": "第1段落の3文目の「altering the physical and spiritual landscape（物理的および精神的な景観を変化させる）」において、alteringは「変容させる、変える」という意味を持つため、transformingが最も適切な言い換えとなります。",
+          "tag": "vocab",
+          "wrong_reason_a": null,
+          "wrong_reason_b": "支配する（dominating）は景観を変容させるという文脈の正確な同義語ではありません。",
+          "wrong_reason_c": "測定する（measuring）は景観に対する影響として文脈に合いません。",
+          "wrong_reason_d": "保存する（preserving）は変化させるという文脈と逆の意味になります。"
+        },
+        {
+          "question_text": "Why does the author mention \"the pointed arch, the ribbed vault, and the flying buttress\" in line 4?",
+          "choice_a": "To contrast French architectural styles with those of classical antiquity.",
+          "choice_b": "To argue that the Romanesque style was inherently structurally superior to Gothic designs.",
+          "choice_c": "To explain the primary causes of catastrophic building collapses during the fifteenth century.",
+          "choice_d": "To provide specific examples of the critical structural innovations introduced by Gothic architects.",
+          "correct_choice": "D",
+          "explanation": "第2段落の4文目でこれらに言及しているのは、ゴシック建築家が垂直への拡張を可能にするために導入した「重要な構造的革新（critical structural innovations）」の具体例を挙げるためです。",
+          "tag": "rhetorical",
+          "wrong_reason_a": "古典古代の建築様式と対比するためではありません（古典古代は第3段落で登場します）。",
+          "wrong_reason_b": "ロマネスク様式が構造的に優れていたと主張するためではありません。",
+          "wrong_reason_c": "15世紀の壊滅的な崩壊の原因を説明するためではありません。",
+          "wrong_reason_d": null
+        },
+        {
+          "question_text": "The word \"It\" in line 6 refers to",
+          "choice_a": "the immense outward thrust",
+          "choice_b": "ambitious vertical expansion",
+          "choice_c": "the flying buttress",
+          "choice_d": "a vaulted ceiling",
+          "correct_choice": "C",
+          "explanation": "第2段落の6文目の「It not only prevented structural collapse（それは構造的崩壊を防いだだけでなく）」の「It」は、直前の文で崩壊を防ぐ主体として言及された「the flying buttress（フライング・バットレス）」を指しています。",
+          "tag": "usage",
+          "wrong_reason_a": "外向きの推力（outward thrust）は逃がされる対象であり、崩壊を防いだ主体ではありません。",
+          "wrong_reason_b": "垂直への拡張は目的であり、崩壊を防ぐ物理的な主体ではありません。",
+          "wrong_reason_c": null,
+          "wrong_reason_d": "ヴォールト天井（vaulted ceiling）は推力の発生源であり、それを支えて崩壊を防いだ主体ではありません。"
+        },
+        {
+          "question_text": "All of the following are mentioned in the passage as characteristics or functions of the flying buttress EXCEPT",
+          "choice_a": "redirecting the immense outward thrust of vaulted ceilings to the ground",
+          "choice_b": "completely replacing the need for specialized guilds of stonemasons",
+          "choice_c": "operating as a massive external support system for the buildings",
+          "choice_d": "facilitating the incorporation of expansive stained-glass windows",
+          "correct_choice": "B",
+          "explanation": "第2段落の5〜6文目において、フライング・バットレスの特徴として「massive external support system」「redirect the immense outward thrust」「facilitated the incorporation of expansive stained-glass windows」が挙げられていますが、石工ギルドの必要性を完全に置き換えたという記述はありません（むしろギルドに依存していました）。",
+          "tag": "not",
+          "wrong_reason_a": "本文に「redirect the immense outward thrust... down to the ground」として明記されています。",
+          "wrong_reason_b": null,
+          "wrong_reason_c": "本文に「a massive external support system」として明記されています。",
+          "wrong_reason_d": "本文に「facilitated the incorporation of expansive stained-glass windows」として明記されています。"
+        },
+        {
+          "question_text": "The word \"intricate\" in line 8 is closest in meaning to",
+          "choice_a": "fragile",
+          "choice_b": "traditional",
+          "choice_c": "complex",
+          "choice_d": "massive",
+          "correct_choice": "C",
+          "explanation": "第2段落の8文目の「The intricate skeletal framework（入り組んだ骨組み）」において、intricateは「複雑な、入り組んだ」という意味を持つため、complexが正解です。",
+          "tag": "vocab",
+          "wrong_reason_a": "壊れやすい（fragile）は、構造的安定性を維持したという文脈に合いません。",
+          "wrong_reason_b": "伝統的な（traditional）は、革新的な構造を指す言葉として不適切です。",
+          "wrong_reason_c": null,
+          "wrong_reason_d": "巨大な（massive）は、軽やかさを提供した骨組みの複雑さを表す言葉ではありません。"
+        },
+        {
+          "question_text": "According to the passage, the widespread construction of Gothic cathedrals began to decline partly because of",
+          "choice_a": "the deliberate destruction of medieval urban centers by emerging nation-states.",
+          "choice_b": "shifting aesthetic preferences toward classical antiquity and escalating economic pressures.",
+          "choice_c": "the sudden disappearance of specialized stonemason guilds across Europe.",
+          "choice_d": "the complete loss of advanced engineering techniques required for vaulting.",
+          "correct_choice": "B",
+          "explanation": "第3段落の11文目に、衰退の理由として「Escalating economic pressures, combined with shifting aesthetic preferences toward classical antiquity（高まる経済的圧力と、古典古代への美学的嗜好の変化）」が明記されているため、Bが正解です。",
+          "tag": "fact",
+          "wrong_reason_a": "新興国家による中世都市の意図的な破壊があったとは書かれていません。",
+          "wrong_reason_b": null,
+          "wrong_reason_c": "専門の石工ギルドがヨーロッパ中で突然姿を消したとは言及されていません。",
+          "wrong_reason_d": "高度な工学技術が完全に失われたという記述は本文にありません。"
+        },
+        {
+          "question_text": "The word \"Escalating\" in line 11 is closest in meaning to",
+          "choice_a": "increasing",
+          "choice_b": "predicting",
+          "choice_c": "resolving",
+          "choice_d": "balancing",
+          "correct_choice": "A",
+          "explanation": "第3段落の11文目の「Escalating economic pressures（高まる経済的圧力）」において、escalatingは「増大する、エスカレートする」という意味を持つため、increasingが最も適切な言い換えとなります。",
+          "tag": "vocab",
+          "wrong_reason_a": null,
+          "wrong_reason_b": "予測する（predicting）は、圧力そのものが変化している文脈に合いません。",
+          "wrong_reason_c": "解決する（resolving）は文脈と完全に逆の意味です。",
+          "wrong_reason_d": "均衡を保つ（balancing）は、圧力が強まっている状況を表していません。"
+        },
+        {
+          "question_text": "It can be inferred from the passage that catastrophic collapses of Gothic cathedrals",
+          "choice_a": "were primarily caused by a severe lack of high-quality heavy masonry.",
+          "choice_b": "successfully demonstrated the inherent structural superiority of the Romanesque style.",
+          "choice_c": "occurred frequently because architects universally refused to utilize the flying buttress.",
+          "choice_d": "contributed to the eventual societal shift away from Gothic architectural designs.",
+          "correct_choice": "D",
+          "explanation": "第3段落の12文目で「overambitious engineering led to catastrophic collapses, further exacerbating this stylistic transition（野心的な工学が壊滅的な崩壊を招き、この様式的移行をさらに悪化・促進させた）」と述べられていることから、崩壊がゴシック建築からの離脱（様式的移行）の一因となったことが論理的に推論できます。",
+          "tag": "inference",
+          "wrong_reason_a": "高品質な重い石積みの不足が主な原因であるという記述は本文にありません。",
+          "wrong_reason_b": "ロマネスク様式の構造的優位性を証明したという事実は本文から推論できません。",
+          "wrong_reason_c": "建築家がフライング・バットレスの利用を拒否したという事実はありません。",
+          "wrong_reason_d": null
+        }
+      ]
+    }
+  ]
+}
+
+
+{
+"passages": [
+{
+"passage": "The geological evolution of the Mediterranean Basin during the late Miocene epoch represents a significant anomaly in stratigraphy. Emerging primarily as a connected marine environment, this region transitioned into a massive desiccated basin. Geologists generally postulate that this dramatic transformation was not merely a localized event but was arguably intertwined with broader tectonic shifts. However, the precise variables precipitating this profound environmental anomaly remain a subject of ongoing investigation.\n\nBy approximately 5.9 million years ago, a notable shift occurred as tectonic movements constricted the Strait of Gibraltar, effectively isolating the inland sea from the vast Atlantic Ocean. This closure was reportedly facilitated by the northward collision of the African plate, which restricted oceanic inflow. As evaporation outpaced precipitation, the environment shifted toward hypersaline conditions that fostered massive evaporite deposits. Concurrently, the original marine ecosystems were not entirely abandoned; rather, they evolved into specialized halophilic communities. They were systematically utilized by resilient microorganisms. The dissemination of these biological markers suggests a highly stressed ecological network.\n\nThe pinnacle of this progression is exemplified by the extensive subsurface salt beds buried beneath the modern seafloor. These sedimentary layers are characterized by complex crystalline structures, massive gypsum formations, and distinct erosional canyons. Acoustic surveys at these sites have revealed deep gorges cut by ancient continental river systems. Materials recovered from drill cores consistently include halite, anhydrite, and fossilized remnants of shallow-water algae. The presence of these specific deposits indicates that the Mediterranean basin functioned not only as a massive salt sink but also as a pivotal recorder of extreme climatic shifts.\n\nDespite their monumental scale, these arid conditions were abruptly terminated approximately 5.3 million years ago. Stratigraphic data indicates that a sudden breaching of the western land bridge disrupted the isolated basin, leading to a massive refilling known as the Zanclean flood. In addition to tectonic subsidence, rising global sea levels likely contributed to the rapid inundation of the region. While the salt flats were ultimately superseded by a deep marine environment, isolated formations preserved core evaporitic sequences, implying that the temporary desiccation served as a strategic geological template for understanding oceanic circulation.",
+"questions": [
+{
+"question_text": "What does the passage mainly discuss?",
+"choice_a": "The specific biological characteristics of shallow-water algae in the Atlantic Ocean.",
+"choice_b": "The geological transformation, temporary desiccation, and subsequent refilling of the Mediterranean Basin.",
+"choice_c": "The commercial extraction of subsurface salt beds and gypsum formations by ancient societies.",
+"choice_d": "The emotional response of early human populations to extreme climatic shifts in Europe.",
+"correct_choice": "B",
+"explanation": "正解はB。本文全体を通じて、地中海盆地が地殻変動によって孤立して乾燥し（第1・2段落）、巨大な塩の堆積層を形成した事実（第3段落）、そして最終的に再び海水で満たされた歴史的変遷（第4段落）について客観的に論じているため。",
+"tag": "mainIdea",
+"wrong_reason_a": "大西洋の浅瀬の藻類は第3段落で回収された物質の一部として言及されているのみであり、文章全体の主題ではないため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "古代の社会が塩や石膏を商業的に採掘したという記述は本文中に一切存在しないため。",
+"wrong_reason_d": "初期人類の感情的な反応についての言及はなく、全体的に客観的な地質学的記述であるため。"
+},
+{
+"question_text": "The word "precipitating" in line 4 is closest in meaning to ...",
+"choice_a": "triggering",
+"choice_b": "evaluating",
+"choice_c": "preventing",
+"choice_d": "disguising",
+"correct_choice": "A",
+"explanation": "正解はA。4文目の「precipitating」は「引き起こす、促進する」という意味であり、環境の異常を引き起こした正確な変数（要因）について論じる文脈において、「triggering（引き起こす）」が最も文脈に適合するため。",
+"tag": "vocab",
+"wrong_reason_a": null,
+"wrong_reason_b": "「評価する」という意味であり、異常な環境変化の要因を説明する文脈には合致しないため。",
+"wrong_reason_c": "「防ぐ」という意味であり、事象を引き起こした要因を議論する文脈と正反対になるため。",
+"wrong_reason_d": "「偽装する」という意味であり、地質学的な要因を探る客観的な文脈にはそぐわないため。"
+},
+{
+"question_text": "According to the passage, what facilitated the isolation of the inland sea?",
+"choice_a": "A sudden increase in precipitation over the surrounding continental landmass.",
+"choice_b": "The deliberate construction of dams by early resilient microorganisms.",
+"choice_c": "A dramatic drop in global sea levels completely unrelated to tectonic shifts.",
+"choice_d": "The tectonic collision that restricted the flow of water from the ocean.",
+"correct_choice": "D",
+"explanation": "正解はD。6文目に「This closure was reportedly facilitated by the northward collision of the African plate, which restricted oceanic inflow（この閉鎖は、海洋の流入を制限したアフリカプレートの北上衝突によって促進された）」と明示されているため。",
+"tag": "fact",
+"wrong_reason_a": "降水量の増加ではなく、蒸発量が降水量を上回った（evaporation outpaced precipitation）と記述されているため誤り。",
+"wrong_reason_b": "微生物が意図的にダムを建設したという記述は論理的に成り立たず、本文の事実とも完全に矛盾するため。",
+"wrong_reason_c": "地球規模の海面低下ではなく、アフリカプレートの地殻変動による衝突が直接の原因として記載されているため。",
+"wrong_reason_d": null
+},
+{
+"question_text": "The word "They" in line 9 refers to ...",
+"choice_a": "tectonic movements",
+"choice_b": "massive evaporite deposits",
+"choice_c": "specialized halophilic communities",
+"choice_d": "biological markers",
+"correct_choice": "C",
+"explanation": "正解はC。9文目の指示代名詞「They」は、直前の文（8文目）の末尾にある複数名詞「specialized halophilic communities（特殊な好塩性の群集）」を指しており、それが「耐性のある微生物によって体系的に利用された」という文脈に論理的に一致するため。",
+"tag": "usage",
+"wrong_reason_a": "地殻変動（tectonic movements）は微生物によって利用される生物学的対象ではないため。",
+"wrong_reason_b": "巨大な蒸発岩鉱床（massive evaporite deposits）はさらに前の文の要素であり、文脈上の主語として不自然であるため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "生物学的マーカー（biological markers）はこの後の文（10文目）で登場する概念であり、代名詞が前方の名詞を指すルールに反するため。"
+},
+{
+"question_text": "It can be inferred from the passage that the environmental shift in the Mediterranean ...",
+"choice_a": "resulted in the immediate and total extinction of all original marine ecosystems.",
+"choice_b": "forced surviving life forms to adapt to increasingly extreme saline conditions.",
+"choice_c": "completely reversed the northward movement of the African tectonic plate.",
+"choice_d": "allowed Atlantic marine life to easily migrate into the inland sea.",
+"correct_choice": "B",
+"explanation": "正解はB。8文目から10文目にかけて、元の生態系が完全には放棄されず「特殊な好塩性の群集（halophilic communities）」へと進化し、それが高いストレス下にある生態系ネットワークを示唆していると述べられていることから、生存した生命体が極端な塩分環境に適応したと論理的に推論できるため。",
+"tag": "inference",
+"wrong_reason_a": "8文目に「original marine ecosystems were not entirely abandoned（元の海洋生態系は完全には放棄されなかった）」とあり、完全な絶滅を主張する記述は矛盾するため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "環境の変化がプレートの動きを逆転させたという因果関係の逆転は本文に含まれておらず、科学的にも不自然であるため。",
+"wrong_reason_d": "大西洋からの流入が制限された（restricted oceanic inflow）と記載されており、海洋生物が容易に移住できたとする記述は誤りであるため。"
+},
+{
+"question_text": "According to the passage, the extensive subsurface salt beds are characterized by ...",
+"choice_a": "active tectonic plates that constantly trigger global earthquakes.",
+"choice_b": "shallow freshwater lakes that foster diverse marine ecosystems.",
+"choice_c": "specific crystalline structures and distinct formations alongside erosional canyons.",
+"choice_d": "completely flat topographies with no signs of ancient river activity.",
+"correct_choice": "C",
+"explanation": "正解はC。12文目に、堆積層は「complex crystalline structures, massive gypsum formations, and distinct erosional canyons（複雑な結晶構造、巨大な石膏の形成、明確な浸食峡谷）」によって特徴付けられると明記されているため。",
+"tag": "fact",
+"wrong_reason_a": "塩の堆積層自体が活発なプレートであり地震を引き起こすという記述は本文中に存在しないため。",
+"wrong_reason_b": "乾燥した塩のベッドについて述べており、多様な生態系を育む浅い淡水湖という記述は事実に反するため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "13文目に「ancient continental river systems（古代の大陸河川システム）」によって削られた峡谷があると記載されており、古代の川の痕跡がない平坦な地形という記述は誤りであるため。"
+},
+{
+"question_text": "All of the following are mentioned in the passage as materials recovered from drill cores EXCEPT ...",
+"choice_a": "imported copper tools",
+"choice_b": "halite",
+"choice_c": "anhydrite",
+"choice_d": "fossilized remnants of shallow-water algae",
+"correct_choice": "A",
+"explanation": "正解はA。14文目にドリルコアから回収された物質として「halite（岩塩）」「anhydrite（硬石膏）」「fossilized remnants of shallow-water algae（浅瀬の藻類の化石の残骸）」の3つが列挙されているが、輸入された銅の道具（imported copper tools）については一切言及がないため。",
+"tag": "not",
+"wrong_reason_a": null,
+"wrong_reason_b": "14文目に「halite」として明確に記述されているため誤答。",
+"wrong_reason_c": "14文目に「anhydrite」として明確に記述されているため誤答。",
+"wrong_reason_d": "14文目に「fossilized remnants of shallow-water algae」として明確に記述されているため誤答。"
+},
+{
+"question_text": "The word "pivotal" in line 15 is closest in meaning to ...",
+"choice_a": "ambiguous",
+"choice_b": "crucial",
+"choice_c": "invisible",
+"choice_d": "preliminary",
+"correct_choice": "B",
+"explanation": "正解はB。15文目の「pivotal」は「極めて重要な、中心的な」という意味であり、地中海盆地が極端な気候変動の決定的に重要な記録者として機能したという文脈であるため、「crucial（決定的な、極めて重要な）」が最適である。",
+"tag": "vocab",
+"wrong_reason_a": "「曖昧な」という意味であり、気候変動を明確に示す記録としての重要性と矛盾するため。",
+"wrong_reason_b": null,
+"wrong_reason_c": "「目に見えない」という意味であり、物理的な堆積物を通じて記録を残している事実と合致しないため。",
+"wrong_reason_d": "「予備的な」という意味であり、記録者としての絶対的な重要性を示す文脈には不適切であるため。"
+},
+{
+"question_text": "The word "superseded" in line 19 is closest in meaning to ...",
+"choice_a": "supported",
+"choice_b": "expanded",
+"choice_c": "replaced",
+"choice_d": "disguised",
+"correct_choice": "C",
+"explanation": "正解はC。19文目の「superseded」は「取って代わられた」という意味であり、塩原が最終的に深い海洋環境に置き換えられたという物理的環境の移行を示す文脈であるため、「replaced（置き換えられた）」が最も適合するため。",
+"tag": "vocab",
+"wrong_reason_a": "「支持された」という意味であり、塩原が海洋環境に変わって消滅したという文脈と逆になるため。",
+"wrong_reason_b": "「拡大した」という意味であり、塩原が海水に沈んで別の環境に移行したという文脈に合致しないため。",
+"wrong_reason_c": null,
+"wrong_reason_d": "「偽装された」という意味であり、自然環境の変化を述べる客観的な記述にはそぐわないため。"
+},
+{
+"question_text": "What does the author imply about the temporary desiccation of the basin?",
+"choice_a": "It was entirely caused by the catastrophic Zanclean flood.",
+"choice_b": "It permanently destroyed the possibility of deep marine environments forming again.",
+"choice_c": "It prevented global sea levels from rising for millions of years.",
+"choice_d": "It left behind a foundational geological record that helps clarify broader oceanic processes.",
+"correct_choice": "D",
+"explanation": "正解はD。19文目（最終文）で、孤立した地層が中核となる蒸発岩の層序を保存しており、一時的な乾燥が「understanding oceanic circulation（海洋循環を理解するための）strategic geological template（戦略的な地質学的雛形）」として機能したと示唆されていることから、海洋のプロセスを解明するための基礎的な記録を残したと推論できるため。",
+"tag": "inference",
+"wrong_reason_a": "ザンクリアン洪水（Zanclean flood）は乾燥状態を終わらせた出来事であり、乾燥の原因ではないため。",
+"wrong_reason_b": "最終文で「深い海洋環境に取って代わられた」とあり、海洋環境が再び形成された事実と完全に矛盾するため。",
+"wrong_reason_c": "地中海の乾燥が地球全体の海面上昇を何百万年も防いだという極端な因果関係の記述は本文になく、論理の飛躍であるため。",
+"wrong_reason_d": null
+}
+]
+}
+]
+}

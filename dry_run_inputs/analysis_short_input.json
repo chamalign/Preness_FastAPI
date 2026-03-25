@@ -1,0 +1,44 @@
+{
+  "attempt_id": "attempt_test_1",
+  "student_name": "Test",
+  "exam_date": "2026-03-20",
+  "goal_score": 500,
+  "answers": [
+    { "question_id": "l1", "selected_choice": "A", "skipped": false },
+    { "question_id": "s1", "selected_choice": "A", "skipped": false },
+    { "question_id": "r1", "selected_choice": "A", "skipped": false }
+  ],
+  "items": [
+    {
+      "item_id": "l1",
+      "question_id": "l1",
+      "section_id": "L",
+      "section_type": "listening",
+      "part": "",
+      "tag": "shortConv",
+      "correct_choice": "A"
+    },
+    {
+      "item_id": "s1",
+      "question_id": "s1",
+      "section_id": "S",
+      "section_type": "structure",
+      "part": "",
+      "tag": "verbForm",
+      "correct_choice": "A"
+    },
+    {
+      "item_id": "r1",
+      "question_id": "r1",
+      "section_id": "R",
+      "section_type": "reading",
+      "part": "passages",
+      "tag": "vocab",
+      "correct_choice": "A"
+    }
+  ],
+  "passages": [
+    { "theme": "P1", "question_ids": ["r1"] }
+  ]
+}
+

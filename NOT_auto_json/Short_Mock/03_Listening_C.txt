@@ -1,0 +1,212 @@
+﻿{
+  "items": [
+    {
+      "question_text": "Where did the first commercial public movie screening take place?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Questions 1 through 4 are based on the following lecture."
+          },
+          {
+            "speaker": "woman",
+            "text": "Welcome back, everyone. Today, let's move on to the actual birth of cinema. As I mentioned earlier, humans have always wanted to capture motion. But the true breakthrough happened in France. Specifically, the very first commercial public movie screening took place in a small café in Paris. Now, when exactly did this historical event occur? It was in the winter of 1895. Keep in mind that this wasn't just a private experiment; paying customers gathered to watch. The inventors behind this were the Lumière brothers. The first crucial piece of equipment they introduced was the Cinématograph; in other words, it was a portable motion-picture camera that also functioned as a projector. Before this, devices could only be viewed by one person at a time through a peephole. So, how did they manage to show the film to a whole room of people simultaneously? They achieved this by placing a powerful light source behind the film strip, essentially projecting the moving images onto a large blank wall. But that's not all. The content of the films was just as important. Instead of fictional stories, they captured actualities. That is to say, they simply recorded everyday life, like workers leaving a factory or a train arriving at a station. Because of this realistic approach, the audience was absolutely terrified when they saw a life-sized train moving toward them on screen! Does that make sense? People had simply never experienced moving photographs before. To sum up, the Lumière brothers didn't just invent another camera; they established the communal movie-watching experience we still enjoy today. Next week, we will look at how editing changed storytelling."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Question 1. Where did the first commercial public movie screening take place?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "In a private experiment laboratory.",
+      "choice_b": "In a small café in Paris.",
+      "choice_c": "Inside a large train station.",
+      "choice_d": "Outside a local factory.",
+      "correct_choice": "B",
+      "explanation": "場所を尋ねる設問（Where~?）です [cite: 18]。講義の序盤で、最初の商業的な公開上映は「パリの小さなカフェ（in a small café in Paris）」で行われたと明言されているため、Bが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "本文に登場する「private experiment」という単語を使ったひっかけですが、上映はプライベートな実験ではなく商業的なものであったと否定されているため誤りです [cite: 4]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "「train station」は映画の被写体の例として挙げられたものであり、上映場所ではないため誤りです [cite: 4]。",
+      "wrong_reason_d": "「factory」も映画の被写体として言及されただけであり、上映場所ではないため誤りです [cite: 4]。"
+    },
+    {
+      "question_text": "When did this historical event occur?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2. When did this historical event occur?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "During the winter of 1895.",
+      "choice_b": "Before the invention of the peephole.",
+      "choice_c": "When the first fictional story was published.",
+      "choice_d": "After editing changed storytelling.",
+      "correct_choice": "A",
+      "explanation": "時間・期間を尋ねる設問（When~?）です [cite: 16, 17]。教授が「It was in the winter of 1895.」と明確に述べているため、Aが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "「peephole」は過去のデバイスの説明で登場しますが、イベントがその発明より前だとは言及されていないため誤りです [cite: 4]。",
+      "wrong_reason_c": "「fictional stories」は、彼らが撮影しなかったものとして言及されており、時期を表すものではないため誤りです [cite: 4]。",
+      "wrong_reason_d": "「editing changed storytelling」は次回の講義の予告であり、1895年の上映イベントの時期とは関係がないため誤りです [cite: 4]。"
+    },
+    {
+      "question_text": "How did the inventors manage to show the film to a whole room of people simultaneously?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3. How did the inventors manage to show the film to a whole room of people simultaneously?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "By viewing the moving images one person at a time.",
+      "choice_b": "By shining an intense beam of light through the film onto a surface.",
+      "choice_c": "By combining a portable camera with fictional stories.",
+      "choice_d": "By capturing actualities instead of inventing another camera.",
+      "correct_choice": "B",
+      "explanation": "方法・手段を問う設問（How~?）です [cite: 19, 20]。教授は「placing a powerful light source behind the film strip, essentially projecting the moving images onto a large blank wall（強力な光源をフィルムの後ろに置き、映像を大きな壁に投影した）」と説明しています。Bはこれを適切にパラフレーズしており正解です [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "「一度に一人ずつ見る」のは過去のデバイスの視聴方法であり、大人数に見せる方法ではないため誤りです [cite: 4]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "「ポータブルカメラと架空の物語を組み合わせる」という記述は本文になく、間違った文脈で単語を組み合わせたディストラクターです [cite: 4]。",
+      "wrong_reason_d": "「日常を捉える」のは映画の内容に関する話であり、大人数に投影する「技術的手段」の説明ではないため誤りです [cite: 4]。"
+    },
+    {
+      "question_text": "Why was the audience terrified during the screening?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4. Why was the audience terrified during the screening?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Because a life-sized train crashed into a small café in Paris.",
+      "choice_b": "Because the Lumière brothers secretly recorded paying customers.",
+      "choice_c": "Because they had never witnessed large-scale moving images of reality before.",
+      "choice_d": "Because the communal movie-watching experience was too expensive.",
+      "correct_choice": "C",
+      "explanation": "原因・理由を尋ねる設問（Why~?）です [cite: 16]。観客が怯えた理由は、現実そのままの等身大の列車が画面上で向かってくるのを見て、「これまで動く写真を見たことがなかったから（never experienced moving photographs before）」と説明されています。Cはこれを適切に言い換えています [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "「等身大の列車がパリのカフェに衝突した」というのは、本文の単語（train, café, Paris）を使って論理を壊した高度なひっかけであり誤りです [cite: 4]。",
+      "wrong_reason_b": "リュミエール兄弟が観客をこっそり録画したという事実は本文にないため誤りです [cite: 4]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "「共同で映画を見る経験」は登場しますが、それが高価すぎたから怯えたという記述はありません [cite: 4]。"
+    },
+    {
+      "question_text": "What is the main topic of the lecture?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Questions 5 through 8 are based on the following lecture."
+          },
+          {
+            "speaker": "man",
+            "text": "Welcome to Psychology 101. First, let's look at how our brains process information. Specifically, we'll focus on a common cognitive bias called 'confirmation bias'; in other words, it is our tendency to search for and favor information that confirms our existing beliefs. For instance, if you believe a certain diet is healthy, you will likely only read articles praising it. But that's not all. You'll also actively ignore data that contradicts it. Now, despite this being a natural shortcut for the brain, it can lead to poor decision-making. So, here's the problem: how do we overcome it? The most effective method is by actively seeking out opposing viewpoints. Keep in mind that this requires conscious effort. Because of this built-in bias, many people simply stick to their echo chambers. Does that make sense? To sum up, recognizing confirmation bias is the first step toward objective thinking. Next week, we will discuss the impact of peer pressure."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Question 5. What is the main topic of the lecture?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "How to actively ignore data in a healthy diet.",
+      "choice_b": "The impact of peer pressure on objective thinking.",
+      "choice_c": "Why the brain creates natural shortcuts for reading articles.",
+      "choice_d": "The tendency to favor information that aligns with our beliefs.",
+      "correct_choice": "D",
+      "explanation": "事実・項目について尋ねる設問（What~?）です [cite: 18]。講義全体を通して、自分の既存の信念を裏付ける情報を好む傾向である「確証バイアス（confirmation bias）」について解説しているため、Dが正解です 。",
+      "tag": "talk",
+      "wrong_reason_a": "「ignore data」や「healthy diet」は確証バイアスの具体例であり、講義の主題ではありません [cite: 4]。",
+      "wrong_reason_b": "「peer pressure（同調圧力）」は次回の講義のテーマとして最後に言及されただけであり、主題ではありません [cite: 4]。",
+      "wrong_reason_c": "「natural shortcuts」や「reading articles」は部分的な言及であり、記事を読むために脳が近道を作るという論理自体が本文と矛盾しています [cite: 4]。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "Which of the following best describes \"confirmation bias\"?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 6. Which of the following best describes \"confirmation bias\"?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "A natural shortcut that helps us process articles about healthy diets.",
+      "choice_b": "Seeking out facts that support what we already think.",
+      "choice_c": "The conscious effort required to overcome peer pressure.",
+      "choice_d": "An echo chamber where people actively seek out opposing viewpoints.",
+      "correct_choice": "B",
+      "explanation": "事実・項目について尋ねる設問（Which~?）です [cite: 18]。専門用語の直後に「in other words, it is our tendency to search for and favor information that confirms our existing beliefs（つまり、既存の信念を裏付ける情報を探し、好む傾向）」と言い換えられており、Bはこれを適切にパラフレーズしています [cite: 1, 2, 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "健康的な食事の記事を処理するための近道というのは、具体例を間違って一般化したものであり誤りです [cite: 4]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "「conscious effort（意識的な努力）」はバイアスを克服するために必要なものであり、バイアスの定義ではありません [cite: 4]。",
+      "wrong_reason_d": "エコーチェンバーは反対意見を探す場所ではなく、むしろ同じ意見に閉じこもる状態を指すため、論理が破綻した選択肢です [cite: 4]。"
+    },
+    {
+      "question_text": "According to the professor, how can individuals effectively overcome this cognitive bias?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 7. According to the professor, how can individuals effectively overcome this cognitive bias?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "By reading articles that praise a certain healthy diet.",
+      "choice_b": "By making a deliberate effort to look for contrary opinions.",
+      "choice_c": "By ignoring data that contradicts their objective thinking.",
+      "choice_d": "By sticking to their echo chambers to process information.",
+      "correct_choice": "B",
+      "explanation": "方法・手段を問う設問（How~?）です [cite: 19, 20]。バイアスを克服する最も効果的な方法は「actively seeking out opposing viewpoints（反対意見を積極的に探すこと）」であり、「 conscious effort（意識的な努力）」が必要だと述べられています。Bがその言い換えです [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "特定の食事を称賛する記事だけを読むのは確証バイアスそのものであり、克服法ではありません [cite: 4]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "矛盾するデータを「無視する（ignoring data）」のはバイアスの悪影響であり、克服する方法ではありません [cite: 4]。",
+      "wrong_reason_d": "エコーチェンバーにとどまることは客観的思考を妨げる行為であり、克服法ではありません [cite: 4]。"
+    },
+    {
+      "question_text": "Why do many people end up staying in their echo chambers?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 8. Why do many people end up staying in their echo chambers?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Because it is the first step toward objective thinking.",
+      "choice_b": "Because they want to actively seek out opposing viewpoints.",
+      "choice_c": "Because challenging their own biases takes intentional work.",
+      "choice_d": "Because peer pressure naturally leads to poor decision-making.",
+      "correct_choice": "C",
+      "explanation": "原因・理由を尋ねる設問（Why~?）です [cite: 16]。バイアスを克服するには「conscious effort（意識的な努力）」が必要であり、「Because of this built-in bias（この組み込まれたバイアスのために）」人々はエコーチェンバーに留まってしまうと説明されています。Cは「意図的な作業が必要だから」と言い換えており正解です [cite: 4, 5]。",
+      "tag": "talk",
+      "wrong_reason_a": "客観的な思考への第一歩は「確証バイアスを認識すること」であり、エコーチェンバーに留まる理由ではありません [cite: 4]。",
+      "wrong_reason_b": "反対意見を探したいのであれば、エコーチェンバーから抜け出しているはずなので論理的に誤りです [cite: 4]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "「peer pressure（同調圧力）」や「poor decision-making（悪い意思決定）」という単語を組み合わせたディストラクターであり、エコーチェンバーに留まる直接の理由としては述べられていません [cite: 4]。"
+    }
+  ]
+}

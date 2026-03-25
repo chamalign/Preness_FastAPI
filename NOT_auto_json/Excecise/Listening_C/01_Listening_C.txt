@@ -1,0 +1,132 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What is the main topic of the lecture?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, Alfred Wegener proposed the theory of continental drift in 1912, suggesting that continents move around the Earth's surface. However, his theory was largely rejected at the time. Why? Because he lacked a plausible mechanism; in other words, he couldn't prove exactly how such massive landmasses could actually push through the solid ocean floor. Does that make sense? So, most scientists simply ignored his work until new data emerged decades later. Today, we'll look at what finally convinced the scientific community: the concept of seafloor spreading, introduced in the 1960s. The first piece of evidence researchers pointed out was the discovery of mid-ocean ridges. These are essentially massive, continuous underwater mountain ranges. Scientists found that new rocky crust is constantly being formed at these ridges by magma rising from deep within the Earth. But that's not all. They also looked at the age of the rocks on the ocean floor. By drilling into the crust, researchers discovered something fascinating. The rocks right next to the mid-ocean ridges were very young, but as you moved further away from the ridges in either direction, the rocks became progressively older. This means that new ocean floor is constantly being created and pushing the older floor outwards. To put it simply, the seafloor acts like a giant conveyor belt, moving the continents along with it. Are we clear on this concept? This was the missing puzzle piece Wegener needed."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the main topic of the lecture?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The life and achievements of Alfred Wegener",
+      "choice_b": "The geological forces that cause underwater earthquakes",
+      "choice_c": "The scientific proof that explains continental movement",
+      "choice_d": "The reasons why ocean floors are older than continents",
+      "correct_choice": "C",
+      "explanation": "講義全体を通して、ウェゲナーの大陸移動説を後付けで裏付ける決定的な証拠となった「海底拡大説（seafloor spreading）」とその具体的な根拠（海嶺の発見と岩石の年齢）について解説しているため、Cが正解となります。正解選択肢は本文の単語を直接使わず、「continental movement（大陸移動）を説明するscientific proof（科学的証拠）」と言い換えています。",
+      "tag": "talk",
+      "wrong_reason_a": "ウェゲナーの生涯や個人の業績そのものが主題ではなく、彼の理論を証明することになった後の科学的根拠がテーマです。",
+      "wrong_reason_b": "地震（earthquakes）については講義内で言及されていません。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "「海洋底が大陸よりも古い」という理由は述べられておらず、本文の単語を組み合わせて論理を破綻させたひっかけ選択肢です。"
+    },
+    {
+      "question_text": "Why was Wegener's original theory initially dismissed by the scientific community?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, Alfred Wegener proposed the theory of continental drift in 1912, suggesting that continents move around the Earth's surface. However, his theory was largely rejected at the time. Why? Because he lacked a plausible mechanism; in other words, he couldn't prove exactly how such massive landmasses could actually push through the solid ocean floor. Does that make sense? So, most scientists simply ignored his work until new data emerged decades later. Today, we'll look at what finally convinced the scientific community: the concept of seafloor spreading, introduced in the 1960s. The first piece of evidence researchers pointed out was the discovery of mid-ocean ridges. These are essentially massive, continuous underwater mountain ranges. Scientists found that new rocky crust is constantly being formed at these ridges by magma rising from deep within the Earth. But that's not all. They also looked at the age of the rocks on the ocean floor. By drilling into the crust, researchers discovered something fascinating. The rocks right next to the mid-ocean ridges were very young, but as you moved further away from the ridges in either direction, the rocks became progressively older. This means that new ocean floor is constantly being created and pushing the older floor outwards. To put it simply, the seafloor acts like a giant conveyor belt, moving the continents along with it. Are we clear on this concept? This was the missing puzzle piece Wegener needed."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why was Wegener's original theory initially dismissed by the scientific community?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "He failed to explain the physical process of how continents shifted.",
+      "choice_b": "He could not locate any mid-ocean ridges on his maps.",
+      "choice_c": "The scientific community ignored his work due to a lack of magma.",
+      "choice_d": "His data showed that the ocean floor was acting like a conveyor belt.",
+      "correct_choice": "A",
+      "explanation": "講義の冒頭で「he lacked a plausible mechanism（もっともらしいメカニズムが欠けていた）」と述べ、直後に「巨大な大陸がどうやって海底を押し退けて進むのか証明できなかった」と言い換えています。これを「大陸が移動する物理的プロセスを説明できなかった」と表現したAが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "ウェゲナーが地図上で海嶺（mid-ocean ridges）を見つけられなかったとは述べていません。海嶺の発見は1960年代の出来事です。",
+      "wrong_reason_c": "本文に登場する「magma」という単語を無関係な文脈で使ったひっかけです。マグマの不足が無視された原因とは述べていません。",
+      "wrong_reason_d": "「conveyor belt」は1960年代の海底拡大説を説明するための比喩であり、ウェゲナー自身のデータではありません。"
+    },
+    {
+      "question_text": "According to the lecture, where is the newest crust found?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, Alfred Wegener proposed the theory of continental drift in 1912, suggesting that continents move around the Earth's surface. However, his theory was largely rejected at the time. Why? Because he lacked a plausible mechanism; in other words, he couldn't prove exactly how such massive landmasses could actually push through the solid ocean floor. Does that make sense? So, most scientists simply ignored his work until new data emerged decades later. Today, we'll look at what finally convinced the scientific community: the concept of seafloor spreading, introduced in the 1960s. The first piece of evidence researchers pointed out was the discovery of mid-ocean ridges. These are essentially massive, continuous underwater mountain ranges. Scientists found that new rocky crust is constantly being formed at these ridges by magma rising from deep within the Earth. But that's not all. They also looked at the age of the rocks on the ocean floor. By drilling into the crust, researchers discovered something fascinating. The rocks right next to the mid-ocean ridges were very young, but as you moved further away from the ridges in either direction, the rocks became progressively older. This means that new ocean floor is constantly being created and pushing the older floor outwards. To put it simply, the seafloor acts like a giant conveyor belt, moving the continents along with it. Are we clear on this concept? This was the missing puzzle piece Wegener needed."
+          },
+          {
+            "speaker": "narrator",
+            "text": "According to the lecture, where is the newest crust found?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Deep within the Earth's core",
+      "choice_b": "Immediately adjacent to underwater mountain ranges",
+      "choice_c": "At the furthest points from the mid-ocean ridges",
+      "choice_d": "On the massive continents moving across the ocean",
+      "correct_choice": "B",
+      "explanation": "講義内で「The rocks right next to the mid-ocean ridges were very young（中央海嶺のすぐ隣の岩石は非常に若かった）」と述べています。mid-ocean ridgesをunderwater mountain rangesに、right next toをimmediately adjacentに言い換えたBが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "マグマは地球の深部（deep within the Earth）から上昇しますが、新しい地殻が「見つかる」場所に対する答えとしては不適切です。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "中央海嶺から遠ざかるほど岩石は「古くなる（older）」と説明されているため逆です。",
+      "wrong_reason_d": "海洋を移動する巨大な大陸の「上で」新しい地殻が作られているわけではありません。本文の語彙を乱用したひっかけです。"
+    },
+    {
+      "question_text": "What does the professor imply by comparing the seafloor to a \"giant conveyor belt\"?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "man",
+            "text": "As we discussed in the previous class, Alfred Wegener proposed the theory of continental drift in 1912, suggesting that continents move around the Earth's surface. However, his theory was largely rejected at the time. Why? Because he lacked a plausible mechanism; in other words, he couldn't prove exactly how such massive landmasses could actually push through the solid ocean floor. Does that make sense? So, most scientists simply ignored his work until new data emerged decades later. Today, we'll look at what finally convinced the scientific community: the concept of seafloor spreading, introduced in the 1960s. The first piece of evidence researchers pointed out was the discovery of mid-ocean ridges. These are essentially massive, continuous underwater mountain ranges. Scientists found that new rocky crust is constantly being formed at these ridges by magma rising from deep within the Earth. But that's not all. They also looked at the age of the rocks on the ocean floor. By drilling into the crust, researchers discovered something fascinating. The rocks right next to the mid-ocean ridges were very young, but as you moved further away from the ridges in either direction, the rocks became progressively older. This means that new ocean floor is constantly being created and pushing the older floor outwards. To put it simply, the seafloor acts like a giant conveyor belt, moving the continents along with it. Are we clear on this concept? This was the missing puzzle piece Wegener needed."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What does the professor imply by comparing the seafloor to a \"giant conveyor belt\"?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "It breaks down old rocks into magma deep within the Earth.",
+      "choice_b": "It moves massive landmasses toward the newly formed mid-ocean ridges.",
+      "choice_c": "It was a piece of machinery invented in the 1960s to drill the crust.",
+      "choice_d": "It continuously generates and transports crustal material outward.",
+      "correct_choice": "D",
+      "explanation": "教授は、新しい海底が絶えず作られ、古い海底を外側へ押しやっている様子（new ocean floor is constantly being created and pushing the older floor outwards）をコンベアベルトに例えています。これを言い換えたDが正解です。",
+      "tag": "talk",
+      "wrong_reason_a": "コンベアベルトの比喩の中で、古い岩石をマグマに分解しているというプロセスには言及していません。",
+      "wrong_reason_b": "新しい地殻が形成される海嶺の「方向へ（toward）」大陸を動かすのではなく、海嶺から離れる方向へ押しやっています。",
+      "wrong_reason_c": "「conveyor belt」はあくまで現象を説明するための比喩であり、地殻を掘削するために発明された実際の機械ではありません。",
+      "wrong_reason_d": null
+    }
+  ]
+}

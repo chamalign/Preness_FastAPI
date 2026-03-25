@@ -1,0 +1,532 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What is the student mainly looking for?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, I’m working on a research paper for my early American history class. Professor Davis said we need to incorporate some primary sources, but I’m a bit lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... early American history. That’s a broad area. Basically, you’ll want to look at letters, diaries, or newspaper clippings from that specific era. What’s your focus?"
+          },
+          {
+            "speaker": "man",
+            "text": "I'm focusing on trade ports, specifically around Charleston in the late eighteenth century."
+          },
+          {
+            "speaker": "woman",
+            "text": "Interesting. Actually, we have a digital archive called the Southern Historical Collection. It contains shipping logs from that period. But remember, the handwriting in those digitized documents can be quite challenging to decipher."
+          },
+          {
+            "speaker": "man",
+            "text": "Seriously? I didn't think about that. Wait... does the library have any transcribed versions? It would save me hours of trying to read old cursive."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unfortunately, only a handful of the most famous letters are fully transcribed. However, there’s a printed index that summarizes the cargo for major voyages. It might help you pinpoint which exact logs to spend time on."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Where can I find this printed index?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It's in the reference section on the third floor. Just a heads up, the third floor is undergoing some renovations, so it’s a bit messy. Look for the temporary shelving near the east window."
+          },
+          {
+            "speaker": "man",
+            "text": "Got it. And for the digital archive, do I need a special login?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Just your standard student ID. The system was updated over the weekend, so you might need to reset your password if you haven't logged in recently."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the student mainly looking for?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "A specific book written by Professor Davis.",
+      "choice_b": "Original documents from a certain historical period.",
+      "choice_c": "A part-time job as a library assistant.",
+      "choice_d": "Photographs of old trade ports.",
+      "correct_choice": "B",
+      "explanation": "学生は「primary sources」を探しており、司書がそれを「手紙や日記」と言い換えていることから、特定の歴史的時期の「Original documents（一次資料）」を探していることが分かります  [cite: 1, 17]。",
+      "tag": "longConv",
+      "wrong_reason_a": "学生は教授に指示されただけで、教授の著書を探しているわけではありません [cite: 1]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "学生は研究の資料を探しており、アルバイトの仕事を探しているわけではありません [cite: 1]。",
+      "wrong_reason_d": "手紙や日記などの資料を探しており、写真を探しているとは言及されていません [cite: 1]。"
+    },
+    {
+      "question_text": "Why does the librarian mention handwriting?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, I’m working on a research paper for my early American history class. Professor Davis said we need to incorporate some primary sources, but I’m a bit lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... early American history. That’s a broad area. Basically, you’ll want to look at letters, diaries, or newspaper clippings from that specific era. What’s your focus?"
+          },
+          {
+            "speaker": "man",
+            "text": "I'm focusing on trade ports, specifically around Charleston in the late eighteenth century."
+          },
+          {
+            "speaker": "woman",
+            "text": "Interesting. Actually, we have a digital archive called the Southern Historical Collection. It contains shipping logs from that period. But remember, the handwriting in those digitized documents can be quite challenging to decipher."
+          },
+          {
+            "speaker": "man",
+            "text": "Seriously? I didn't think about that. Wait... does the library have any transcribed versions? It would save me hours of trying to read old cursive."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unfortunately, only a handful of the most famous letters are fully transcribed. However, there’s a printed index that summarizes the cargo for major voyages. It might help you pinpoint which exact logs to spend time on."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Where can I find this printed index?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It's in the reference section on the third floor. Just a heads up, the third floor is undergoing some renovations, so it’s a bit messy. Look for the temporary shelving near the east window."
+          },
+          {
+            "speaker": "man",
+            "text": "Got it. And for the digital archive, do I need a special login?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Just your standard student ID. The system was updated over the weekend, so you might need to reset your password if you haven't logged in recently."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why does the librarian mention handwriting?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "To explain why some documents are not digitized.",
+      "choice_b": "To point out a mistake in the printed index.",
+      "choice_c": "To suggest he take a calligraphy class.",
+      "choice_d": "To warn the student about a potential difficulty.",
+      "correct_choice": "D",
+      "explanation": "司書は「But remember...」と逆接を用いて、デジタル化された手書き文書（handwriting）は解読が難しいという「潜在的な困難（potential difficulty）」について警告しています [cite: 1, 2]。",
+      "tag": "longConv",
+      "wrong_reason_a": "デジタル化されていない理由ではなく、デジタル化された文書を読む際の注意点として言及されています [cite: 1]。",
+      "wrong_reason_b": "印刷された索引の誤りについては言及されていません [cite: 1]。",
+      "wrong_reason_c": "カリグラフィー（書道）のクラスを勧める発言はありません [cite: 1]。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "Where should the student go to find the printed index?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, I’m working on a research paper for my early American history class. Professor Davis said we need to incorporate some primary sources, but I’m a bit lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... early American history. That’s a broad area. Basically, you’ll want to look at letters, diaries, or newspaper clippings from that specific era. What’s your focus?"
+          },
+          {
+            "speaker": "man",
+            "text": "I'm focusing on trade ports, specifically around Charleston in the late eighteenth century."
+          },
+          {
+            "speaker": "woman",
+            "text": "Interesting. Actually, we have a digital archive called the Southern Historical Collection. It contains shipping logs from that period. But remember, the handwriting in those digitized documents can be quite challenging to decipher."
+          },
+          {
+            "speaker": "man",
+            "text": "Seriously? I didn't think about that. Wait... does the library have any transcribed versions? It would save me hours of trying to read old cursive."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unfortunately, only a handful of the most famous letters are fully transcribed. However, there’s a printed index that summarizes the cargo for major voyages. It might help you pinpoint which exact logs to spend time on."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Where can I find this printed index?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It's in the reference section on the third floor. Just a heads up, the third floor is undergoing some renovations, so it’s a bit messy. Look for the temporary shelving near the east window."
+          },
+          {
+            "speaker": "man",
+            "text": "Got it. And for the digital archive, do I need a special login?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Just your standard student ID. The system was updated over the weekend, so you might need to reset your password if you haven't logged in recently."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Where should the student go to find the printed index?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "The circulation desk on the first floor.",
+      "choice_b": "The digital archives room.",
+      "choice_c": "A temporary shelf on the third floor.",
+      "choice_d": "The east window of the history building.",
+      "correct_choice": "C",
+      "explanation": "司書は印刷された索引（printed index）が「3階の仮設棚（temporary shelving on the third floor）」にあると述べています [cite: 4]。",
+      "tag": "longConv",
+      "wrong_reason_a": "1階の貸出カウンターについては言及されていません [cite: 4]。",
+      "wrong_reason_b": "デジタルアーカイブはオンライン上のシステムであり、特定の部屋に行くようにとは指示されていません [cite: 4]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "歴史学部の建物の東窓ではなく、図書館3階の東窓付近にあると述べています [cite: 1, 4]。"
+    },
+    {
+      "question_text": "What might the student need to do before accessing the digital archive?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "man",
+            "text": "Excuse me, I’m working on a research paper for my early American history class. Professor Davis said we need to incorporate some primary sources, but I’m a bit lost."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... early American history. That’s a broad area. Basically, you’ll want to look at letters, diaries, or newspaper clippings from that specific era. What’s your focus?"
+          },
+          {
+            "speaker": "man",
+            "text": "I'm focusing on trade ports, specifically around Charleston in the late eighteenth century."
+          },
+          {
+            "speaker": "woman",
+            "text": "Interesting. Actually, we have a digital archive called the Southern Historical Collection. It contains shipping logs from that period. But remember, the handwriting in those digitized documents can be quite challenging to decipher."
+          },
+          {
+            "speaker": "man",
+            "text": "Seriously? I didn't think about that. Wait... does the library have any transcribed versions? It would save me hours of trying to read old cursive."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unfortunately, only a handful of the most famous letters are fully transcribed. However, there’s a printed index that summarizes the cargo for major voyages. It might help you pinpoint which exact logs to spend time on."
+          },
+          {
+            "speaker": "man",
+            "text": "Makes sense. Where can I find this printed index?"
+          },
+          {
+            "speaker": "woman",
+            "text": "It's in the reference section on the third floor. Just a heads up, the third floor is undergoing some renovations, so it’s a bit messy. Look for the temporary shelving near the east window."
+          },
+          {
+            "speaker": "man",
+            "text": "Got it. And for the digital archive, do I need a special login?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Just your standard student ID. The system was updated over the weekend, so you might need to reset your password if you haven't logged in recently."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What might the student need to do before accessing the digital archive?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Update his login credentials.",
+      "choice_b": "Pay a subscription fee.",
+      "choice_c": "Create a completely new account.",
+      "choice_d": "Show his student ID to the reference librarian.",
+      "correct_choice": "A",
+      "explanation": "週末にシステムが更新されたため、最近ログインしていない場合は「パスワードの再設定（reset your password）」が必要かもしれないと述べており、これが「ログイン情報の更新（Update his login credentials）」に該当します [cite: 1]。",
+      "tag": "longConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "購読料（subscription fee）の支払いについては言及されていません [cite: 1]。",
+      "wrong_reason_c": "学生IDでログインできると述べており、完全に新しいアカウントを作成する必要はありません [cite: 1]。",
+      "wrong_reason_d": "司書にIDを見せるのではなく、システムにログインするためにIDを使用します [cite: 1]。"
+    },
+    {
+      "question_text": "What is the main purpose of the conversation?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 5."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hi Mr. Thompson. I wanted to talk about switching my major from Biology to Environmental Science. I’ve been looking over the long-term plan, and I'm worried about graduating on time."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... changing majors in your junior year can certainly complicate things. Let’s look at your transcript. You've completed most of the core science prerequisites, which is great."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. I was hoping my chemistry and physics credits would transfer directly over to the new track."
+          },
+          {
+            "speaker": "man",
+            "text": "They do, for the most part. The thing is, Environmental Science requires a specific field-work module that isn't offered every semester. Actually, it's only available in the spring, and you need to complete it before you can take the senior seminar."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable. I was planning to take my electives this spring and save the heavier requirements for my final year. Does that mean I have to delay my graduation?"
+          },
+          {
+            "speaker": "man",
+            "text": "Not necessarily. There's a summer intensive program at the biological station upstate. It counts for the same field-work credit. But remember, the application deadline for the summer session is much earlier than regular classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Oh! I didn't know about the summer option. How early is the deadline?"
+          },
+          {
+            "speaker": "man",
+            "text": "Usually around mid-February. You’d need to secure a recommendation letter from a science professor, too. It’s competitive, but given your grades, you have a strong chance."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... I'll have to ask Professor Lewis today. If I don't get in, I guess I'll just have to stay an extra semester. I'll get the paperwork started immediately."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the main purpose of the conversation?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "To request a letter of recommendation.",
+      "choice_b": "To complain about a heavy course load.",
+      "choice_c": "To figure out how a major change affects graduation.",
+      "choice_d": "To discuss a summer job at a biological station.",
+      "correct_choice": "C",
+      "explanation": "学生は専攻の変更（switching my major）が計画通りに卒業できるかどうかにどう影響するかをアドバイザーと相談しています  [cite: 8, 17]。",
+      "tag": "longConv",
+      "wrong_reason_a": "推薦状は夏のプログラムのために後で話題になりますが、会話の主な目的ではありません [cite: 1]。",
+      "wrong_reason_b": "課題の多さについて文句を言っているのではなく、卒業時期への影響を心配しています [cite: 1]。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "生物学ステーションでの夏の仕事ではなく、単位取得のためのプログラムについて話しています [cite: 1]。"
+    },
+    {
+      "question_text": "What problem does the advisor identify with the student's plan?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 6."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hi Mr. Thompson. I wanted to talk about switching my major from Biology to Environmental Science. I’ve been looking over the long-term plan, and I'm worried about graduating on time."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... changing majors in your junior year can certainly complicate things. Let’s look at your transcript. You've completed most of the core science prerequisites, which is great."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. I was hoping my chemistry and physics credits would transfer directly over to the new track."
+          },
+          {
+            "speaker": "man",
+            "text": "They do, for the most part. The thing is, Environmental Science requires a specific field-work module that isn't offered every semester. Actually, it's only available in the spring, and you need to complete it before you can take the senior seminar."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable. I was planning to take my electives this spring and save the heavier requirements for my final year. Does that mean I have to delay my graduation?"
+          },
+          {
+            "speaker": "man",
+            "text": "Not necessarily. There's a summer intensive program at the biological station upstate. It counts for the same field-work credit. But remember, the application deadline for the summer session is much earlier than regular classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Oh! I didn't know about the summer option. How early is the deadline?"
+          },
+          {
+            "speaker": "man",
+            "text": "Usually around mid-February. You’d need to secure a recommendation letter from a science professor, too. It’s competitive, but given your grades, you have a strong chance."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... I'll have to ask Professor Lewis today. If I don't get in, I guess I'll just have to stay an extra semester. I'll get the paperwork started immediately."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What problem does the advisor identify with the student's plan?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Her chemistry credits will not count toward the new major.",
+      "choice_b": "A required course is not offered in the fall semester.",
+      "choice_c": "She has not completed enough core science prerequisites.",
+      "choice_d": "The senior seminar is already full.",
+      "correct_choice": "B",
+      "explanation": "アドバイザーは、環境科学の専攻に必要なフィールドワークのモジュールが「春にしか提供されていない（only available in the spring）」と述べており、これが秋学期に受講できないという問題を示しています [cite: 1, 5]。",
+      "tag": "longConv",
+      "wrong_reason_a": "化学や物理の単位は新しい専攻でもほとんど認められるとアドバイザーは述べています [cite: 1]。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "基礎科学の必須科目はすでにほとんど修了しているとアドバイザーは評価しています [cite: 1]。",
+      "wrong_reason_d": "シニアセミナーが満員であるという言及はありません [cite: 1]。"
+    },
+    {
+      "question_text": "How can the student avoid delaying her graduation?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 7."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hi Mr. Thompson. I wanted to talk about switching my major from Biology to Environmental Science. I’ve been looking over the long-term plan, and I'm worried about graduating on time."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... changing majors in your junior year can certainly complicate things. Let’s look at your transcript. You've completed most of the core science prerequisites, which is great."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. I was hoping my chemistry and physics credits would transfer directly over to the new track."
+          },
+          {
+            "speaker": "man",
+            "text": "They do, for the most part. The thing is, Environmental Science requires a specific field-work module that isn't offered every semester. Actually, it's only available in the spring, and you need to complete it before you can take the senior seminar."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable. I was planning to take my electives this spring and save the heavier requirements for my final year. Does that mean I have to delay my graduation?"
+          },
+          {
+            "speaker": "man",
+            "text": "Not necessarily. There's a summer intensive program at the biological station upstate. It counts for the same field-work credit. But remember, the application deadline for the summer session is much earlier than regular classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Oh! I didn't know about the summer option. How early is the deadline?"
+          },
+          {
+            "speaker": "man",
+            "text": "Usually around mid-February. You’d need to secure a recommendation letter from a science professor, too. It’s competitive, but given your grades, you have a strong chance."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... I'll have to ask Professor Lewis today. If I don't get in, I guess I'll just have to stay an extra semester. I'll get the paperwork started immediately."
+          },
+          {
+            "speaker": "narrator",
+            "text": "How can the student avoid delaying her graduation?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "By taking the field-work module during a summer program.",
+      "choice_b": "By taking the senior seminar before the field-work module.",
+      "choice_c": "By applying for an exception with Professor Lewis.",
+      "choice_d": "By completing her electives in the spring.",
+      "correct_choice": "A",
+      "explanation": "アドバイザーは卒業を遅らせないための解決策として、同じ単位として認められる「夏の集中プログラム（summer intensive program）」を提案しています [cite: 6, 8]。",
+      "tag": "longConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "シニアセミナーはフィールドワークの後にしか受講できないと述べられています [cite: 1]。",
+      "wrong_reason_c": "ルイス教授に推薦状を頼むことは言及されていますが、特例（exception）を申請するわけではありません [cite: 1]。",
+      "wrong_reason_d": "春に選択科目を修了しても、必須のフィールドワークが終わらないため卒業の遅れを防ぐことにはなりません [cite: 1]。"
+    },
+    {
+      "question_text": "What is one requirement for the summer intensive program?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 8."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hi Mr. Thompson. I wanted to talk about switching my major from Biology to Environmental Science. I’ve been looking over the long-term plan, and I'm worried about graduating on time."
+          },
+          {
+            "speaker": "man",
+            "text": "Well... changing majors in your junior year can certainly complicate things. Let’s look at your transcript. You've completed most of the core science prerequisites, which is great."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. I was hoping my chemistry and physics credits would transfer directly over to the new track."
+          },
+          {
+            "speaker": "man",
+            "text": "They do, for the most part. The thing is, Environmental Science requires a specific field-work module that isn't offered every semester. Actually, it's only available in the spring, and you need to complete it before you can take the senior seminar."
+          },
+          {
+            "speaker": "woman",
+            "text": "Unbelievable. I was planning to take my electives this spring and save the heavier requirements for my final year. Does that mean I have to delay my graduation?"
+          },
+          {
+            "speaker": "man",
+            "text": "Not necessarily. There's a summer intensive program at the biological station upstate. It counts for the same field-work credit. But remember, the application deadline for the summer session is much earlier than regular classes."
+          },
+          {
+            "speaker": "woman",
+            "text": "Oh! I didn't know about the summer option. How early is the deadline?"
+          },
+          {
+            "speaker": "man",
+            "text": "Usually around mid-February. You’d need to secure a recommendation letter from a science professor, too. It’s competitive, but given your grades, you have a strong chance."
+          },
+          {
+            "speaker": "woman",
+            "text": "Hmm... I'll have to ask Professor Lewis today. If I don't get in, I guess I'll just have to stay an extra semester. I'll get the paperwork started immediately."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is one requirement for the summer intensive program?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "A higher grade point average.",
+      "choice_b": "Completion of the senior seminar.",
+      "choice_c": "An interview with the program director.",
+      "choice_d": "A reference from a science instructor.",
+      "correct_choice": "D",
+      "explanation": "夏のプログラムに参加するための要件として、アドバイザーは「科学の教授からの推薦状（recommendation letter from a science professor）」が必要だと述べており、これが「科学の指導教員からの推薦（A reference from a science instructor）」に該当します [cite: 1, 5]。",
+      "tag": "longConv",
+      "wrong_reason_a": "高い成績（GPA）が要件であるとは直接述べられていません [cite: 1]。",
+      "wrong_reason_b": "シニアセミナーの修了は夏のプログラムの要件ではありません [cite: 1]。",
+      "wrong_reason_c": "プログラムディレクターとの面接が必要であるとは言及されていません [cite: 1]。",
+      "wrong_reason_d": null
+    }
+  ]
+}

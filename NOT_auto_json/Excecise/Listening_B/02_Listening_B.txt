@@ -1,0 +1,324 @@
+﻿{
+  "items": [
+    {
+      "question_text": "What are the speakers mainly discussing?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 1."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi Professor Davis. Can I talk to you about my schedule? I'm feeling quite overwhelmed lately."
+          },
+          {
+            "speaker": "woman",
+            "text": "Come in, Mark. Let's look at your classes. You’re in the introductory biology sequence, right?"
+          },
+          {
+            "speaker": "man",
+            "text": "Actually, I already finished that. I'm taking upper-level genetics, organic chemistry, and two electives. The chemistry course is demanding most of my attention."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Taking two heavy sciences simultaneously is certainly challenging. The chemistry lab reports often take much longer than students anticipate."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable how much time they consume! I was thinking about dropping the chemistry class and taking it over the summer instead."
+          },
+          {
+            "speaker": "woman",
+            "text": "The thing is, organic chemistry is rarely offered during shorter terms. If you drop it now, you'd likely wait until next year."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I thought most core classes had summer sections available."
+          },
+          {
+            "speaker": "woman",
+            "text": "Not ones with extensive laboratory components. Have you considered utilizing the campus tutoring center?"
+          },
+          {
+            "speaker": "man",
+            "text": "I haven't yet. Do they actually help with advanced courses like organic chemistry?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, they organize group sessions led by senior students. It might save you hours of struggling alone."
+          },
+          {
+            "speaker": "man",
+            "text": "I guess I could look into that. It’s just, I joined the debate club recently, and we have a tournament coming up soon."
+          },
+          {
+            "speaker": "woman",
+            "text": "Extracurriculars are valuable, but academics must take priority. Try the tutoring for a bit. If things haven't improved near midterms, we could consider withdrawing from an elective."
+          },
+          {
+            "speaker": "man",
+            "text": "Keep the sciences, maybe drop an elective... Okay, I'll go check the tutoring schedule this afternoon."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What are the speakers mainly discussing?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Strategies for preparing for a debate tournament.",
+      "choice_b": "The requirements for graduating with a biology degree.",
+      "choice_c": "The student's struggle to manage a difficult course load.",
+      "choice_d": "The process of applying for a job at the tutoring center.",
+      "correct_choice": "C",
+      "explanation": "正解の理由：学生は2つの重い理系科目の履修によって負担を感じており、教授にスケジュールの相談をしています。そのため「学生が困難なコース負荷（授業の負担）に対処しようと苦労していること」が会話の主なテーマとなります。",
+      "tag": "longConv",
+      "wrong_reason_a": "ディベートの大会については言及されていますが、会話の主題ではなく、学生が忙しい理由の一部として挙げられているに過ぎません。",
+      "wrong_reason_b": "卒業時期が遅れる可能性には触れられていますが、生物学の学位を取得するための要件そのものについて話し合っているわけではありません。",
+      "wrong_reason_c": null,
+      "wrong_reason_d": "学生はチューターセンターを利用するよう勧められていますが、そこで働くための応募手続きについて話し合っているわけではありません。"
+    },
+    {
+      "question_text": "Why does the professor advise against dropping the chemistry class?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 2."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi Professor Davis. Can I talk to you about my schedule? I'm feeling quite overwhelmed lately."
+          },
+          {
+            "speaker": "woman",
+            "text": "Come in, Mark. Let's look at your classes. You’re in the introductory biology sequence, right?"
+          },
+          {
+            "speaker": "man",
+            "text": "Actually, I already finished that. I'm taking upper-level genetics, organic chemistry, and two electives. The chemistry course is demanding most of my attention."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Taking two heavy sciences simultaneously is certainly challenging. The chemistry lab reports often take much longer than students anticipate."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable how much time they consume! I was thinking about dropping the chemistry class and taking it over the summer instead."
+          },
+          {
+            "speaker": "woman",
+            "text": "The thing is, organic chemistry is rarely offered during shorter terms. If you drop it now, you'd likely wait until next year."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I thought most core classes had summer sections available."
+          },
+          {
+            "speaker": "woman",
+            "text": "Not ones with extensive laboratory components. Have you considered utilizing the campus tutoring center?"
+          },
+          {
+            "speaker": "man",
+            "text": "I haven't yet. Do they actually help with advanced courses like organic chemistry?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, they organize group sessions led by senior students. It might save you hours of struggling alone."
+          },
+          {
+            "speaker": "man",
+            "text": "I guess I could look into that. It’s just, I joined the debate club recently, and we have a tournament coming up soon."
+          },
+          {
+            "speaker": "woman",
+            "text": "Extracurriculars are valuable, but academics must take priority. Try the tutoring for a bit. If things haven't improved near midterms, we could consider withdrawing from an elective."
+          },
+          {
+            "speaker": "man",
+            "text": "Keep the sciences, maybe drop an elective... Okay, I'll go check the tutoring schedule this afternoon."
+          },
+          {
+            "speaker": "narrator",
+            "text": "Why does the professor advise against dropping the chemistry class?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "It is not typically available during the summer session.",
+      "choice_b": "It is a prerequisite for the upper-level genetics course.",
+      "choice_c": "The student needs the credits to remain in the debate club.",
+      "choice_d": "The university charges extra fees for summer laboratory courses.",
+      "correct_choice": "A",
+      "explanation": "正解の理由：教授は「有機化学は短い学期（夏期など）には滅多に開講されない（rarely offered during shorter terms）」と述べており、今履修を取り消すと来年まで待つことになると警告しています。そのため「通常、夏期セッションでは開講されないから」が正解です。",
+      "tag": "longConv",
+      "wrong_reason_a": null,
+      "wrong_reason_b": "学生は上級遺伝学も受講していますが、有機化学がその必須科目（prerequisite）であるとは会話内で言及されていません。",
+      "wrong_reason_c": "クラブ活動（ディベートクラブ）への参加に特定の単位数や科目の維持が必要であるという話は一切出ていません。",
+      "wrong_reason_d": "夏期の実験コースに追加料金や手数料がかかるという言及はありません。単に開講されていないだけです。"
+    },
+    {
+      "question_text": "What is the student finding most time-consuming about his coursework?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 3."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi Professor Davis. Can I talk to you about my schedule? I'm feeling quite overwhelmed lately."
+          },
+          {
+            "speaker": "woman",
+            "text": "Come in, Mark. Let's look at your classes. You’re in the introductory biology sequence, right?"
+          },
+          {
+            "speaker": "man",
+            "text": "Actually, I already finished that. I'm taking upper-level genetics, organic chemistry, and two electives. The chemistry course is demanding most of my attention."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Taking two heavy sciences simultaneously is certainly challenging. The chemistry lab reports often take much longer than students anticipate."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable how much time they consume! I was thinking about dropping the chemistry class and taking it over the summer instead."
+          },
+          {
+            "speaker": "woman",
+            "text": "The thing is, organic chemistry is rarely offered during shorter terms. If you drop it now, you'd likely wait until next year."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I thought most core classes had summer sections available."
+          },
+          {
+            "speaker": "woman",
+            "text": "Not ones with extensive laboratory components. Have you considered utilizing the campus tutoring center?"
+          },
+          {
+            "speaker": "man",
+            "text": "I haven't yet. Do they actually help with advanced courses like organic chemistry?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, they organize group sessions led by senior students. It might save you hours of struggling alone."
+          },
+          {
+            "speaker": "man",
+            "text": "I guess I could look into that. It’s just, I joined the debate club recently, and we have a tournament coming up soon."
+          },
+          {
+            "speaker": "woman",
+            "text": "Extracurriculars are valuable, but academics must take priority. Try the tutoring for a bit. If things haven't improved near midterms, we could consider withdrawing from an elective."
+          },
+          {
+            "speaker": "man",
+            "text": "Keep the sciences, maybe drop an elective... Okay, I'll go check the tutoring schedule this afternoon."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What is the student finding most time-consuming about his coursework?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Reading assignments for his two elective classes.",
+      "choice_b": "Organizing study groups for introductory biology.",
+      "choice_c": "Preparing speeches for his extracurricular club.",
+      "choice_d": "Completing the written reports for his science lab.",
+      "correct_choice": "D",
+      "explanation": "正解の理由：教授が「化学の実験レポート（chemistry lab reports）は学生が予想するよりもはるかに時間がかかる」と指摘し、学生も「信じられないほど時間を消費する」と強く同意しているため、理系の実験レポートの作成に最も時間を取られていることがわかります。",
+      "tag": "longConv",
+      "wrong_reason_a": "選択科目（electives）も履修していますが、そのリーディング課題が時間を取っているという言及はありません。",
+      "wrong_reason_b": "生物学の入門コースはすでに終了しており、そのための勉強グループを組織しているわけではありません。",
+      "wrong_reason_c": "クラブの大会が控えていて忙しいことは言及されていますが、それが授業の課題（coursework）の中で最も時間を消費しているとは述べられていません。",
+      "wrong_reason_d": null
+    },
+    {
+      "question_text": "What will the student likely do next?",
+      "content": {
+        "listening_script": [
+          {
+            "speaker": "narrator",
+            "text": "Question 4."
+          },
+          {
+            "speaker": "man",
+            "text": "Hi Professor Davis. Can I talk to you about my schedule? I'm feeling quite overwhelmed lately."
+          },
+          {
+            "speaker": "woman",
+            "text": "Come in, Mark. Let's look at your classes. You’re in the introductory biology sequence, right?"
+          },
+          {
+            "speaker": "man",
+            "text": "Actually, I already finished that. I'm taking upper-level genetics, organic chemistry, and two electives. The chemistry course is demanding most of my attention."
+          },
+          {
+            "speaker": "woman",
+            "text": "Right. Taking two heavy sciences simultaneously is certainly challenging. The chemistry lab reports often take much longer than students anticipate."
+          },
+          {
+            "speaker": "man",
+            "text": "Unbelievable how much time they consume! I was thinking about dropping the chemistry class and taking it over the summer instead."
+          },
+          {
+            "speaker": "woman",
+            "text": "The thing is, organic chemistry is rarely offered during shorter terms. If you drop it now, you'd likely wait until next year."
+          },
+          {
+            "speaker": "man",
+            "text": "Wait... really? I thought most core classes had summer sections available."
+          },
+          {
+            "speaker": "woman",
+            "text": "Not ones with extensive laboratory components. Have you considered utilizing the campus tutoring center?"
+          },
+          {
+            "speaker": "man",
+            "text": "I haven't yet. Do they actually help with advanced courses like organic chemistry?"
+          },
+          {
+            "speaker": "woman",
+            "text": "Yes, they organize group sessions led by senior students. It might save you hours of struggling alone."
+          },
+          {
+            "speaker": "man",
+            "text": "I guess I could look into that. It’s just, I joined the debate club recently, and we have a tournament coming up soon."
+          },
+          {
+            "speaker": "woman",
+            "text": "Extracurriculars are valuable, but academics must take priority. Try the tutoring for a bit. If things haven't improved near midterms, we could consider withdrawing from an elective."
+          },
+          {
+            "speaker": "man",
+            "text": "Keep the sciences, maybe drop an elective... Okay, I'll go check the tutoring schedule this afternoon."
+          },
+          {
+            "speaker": "narrator",
+            "text": "What will the student likely do next?"
+          }
+        ],
+        "reading_passage": null,
+        "structure_sentence": null
+      },
+      "choice_a": "Withdraw from one of his elective courses immediately.",
+      "choice_b": "Find out when the senior students hold study sessions.",
+      "choice_c": "Register for an introductory biology course.",
+      "choice_d": "Cancel his participation in the upcoming tournament.",
+      "correct_choice": "B",
+      "explanation": "正解の理由：学生は会話の最後に「今日の午後、チューターのスケジュールを確認しに行く（check the tutoring schedule this afternoon）」と述べています。教授がチューターセッションは「上級生（senior students）によって主導される」と説明していたため、Bが正解となります。",
+      "tag": "longConv",
+      "wrong_reason_a": "教授は、中間テストの時期になっても状況が改善しなければ選択科目の取り消しを検討すると提案しており、すぐに取り消すわけではありません。",
+      "wrong_reason_b": null,
+      "wrong_reason_c": "生物学の入門コースはすでに単位を取得済みであるため、再登録することはありません。",
+      "wrong_reason_d": "学生は大会が負担になっていると述べていますが、参加をキャンセルするとは明言していません。"
+    }
+  ]
+}
