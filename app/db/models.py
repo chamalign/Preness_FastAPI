@@ -136,6 +136,7 @@ class MockQuestion(Base):
     wrong_reason_b: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     wrong_reason_c: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     wrong_reason_d: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    scripts: Mapped[Optional[List[Any]]] = mapped_column(JSON, nullable=True)
     question_set: Mapped["MockQuestionSet"] = relationship("MockQuestionSet", back_populates="questions")
 
 
@@ -197,6 +198,7 @@ class ExerciseQuestion(Base):
     wrong_reason_b: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     wrong_reason_c: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     wrong_reason_d: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    scripts: Mapped[Optional[List[Any]]] = mapped_column(JSON, nullable=True)
     question_set: Mapped["ExerciseQuestionSet"] = relationship(
         "ExerciseQuestionSet", back_populates="questions"
     )

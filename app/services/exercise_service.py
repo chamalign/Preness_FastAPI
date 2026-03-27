@@ -6,6 +6,21 @@ from app.db.models import Exercise, ExerciseQuestion, ExerciseQuestionSet
 from app.schemas.exercises import ExerciseCreate
 
 
+def _scripts_for_db(scripts: Any) -> Any:
+    """Pydantic ScriptTurn または dict のリストを JSON 保存用の list[dict] にする."""
+    if scripts is None:
+        return None
+    out: List[Any] = []
+    for t in scripts:
+        if hasattr(t, "model_dump"):
+            out.append(t.model_dump())
+        elif isinstance(t, dict):
+            out.append(t)
+        else:
+            out.append(dict(t))
+    return out
+
+
 def _exercise_orm_to_dict(exercise: Exercise) -> Dict[str, Any]:
     """ORM Exercise を API レスポンス用の辞書（ExerciseCreate 同形）に変換."""
     question_sets = []
@@ -27,6 +42,7 @@ def _exercise_orm_to_dict(exercise: Exercise) -> Dict[str, Any]:
                 "wrong_reason_b": q.wrong_reason_b,
                 "wrong_reason_c": q.wrong_reason_c,
                 "wrong_reason_d": q.wrong_reason_d,
+                "scripts": q.scripts,
             })
         question_sets.append({
             "display_order": qs.display_order,
@@ -107,6 +123,7 @@ def create_exercise_from_payload(payload: ExerciseCreate) -> List[int]:
                     wrong_reason_b=q.wrong_reason_b,
                     wrong_reason_c=q.wrong_reason_c,
                     wrong_reason_d=q.wrong_reason_d,
+                    scripts=_scripts_for_db(q.scripts),
                 )
                 session.add(eq)
 

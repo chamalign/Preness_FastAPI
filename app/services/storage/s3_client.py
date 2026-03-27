@@ -4,7 +4,6 @@ bucket/region 未設定時は None を返す.
 """
 
 import logging
-from typing import Optional
 
 from app.core.config import get_settings
 
@@ -15,25 +14,27 @@ def upload_audio_bytes(
     data: bytes,
     object_key: str,
     content_type: str = "audio/wav",
-) -> Optional[str]:
+) -> str:
     """
     bytes を S3 にアップロードし、オブジェクトの URL を返す.
-    設定未設定時は None を返す (呼び出し側でスキップ).
+    失敗時は ValueError を送出する.
     """
     settings = get_settings()
     if not settings.s3_bucket or not settings.s3_region:
         logger.debug("S3 未設定 (S3_BUCKET / S3_REGION)")
-        return None
+        raise ValueError("S3 設定が不足しています: S3_BUCKET / S3_REGION を設定してください")
     if not settings.aws_access_key_id or not settings.aws_secret_access_key:
         logger.debug("AWS 認証情報未設定")
-        return None
+        raise ValueError(
+            "AWS 認証情報が不足しています: AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY を設定してください"
+        )
 
     try:
         import boto3
         from botocore.exceptions import ClientError
     except ImportError:
         logger.warning("boto3 がインストールされていません")
-        return None
+        raise ValueError("boto3 が未導入です: boto3 と botocore をインストールしてください")
 
     client = boto3.client(
         "s3",
@@ -52,4 +53,6 @@ def upload_audio_bytes(
         return url
     except ClientError as e:
         logger.error("S3 アップロード失敗: %s", e)
-        return None
+        raise ValueError(
+            f"S3 アップロード失敗: bucket={settings.s3_bucket}, key={object_key}, error={e}"
+        )

@@ -36,7 +36,9 @@ def process_mock_from_full_parts(
                 raise ValueError(f"{part_key}.items[{idx}].content must be an object")
             script = content.get("listening_script")
             if script is None:
-                continue
+                raise ValueError(
+                    f"{part_key}.items[{idx}].content.listening_script is required for Listening parts"
+                )
             if not isinstance(script, list):
                 raise ValueError(f"{part_key}.items[{idx}].content.listening_script must be a list")
 
@@ -72,7 +74,9 @@ def process_practice_from_part_data(
                     raise ValueError(f"{part_type}.items[{idx}].content must be an object")
                 script = content.get("listening_script")
                 if script is None:
-                    continue
+                    raise ValueError(
+                        f"{part_type}.items[{idx}].content.listening_script is required for Listening parts"
+                    )
                 if not isinstance(script, list):
                     raise ValueError(
                         f"{part_type}.items[{idx}].content.listening_script must be a list"

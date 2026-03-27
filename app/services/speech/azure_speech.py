@@ -7,7 +7,7 @@ import json
 import logging
 from functools import lru_cache
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List
 
 from app.core.config import get_settings
 
@@ -152,22 +152,26 @@ def _build_ssml(script: List[Dict[str, Any]]) -> str:
     return "".join(parts)
 
 
-def synthesize_script_to_bytes(script: List[Dict[str, Any]]) -> Optional[bytes]:
+def synthesize_script_to_bytes(script: List[Dict[str, Any]]) -> bytes:
     """
     listening_script ([{"speaker": "man"|"woman"|"narrator"|"break", "text": "..."}]) を
     Azure Speech で合成し、音声 bytes (WAV) を返す.
-    設定未設定時は None を返す.
+    失敗時は ValueError を送出する.
     """
     try:
         import azure.cognitiveservices.speech as speechsdk
     except ImportError:
         logger.warning("azure-cognitiveservices-speech がインストールされていません")
-        return None
+        raise ValueError(
+            "Azure Speech SDK が未導入です: azure-cognitiveservices-speech をインストールしてください"
+        )
 
     settings = get_settings()
     if not settings.azure_speech_key or not settings.azure_speech_region:
         logger.debug("Azure Speech 未設定 (AZURE_SPEECH_KEY / AZURE_SPEECH_REGION)")
-        return None
+        raise ValueError(
+            "Azure Speech 設定が不足しています: AZURE_SPEECH_KEY / AZURE_SPEECH_REGION を設定してください"
+        )
 
     endpoint = f"https://{settings.azure_speech_region}.api.cognitive.microsoft.com/"
     speech_config = speechsdk.SpeechConfig(
@@ -192,10 +196,12 @@ def synthesize_script_to_bytes(script: List[Dict[str, Any]]) -> Optional[bytes]:
     if result.reason != speechsdk.ResultReason.SynthesizingAudioCompleted:
         if result.reason == speechsdk.ResultReason.Canceled:
             details = result.cancellation_details
-            logger.error("Azure Speech キャンセル: %s", getattr(details, "error_details", details))
+            error_details = getattr(details, "error_details", details)
+            logger.error("Azure Speech キャンセル: %s", error_details)
+            raise ValueError(f"Azure Speech キャンセル: {error_details}")
         else:
             logger.error("Azure Speech 失敗: %s", result.reason)
-        return None
+            raise ValueError(f"Azure Speech 合成失敗: reason={result.reason}")
 
     stream = speechsdk.AudioDataStream(result)
     chunks = []

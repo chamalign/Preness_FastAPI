@@ -34,10 +34,12 @@ def build_listening_part_for_api(
                 passage_url = audio_url_map.get(f"{part_type}:{idx}")
         question_url = (audio_url_map or {}).get(f"{part_type}:{idx}:question")
 
-        scripts = None
         content = item.get("content")
-        if isinstance(content, dict):
-            scripts = content.get("listening_script")
+        if not isinstance(content, dict) or content.get("listening_script") is None:
+            raise ValueError(
+                f"Listening item[{idx}] ({part_type}): content.listening_script is required"
+            )
+        scripts = content["listening_script"]
 
         q = {
             "display_order": 1,

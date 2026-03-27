@@ -6,6 +6,21 @@ from app.db.models import Mock, MockPart, MockQuestion, MockQuestionSet, MockSec
 from app.schemas.mocks import MockCreate
 
 
+def _scripts_for_db(scripts: Any) -> Any:
+    """Pydantic ScriptTurn または dict のリストを JSON 保存用の list[dict] にする."""
+    if scripts is None:
+        return None
+    out: List[Any] = []
+    for t in scripts:
+        if hasattr(t, "model_dump"):
+            out.append(t.model_dump())
+        elif isinstance(t, dict):
+            out.append(t)
+        else:
+            out.append(dict(t))
+    return out
+
+
 def _mock_orm_to_dict(mock: Mock) -> Dict[str, Any]:
     """ORM Mock を API レスポンス用の辞書（MockCreate 同形）に変換."""
     sections = []
@@ -31,6 +46,7 @@ def _mock_orm_to_dict(mock: Mock) -> Dict[str, Any]:
                         "wrong_reason_b": q.wrong_reason_b,
                         "wrong_reason_c": q.wrong_reason_c,
                         "wrong_reason_d": q.wrong_reason_d,
+                        "scripts": q.scripts,
                     })
                 question_sets.append({
                     "display_order": qs.display_order,
@@ -128,6 +144,7 @@ def create_mock_from_payload(payload: MockCreate) -> int:
                             wrong_reason_b=q.wrong_reason_b,
                             wrong_reason_c=q.wrong_reason_c,
                             wrong_reason_d=q.wrong_reason_d,
+                            scripts=_scripts_for_db(q.scripts),
                         )
                         session.add(mq)
 

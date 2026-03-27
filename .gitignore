@@ -20,3 +20,9 @@ __pycache__/
 # テスト/仮想環境キャッシュ
 .pytest_cache/
 .venv*/
+
+# publish 用一時ディレクトリ
+.publish_tmp/
+
+# Cursor 設定 (ローカル専用)
+.cursor/
