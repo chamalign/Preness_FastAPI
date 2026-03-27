@@ -1,4 +1,0 @@
-/**
- * Stripe Checkout Session Creation
- */
-

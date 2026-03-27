@@ -1,3 +1,0 @@
-# Python dependencies for backend
-# FastAPI, SQLAlchemy, etc. will be added as needed
-

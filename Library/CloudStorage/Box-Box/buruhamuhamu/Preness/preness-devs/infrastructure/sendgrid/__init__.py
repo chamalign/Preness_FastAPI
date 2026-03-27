@@ -1,4 +1,0 @@
-"""
-SendGrid integration
-"""
-

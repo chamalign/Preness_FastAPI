@@ -1,4 +1,0 @@
-"""
-Speech synthesis service
-"""
-

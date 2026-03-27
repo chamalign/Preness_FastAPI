@@ -1,4 +1,0 @@
-"""
-Azure Speech Service integration
-"""
-

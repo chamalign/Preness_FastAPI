@@ -1,4 +1,0 @@
-"""
-Scoring and evaluation logic
-"""
-

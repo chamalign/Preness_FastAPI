@@ -1,4 +1,0 @@
-/**
- * Supabase Client (Server-side)
- */
-

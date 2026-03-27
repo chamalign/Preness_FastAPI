@@ -1,4 +1,0 @@
-"""
-Problem data schema definition
-"""
-
